@@ -6,29 +6,37 @@
 - [Awesome Web3](#awesome-web3)
   - [Awesome Lists](#awesome-lists)
   - [Sample Code](#sample-code)
-  - [Libraries](#libraries)
-    - [Development Environment](#development-environment)
+  - [Software Development](#software-development)
+    - [Development Environments](#development-environments)
     - [Protocols](#protocols)
     - [JavaScript](#javascript)
+    - [Solidity](#solidity)
+    - [Go](#go)
     - [C/C++](#cc)
+    - [Rust](#rust)
+    - [Others](#others)
   - [Open Source Projects](#open-source-projects)
   - [Tutorials](#tutorials)
   - [YouTube Channels](#youtube-channels)
+  - [Books](#books)
+  - [Platform as a service](#platform-as-a-service)
   - [Contribute](#contribute)
 
 ## Awesome Lists
 
-- [Solidity](https://github.com/bkrem/awesome-solidity)  - Curated list of awesome Solidity resources, libraries, tools and more.
+- [Solidity](https://github.com/bkrem/awesome-solidity) - Curated list of awesome Solidity resources, libraries, tools and more.
+- [Ethereum](https://github.com/bekatom/awesome-ethereum) - Awesome Ethereum & Dapps Resources.
 
 ## Sample Code
 
 - [Solidity by Example](https://solidity-by-example.org/) - Basic examples on Solidity
 
-## Libraries
+## Software Development
 
-### Development Environment
+### Development Environments
 
 - [Brownie](https://github.com/eth-brownie/brownie) - Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
+- [Ethereum Code Viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View source of deployed Ethereum smart contracts in VS Code.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
 - [Remix](https://remix.ethereum.org/) - Online IDE for Solidity development.
 
@@ -40,13 +48,35 @@
 
 ### JavaScript
 
-- [ethers.js](https://github.com/ethers-io/ethers.js/)  - Complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).
+- [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - Bitcoin library for node.js and browsers.
+- [ethers.js](https://github.com/ethers-io/ethers.js/) - Complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).
+- [ipfs-mini](https://github.com/silentcicero/ipfs-mini) - Super tiny module for querying an IPFS node, that works in the browser and in Node.
+- [js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript.
+- [Truffle](https://github.com/trufflesuite/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
 - [web3.js](https://github.com/ethereum/web3.js) - Ethereum JavaScript API which connects to the Generic JSON-RPC spec.
 - [web3-react](https://github.com/NoahZinsmeister/web3-react) - Simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps.
+
+### Solidity
+
+- [Date and Time tools](https://github.com/pipermerriam/ethereum-datetime) - Contract which implements utilities for working with datetime values in ethereum.
+- [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - The standard for secure blockchain applications.
+
+### Go
+
+- [geth](https://geth.ethereum.org) - Official Go implementation of the Ethereum protocol.
 
 ### C/C++
 
 - [Trust Wallet Core](https://github.com/trustwallet/wallet-core) - Cross-platform, mobile-focused library implementing low-level cryptographic wallet functionality for a high number of blockchains.
+
+### Rust
+
+- [OpenEthereum](https://github.com/openethereum/openethereum) - The fast, light, and robust client for the Ethereum mainnet.
+
+### Others
+
+- [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
+- [Vyper](https://github.com/vyperlang/vyper) - Contract-oriented, pythonic programming language that targets EVM.
 
 ## Open Source Projects
 
@@ -55,6 +85,8 @@
 
 ## Tutorials
 
+- [useWeb3](https://www.useweb3.xyz) - Learning platform for developers to explore and learn about Web3.
+- [CryptoZombies](https://cryptozombies.io/) - Interactive school that teaches you all things technical about blockchains.
 - The complete guide to full stack Solana development with React, Anchor, Rust, and Phantom. - [link](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 - The complete guide to full stack Ethereum development. - [link](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
 - Building a full stack NFT marketplace on Ethereum with Polygon. - [link](https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
@@ -66,6 +98,17 @@
 - [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks/playlists) - Numerous hands-on development tutorial videos on blockchain Solidity smart contracts.
 - [Nader Dabit](https://www.youtube.com/c/naderdabit/playlists) - Tutorials and live coding on dApps, NFTs, DeFi and more.
 - [Patrick Collins](https://www.youtube.com/c/PatrickCollins/playlists) - Smart contract development with Solidity.
+
+## Books
+
+- [Ethereum development with Go](https://goethereumbook.org/en/)
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+
+## Platform as a service
+
+- [Infura](https://infura.io)
+- [Moralis](https://moralis.io)
+- [QuickNode](https://www.quicknode.com)
 
 ## Contribute
 
