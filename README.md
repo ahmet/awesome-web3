@@ -126,6 +126,7 @@
 
 ## Platform as a service
 
+- [Alchemy](https://www.alchemy.com)
 - [Infura](https://infura.io)
 - [Moralis](https://moralis.io)
 - [QuickNode](https://www.quicknode.com)
