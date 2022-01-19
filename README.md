@@ -14,6 +14,7 @@
     - [Go](#go)
     - [C/C++](#cc)
     - [Rust](#rust)
+    - [Shell](#shell)
     - [Others](#others)
   - [Open Source Projects](#open-source-projects)
   - [Tutorials](#tutorials)
@@ -48,6 +49,8 @@
 
 ### JavaScript
 
+- [avalanchejs](https://github.com/ava-labs/avalanchejs) - JavaScript Library for interfacing with the Avalanche Platform.
+- [Avalanche Wallet SDK](https://github.com/ava-labs/avalanche-wallet-sdk) - Typescript library to create and manage wallets on the Avalanche network.
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - Bitcoin library for node.js and browsers.
 - [ethers.js](https://github.com/ethers-io/ethers.js/) - Complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).
 - [ipfs-mini](https://github.com/silentcicero/ipfs-mini) - Super tiny module for querying an IPFS node, that works in the browser and in Node.
@@ -63,6 +66,10 @@
 
 ### Go
 
+- [avalanchego](https://github.com/ava-labs/avalanchego) - Go implementation of an Avalanche node.
+- [avalanche-network-runner](https://github.com/ava-labs/avalanche-network-runner) - Tool to run and interact with an Avalanche network locally.
+- [ava-sim](https://github.com/ava-labs/ava-sim) - Helper tool to spin up a local instance of an Avalanche network to interact with the standard APIs or to test a custom VM.
+- [coreth](https://github.com/ava-labs/coreth) - Code and wrapper to extract Ethereum blockchain functionalities without network/consensus, for building custom blockchain services.
 - [geth](https://geth.ethereum.org) - Official Go implementation of the Ethereum protocol.
 
 ### C/C++
@@ -72,6 +79,10 @@
 ### Rust
 
 - [OpenEthereum](https://github.com/openethereum/openethereum) - The fast, light, and robust client for the Ethereum mainnet.
+
+### Shell
+
+- [avash](https://github.com/ava-labs/avash) - Avalanche shell client provides temporary stateful shell execution environment used to deploy networks locally, manage their processes, and run network tests.
 
 ### Others
 
