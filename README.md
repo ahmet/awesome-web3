@@ -99,11 +99,18 @@
 ## Tutorials
 
 - [useWeb3](https://www.useweb3.xyz) - Learning platform for developers to explore and learn about Web3.
-- [CryptoZombies](https://cryptozombies.io/) - Interactive school that teaches you all things technical about blockchains.
+- [CryptoZombies](https://cryptozombies.io) - Interactive school that teaches you all things technical about blockchains.
+- [Figment Learn](https://learn.figment.io) - Tutorials for various use cases and networks, Avalanche, Solana, Polygon and more.
+- [Buildspace](https://buildspace.so/) - Cohort based web3 development courses, learn by building projects.
 - The complete guide to full stack Solana development with React, Anchor, Rust, and Phantom. - [link](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 - The complete guide to full stack Ethereum development. - [link](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
 - Building a full stack NFT marketplace on Ethereum with Polygon. - [link](https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
 - Uploading files to IPFS from a web application. - [link](https://dev.to/dabit3/uploading-files-to-ipfs-from-a-web-application-50a)
+- Create your own NFT collection on Ethereum with Solidity. - [link](https://eda.hashnode.dev/create-your-own-nft-collection-on-ethereum)
+- Intro to dApp's: Create your dApp backend with Solidity. - [link](https://eda.hashnode.dev/intro-to-dapps-create-your-dapp-backend-withsolidity)
+- Intro to dApp's: Create your dApp frontend with React. - [link](https://eda.hashnode.dev/intro-to-dapps-create-your-dapp-frontend-withreact)
+- What is a crypto wallet & how does it work? - [link](https://eda.hashnode.dev/what-is-a-crypto-wallet-and-how-does-it-work)
+- Create your cryptocurrency token. - [link](https://eda.hashnode.dev/create-your-own-cryptocurrency-token)
 
 ## YouTube Channels
 
