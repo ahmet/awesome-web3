@@ -93,6 +93,7 @@
 ## Open Source Projects
 
 - [MetaMask](https://github.com/MetaMask/metamask-extension) - Browser extension of MetaMask crypto wallet.
+- [Rabby](https://github.com/RabbyHub/Rabby) - Browser plugin for the DeFi ecosystem that works multi-chain.
 - [Rainbow](https://github.com/rainbow-me/rainbow) - Open source Ethereum wallet.
 - [UniSwap](https://github.com/Uniswap) - Decentralized trading protocol on Ethereum.
 
