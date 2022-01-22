@@ -5,6 +5,7 @@
 
 - [Awesome Web3](#awesome-web3)
   - [Awesome Lists](#awesome-lists)
+  - [Reference](#reference)
   - [Sample Code](#sample-code)
   - [Software Development](#software-development)
     - [Development Environments](#development-environments)
@@ -15,12 +16,14 @@
     - [C/C++](#cc)
     - [Rust](#rust)
     - [Shell](#shell)
+    - [Python](#python)
+    - [VMs](#vms)
     - [Others](#others)
   - [Open Source Projects](#open-source-projects)
   - [Tutorials](#tutorials)
   - [YouTube Channels](#youtube-channels)
   - [Books](#books)
-  - [Platform as a service](#platform-as-a-service)
+  - [Platform as a Service](#platform-as-a-service)
   - [Contribute](#contribute)
 
 ## Awesome Lists
@@ -28,9 +31,15 @@
 - [Solidity](https://github.com/bkrem/awesome-solidity) - Curated list of awesome Solidity resources, libraries, tools and more.
 - [Ethereum](https://github.com/bekatom/awesome-ethereum) - Awesome Ethereum & Dapps Resources.
 
+## Reference
+
+- [BIPs](https://github.com/bitcoin/bips) - Bitcoin Improvement Proposals.
+- [EIPs](https://eips.ethereum.org/all) - Ethereum Improvement Proposals.
+- [evm.codes](https://www.evm.codes) - An interactive reference to Ethereum Virtual Machine Opcodes ([source code](https://github.com/comitylabs/evm.codes)).
+
 ## Sample Code
 
-- [Solidity by Example](https://solidity-by-example.org/) - Basic examples on Solidity
+- [Solidity by Example](https://solidity-by-example.org) - Basic examples on Solidity.
 
 ## Software Development
 
@@ -72,6 +81,7 @@
 - [ava-sim](https://github.com/ava-labs/ava-sim) - Helper tool to spin up a local instance of an Avalanche network to interact with the standard APIs or to test a custom VM.
 - [coreth](https://github.com/ava-labs/coreth) - Code and wrapper to extract Ethereum blockchain functionalities without network/consensus, for building custom blockchain services.
 - [geth](https://geth.ethereum.org) - Official Go implementation of the Ethereum protocol.
+- [subnet-cli](https://github.com/ava-labs/subnet-cli) - CLI tool to manage Avalanche Subnets.
 
 ### C/C++
 
@@ -85,6 +95,15 @@
 
 - [avash](https://github.com/ava-labs/avash) - Avalanche shell client provides temporary stateful shell execution environment used to deploy networks locally, manage their processes, and run network tests.
 
+### Python
+
+- [py-evm](https://github.com/ethereum/py-evm) - Ethereum protocol implementation in Python.
+
+### VMs
+
+- [evmone](https://github.com/ethereum/evmone) - C++ implementation of the Ethereum Virtual Machine (EVM), faster.
+- [SpacesVM](https://github.com/ava-labs/spacesvm) - SpacesVM enables authenticated, hierarchical storage of arbitrary keys/values using any EIP-712 compatible wallet.
+
 ### Others
 
 - [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
@@ -95,6 +114,7 @@
 - [MetaMask](https://github.com/MetaMask/metamask-extension) - Browser extension of MetaMask crypto wallet.
 - [Rabby](https://github.com/RabbyHub/Rabby) - Browser extension crypto wallet for the DeFi ecosystem that works multi-chain.
 - [Rainbow](https://github.com/rainbow-me/rainbow) - Open source Ethereum wallet.
+- [Remix](https://github.com/ethereum/remix-project) - Browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
 - [UniSwap](https://github.com/Uniswap) - Decentralized trading protocol on Ethereum.
 
 ## Tutorials
@@ -125,7 +145,7 @@
 - [Ethereum development with Go](https://goethereumbook.org/en)
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 
-## Platform as a service
+## Platform as a Service
 
 - [Alchemy](https://www.alchemy.com)
 - [Infura](https://infura.io)
