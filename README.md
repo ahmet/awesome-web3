@@ -25,6 +25,8 @@
   - [Tutorial](#tutorial)
   - [YouTube Channel](#youtube-channel)
   - [Book](#book)
+  - [Podcast](#podcast)
+  - [Newsletter](#newsletter)
   - [Platform as a Service](#platform-as-a-service)
   - [Other](#other)
   - [Contribute](#contribute)
@@ -169,6 +171,17 @@
 
 - [Ethereum development with Go](https://goethereumbook.org/en)
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+
+## Podcast
+
+- [Into the Ether](https://podcast.ethhub.io)
+- [Mapping Out Eth 2.0](https://www.coindesk.com/podcasts/mapping-out-eth-2-0/) - Development of Ethereum 2.0.
+- [BAT Community](https://basicattentiontoken.libsyn.com/website) - BAT, Brave and tech underneath.
+
+## Newsletter
+
+- [Week in Web3](https://linktr.ee/weekinweb3)
+- [EthHub Weekly](https://ethhub.substack.com)
 
 ## Platform as a Service
 
