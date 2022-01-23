@@ -20,6 +20,7 @@
     - [VMs](#vms)
     - [Boilerplate](#boilerplate)
     - [Testing](#testing)
+    - [Linter](#linter)
   - [Open Source Project](#open-source-project)
   - [Tutorial](#tutorial)
   - [YouTube Channel](#youtube-channel)
@@ -50,6 +51,7 @@
 
 - [Brownie](https://github.com/eth-brownie/brownie) - Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [Ethereum Code Viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View source of deployed Ethereum smart contracts in VS Code.
+- [EthFiddle](https://ethfiddle.com) - Web-based IDE that lets you write, compile, and debug your smart contract.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
 - [Remix](https://remix.ethereum.org/) - Online IDE for Solidity development.
 
@@ -83,6 +85,7 @@
 - [avalanchego](https://github.com/ava-labs/avalanchego) - Go implementation of an Avalanche node.
 - [avalanche-network-runner](https://github.com/ava-labs/avalanche-network-runner) - Tool to run and interact with an Avalanche network locally.
 - [ava-sim](https://github.com/ava-labs/ava-sim) - Helper tool to spin up a local instance of an Avalanche network to interact with the standard APIs or to test a custom VM.
+- [ethereum-hdwallet](https://github.com/miguelmota/go-ethereum-hdwallet) - Ethereum HD Wallet derivations from seed which implements the go-ethereum's accounts.Wallet interface.
 - [coreth](https://github.com/ava-labs/coreth) - Code and wrapper to extract Ethereum blockchain functionalities without network/consensus, for building custom blockchain services.
 - [geth](https://geth.ethereum.org) - Official Go implementation of the Ethereum protocol.
 - [subnet-cli](https://github.com/ava-labs/subnet-cli) - CLI tool to manage Avalanche Subnets.
@@ -116,9 +119,14 @@
 
 ### Testing
 
+- [mock-contract](https://github.com/gnosis/mock-contract) - Simple Solidity contract to mock dependent contracts in truffle tests.
 - [openzeppelin-test-helpers](https://github.com/OpenZeppelin/openzeppelin-test-helpers) - Assertion library for Ethereum smart contract testing that you can use with hardhat.
 - [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage for Solidity smart-contracts.
 - [Waffle](https://github.com/EthWorks/Waffle) - Library for writing and testing smart contracts.
+
+### Linter
+
+- [solhint](https://github.com/protofire/solhint) - Solidity linter providing Security and Style Guide validations.
 
 ## Open Source Project
 
@@ -143,6 +151,9 @@
 - Intro to dApp's: Create your dApp frontend with React. - [link](https://eda.hashnode.dev/intro-to-dapps-create-your-dapp-frontend-withreact)
 - What is a crypto wallet & how does it work? - [link](https://eda.hashnode.dev/what-is-a-crypto-wallet-and-how-does-it-work)
 - Create your cryptocurrency token. - [link](https://eda.hashnode.dev/create-your-own-cryptocurrency-token)
+- Solidity and Truffle CI setup. - [link](https://ethereum.org/en/developers/tutorials/solidity-and-truffle-continuous-integration-setup)
+- How to use Slither to find smart contract bugs. - [link](https://ethereum.org/en/developers/tutorials/how-to-use-slither-to-find-smart-contract-bugs)
+- How to mock Solidity smart contracts for testing. - [link](https://ethereum.org/en/developers/tutorials/how-to-mock-solidity-contracts-for-testing)
 
 ## YouTube Channel
 
