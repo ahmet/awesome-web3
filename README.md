@@ -20,7 +20,7 @@
     - [VMs](#vms)
     - [Boilerplate](#boilerplate)
     - [Testing](#testing)
-    - [Linter](#linter)
+    - [Code Quality](#code-quality)
   - [Open Source Project](#open-source-project)
   - [Tutorial](#tutorial)
   - [YouTube Channel](#youtube-channel)
@@ -124,8 +124,9 @@
 - [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage for Solidity smart-contracts.
 - [Waffle](https://github.com/EthWorks/Waffle) - Library for writing and testing smart contracts.
 
-### Linter
+### Code Quality
 
+- [Slither](https://github.com/crytic/slither) - Solidity static analysis framework, a suite of vulnerability detectors, prints visual information about contract details etc.
 - [solhint](https://github.com/protofire/solhint) - Solidity linter providing Security and Style Guide validations.
 
 ## Open Source Project
