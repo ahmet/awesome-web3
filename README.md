@@ -4,12 +4,12 @@
 <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
 
 - [Awesome Web3](#awesome-web3)
-  - [Awesome Lists](#awesome-lists)
+  - [Awesome List](#awesome-list)
   - [Reference](#reference)
-  - [Sample Code](#sample-code)
   - [Software Development](#software-development)
-    - [Development Environments](#development-environments)
-    - [Protocols](#protocols)
+    - [Sample Code](#sample-code)
+    - [Development Environment](#development-environment)
+    - [Protocol](#protocol)
     - [JavaScript](#javascript)
     - [Solidity](#solidity)
     - [Go](#go)
@@ -18,15 +18,16 @@
     - [Shell](#shell)
     - [Python](#python)
     - [VMs](#vms)
-    - [Others](#others)
-  - [Open Source Projects](#open-source-projects)
-  - [Tutorials](#tutorials)
-  - [YouTube Channels](#youtube-channels)
-  - [Books](#books)
+    - [Boilerplate](#boilerplate)
+  - [Open Source Project](#open-source-project)
+  - [Tutorial](#tutorial)
+  - [YouTube Channel](#youtube-channel)
+  - [Book](#book)
   - [Platform as a Service](#platform-as-a-service)
+  - [Other](#other)
   - [Contribute](#contribute)
 
-## Awesome Lists
+## Awesome List
 
 - [Solidity](https://github.com/bkrem/awesome-solidity) - Curated list of awesome Solidity resources, libraries, tools and more.
 - [Ethereum](https://github.com/bekatom/awesome-ethereum) - Awesome Ethereum & Dapps Resources.
@@ -36,21 +37,22 @@
 - [BIPs](https://github.com/bitcoin/bips) - Bitcoin Improvement Proposals.
 - [EIPs](https://eips.ethereum.org/all) - Ethereum Improvement Proposals.
 - [evm.codes](https://www.evm.codes) - An interactive reference to Ethereum Virtual Machine Opcodes ([source code](https://github.com/comitylabs/evm.codes)).
-
-## Sample Code
-
-- [Solidity by Example](https://solidity-by-example.org) - Basic examples on Solidity.
+- [Solidity](https://docs.soliditylang.org) - Solidity is an object-oriented, high-level language for implementing smart contracts.
 
 ## Software Development
 
-### Development Environments
+### Sample Code
+
+- [Solidity by Example](https://solidity-by-example.org) - Basic examples on Solidity.
+
+### Development Environment
 
 - [Brownie](https://github.com/eth-brownie/brownie) - Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [Ethereum Code Viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View source of deployed Ethereum smart contracts in VS Code.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
 - [Remix](https://remix.ethereum.org/) - Online IDE for Solidity development.
 
-### Protocols
+### Protocol
 
 - [WalletConnect](https://github.com/WalletConnect) - Open protocol connecting wallets to Dapps.
 - [WalletLink](https://github.com/walletlink/walletlink) - Open protocol that lets users connect their mobile wallets to your DApp.
@@ -98,18 +100,19 @@
 ### Python
 
 - [py-evm](https://github.com/ethereum/py-evm) - Ethereum protocol implementation in Python.
+- [Vyper](https://github.com/vyperlang/vyper) - Contract-oriented, pythonic programming language that targets EVM.
 
 ### VMs
 
 - [evmone](https://github.com/ethereum/evmone) - C++ implementation of the Ethereum Virtual Machine (EVM), faster.
 - [SpacesVM](https://github.com/ava-labs/spacesvm) - SpacesVM enables authenticated, hierarchical storage of arbitrary keys/values using any EIP-712 compatible wallet.
 
-### Others
+### Boilerplate
 
-- [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
-- [Vyper](https://github.com/vyperlang/vyper) - Contract-oriented, pythonic programming language that targets EVM.
+- [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - Ethereum dev stack focused on fast product iterations.
+- [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered apps with one command, similar to create-react-app.
 
-## Open Source Projects
+## Open Source Project
 
 - [MetaMask](https://github.com/MetaMask/metamask-extension) - Browser extension of MetaMask crypto wallet.
 - [Rabby](https://github.com/RabbyHub/Rabby) - Browser extension crypto wallet for the DeFi ecosystem that works multi-chain.
@@ -117,7 +120,7 @@
 - [Remix](https://github.com/ethereum/remix-project) - Browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
 - [UniSwap](https://github.com/Uniswap) - Decentralized trading protocol on Ethereum.
 
-## Tutorials
+## Tutorial
 
 - [useWeb3](https://www.useweb3.xyz) - Learning platform for developers to explore and learn about Web3.
 - [CryptoZombies](https://cryptozombies.io) - Interactive school that teaches you all things technical about blockchains.
@@ -133,14 +136,14 @@
 - What is a crypto wallet & how does it work? - [link](https://eda.hashnode.dev/what-is-a-crypto-wallet-and-how-does-it-work)
 - Create your cryptocurrency token. - [link](https://eda.hashnode.dev/create-your-own-cryptocurrency-token)
 
-## YouTube Channels
+## YouTube Channel
 
 - [Chainlink](https://www.youtube.com/c/chainlink/playlists) - Videos about blockchain basics, oracles, Free Code Camp and more.
 - [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks/playlists) - Numerous hands-on development tutorial videos on blockchain Solidity smart contracts.
 - [Nader Dabit](https://www.youtube.com/c/naderdabit/playlists) - Tutorials and live coding on dApps, NFTs, DeFi and more.
 - [Patrick Collins](https://www.youtube.com/c/PatrickCollins/playlists) - Smart contract development with Solidity.
 
-## Books
+## Book
 
 - [Ethereum development with Go](https://goethereumbook.org/en)
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
@@ -151,6 +154,10 @@
 - [Infura](https://infura.io)
 - [Moralis](https://moralis.io)
 - [QuickNode](https://www.quicknode.com)
+
+## Other
+
+- [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
 
 ## Contribute
 
