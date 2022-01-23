@@ -19,6 +19,7 @@
     - [Python](#python)
     - [VMs](#vms)
     - [Boilerplate](#boilerplate)
+    - [Testing](#testing)
   - [Open Source Project](#open-source-project)
   - [Tutorial](#tutorial)
   - [YouTube Channel](#youtube-channel)
@@ -112,6 +113,12 @@
 
 - [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - Ethereum dev stack focused on fast product iterations.
 - [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered apps with one command, similar to create-react-app.
+
+### Testing
+
+- [openzeppelin-test-helpers](https://github.com/OpenZeppelin/openzeppelin-test-helpers) - Assertion library for Ethereum smart contract testing that you can use with hardhat.
+- [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage for Solidity smart-contracts.
+- [Waffle](https://github.com/EthWorks/Waffle) - Library for writing and testing smart contracts.
 
 ## Open Source Project
 
