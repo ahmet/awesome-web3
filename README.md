@@ -38,6 +38,7 @@
 
 - [BIPs](https://github.com/bitcoin/bips) - Bitcoin Improvement Proposals.
 - [EIPs](https://eips.ethereum.org/all) - Ethereum Improvement Proposals.
+- [EVM Illustrated](https://github.com/takenobu-hs/ethereum-evm-illustrated/blob/master/ethereum_evm_illustrated.pdf) - Illustrated explanation of how EVM works under the hood.
 - [evm.codes](https://www.evm.codes) - An interactive reference to Ethereum Virtual Machine Opcodes ([source code](https://github.com/comitylabs/evm.codes)).
 - [Solidity](https://docs.soliditylang.org) - Solidity is an object-oriented, high-level language for implementing smart contracts.
 
