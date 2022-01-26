@@ -40,6 +40,7 @@
 
 - [BIPs](https://github.com/bitcoin/bips) - Bitcoin Improvement Proposals.
 - [EIPs](https://eips.ethereum.org/all) - Ethereum Improvement Proposals.
+- [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper) - Formal definition of the Ethereum protocol.
 - [EVM Illustrated](https://github.com/takenobu-hs/ethereum-evm-illustrated/blob/master/ethereum_evm_illustrated.pdf) - Illustrated explanation of how EVM works under the hood.
 - [EVM Opcodes](https://www.ethervm.io) - Low level reference for the EVM and a Solidity decompiler which turns bytecode into more readable Solidity-like code.
 - [evm.codes](https://www.evm.codes) - An interactive reference to Ethereum Virtual Machine Opcodes ([source code](https://github.com/comitylabs/evm.codes)).
@@ -159,6 +160,7 @@
 - Solidity and Truffle CI setup. - [link](https://ethereum.org/en/developers/tutorials/solidity-and-truffle-continuous-integration-setup)
 - How to use Slither to find smart contract bugs. - [link](https://ethereum.org/en/developers/tutorials/how-to-use-slither-to-find-smart-contract-bugs)
 - How to mock Solidity smart contracts for testing. - [link](https://ethereum.org/en/developers/tutorials/how-to-mock-solidity-contracts-for-testing)
+- Building EVM from scratch. - [link](https://karmacoma.notion.site/Building-an-EVM-from-scratch-part-1-c28ebb4200c94f6fb75948a5feffc686) [source code](https://github.com/karmacoma-eth/yolo-evm/tree/evm-from-scratch-pt1)
 
 ## YouTube Channel
 
