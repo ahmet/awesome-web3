@@ -191,6 +191,7 @@
 - [Infura](https://infura.io)
 - [Moralis](https://moralis.io)
 - [QuickNode](https://www.quicknode.com)
+- [Thirdweb](https://thirdweb.com)
 
 ## Other
 
