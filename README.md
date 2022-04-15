@@ -192,6 +192,7 @@
 - [Moralis](https://moralis.io)
 - [QuickNode](https://www.quicknode.com)
 - [Thirdweb](https://thirdweb.com)
+- [Meson Network](https://meson.network)
 
 ## Other
 
