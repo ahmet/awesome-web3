@@ -136,6 +136,7 @@
 
 ## Open Source Project
 
+- [Blockscout](https://github.com/blockscout/blockscout) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 - [MetaMask](https://github.com/MetaMask/metamask-extension) - Browser extension of MetaMask crypto wallet.
 - [Rabby](https://github.com/RabbyHub/Rabby) - Browser extension crypto wallet for the DeFi ecosystem that works multi-chain.
 - [Rainbow](https://github.com/rainbow-me/rainbow) - Open source Ethereum wallet.
