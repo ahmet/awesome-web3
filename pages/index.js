@@ -47,7 +47,7 @@ export default function Home({ content }) {
           </a>
         </Link>
       </div>
-      <main className="flex flex-row justify-center my-12">
+      <main className="mx-4 my-12 lg:mx-0 flex flex-row justify-center">
         <article className='prose prose-a:text-blue-700 prose-a:no-underline hover:prose-a:underline prose-a:text-nowrap prose-a:font-mono prose-headings:text-gray prose-headings:my-0 prose-h2:mb-2 prose-h1:text-center prose-li:my-0'>
           {renderHTML(content)}
         </article>
