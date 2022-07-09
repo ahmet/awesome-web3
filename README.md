@@ -1,7 +1,7 @@
 # Awesome Web3
 
 <p align="center">A curated list of awesome Web3 resources, libraries, tools and more.</p>
-<p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
+<p align="center">Please check the <a href="https://github.com/ahmet/awesome-web3/blob/main/CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
 
 - [Awesome Web3](#awesome-web3)
   - [Awesome List](#awesome-list)
@@ -207,4 +207,4 @@
 
 ## Contribute
 
-Contributions are welcomed! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are welcomed! Please read the [contribution guidelines](https://github.com/ahmet/awesome-web3/blob/main/CONTRIBUTING.md) first.
