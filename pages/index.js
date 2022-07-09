@@ -17,8 +17,21 @@ export default function Home({ content }) {
     <>
       <Head>
         <title>Awesome Web3 - Curated list of Web3 resources, libraries, tools and more</title>
+        <meta name="title" content="Awesome Web3 - Curated list of Web3 resources, libraries, tools and more" />
         <meta name="description" content="Curated list of Web3 resources, libraries, tools and more." />
         <link rel="icon" href="/favicon.ico" />
+        <meta property="og:title" content="Awesome Web3" />
+        <meta property="og:site_name" content="Awesome Web3" />
+        <meta property="og:url" content="https://awesome-web3.com" />
+        <meta property="og:description" content="A curated list of awesome Web3 resources: videos, tutorials, books, libraries, tools, boilerplates, and more." />
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="https://awesome-web3.com/opengraph_cover.png" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@weekInWeb3" />
+        <meta name="twitter:creator" content="@ahmetaygun" />
+        <meta name="twitter:title" content="Awesome Web3" />
+        <meta name="twitter:description" content="Curated list of Web3 resources, libraries, tools and more." />
+        <meta name="twitter:image" content="https://awesome-web3.com/opengraph_cover.png" />
       </Head>
 
       <div className='absolute top-0 right-0'>
