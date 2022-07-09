@@ -26,7 +26,7 @@ export default function Home({ content }) {
         <meta property="og:description" content="Curated list of Web3 resources: videos, tutorials, books, libraries, tools, boilerplates, and more." />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="https://awesome-web3.com/opengraph_cover.png" />
-        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:creator" content="@ahmetaygun" />
         <meta name="twitter:title" content="Awesome Web3" />
         <meta name="twitter:description" content="Curated list of Web3 resources: videos, tutorials, books, libraries, tools, boilerplates, and more." />
