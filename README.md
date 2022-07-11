@@ -67,7 +67,7 @@
 
 ### Protocol
 
-- [WalletConnect](https://github.com/WalletConnect) - Open protocol connecting wallets to Dapps.
+- [RainbowKit](https://www.rainbowkit.com/) - Open protocol connecting wallets to Dapps.
 - [WalletLink](https://github.com/walletlink/walletlink) - Open protocol that lets users connect their mobile wallets to your DApp.
 - [IPFS](https://ipfs.io) - Distributed system for storing and accessing files, websites, applications, and data.
 
