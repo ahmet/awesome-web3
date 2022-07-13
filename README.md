@@ -23,6 +23,7 @@
     - [Boilerplate](#boilerplate)
     - [Testing](#testing)
     - [Code Quality](#code-quality)
+    - [Database](#database)
   - [Open Source Project](#open-source-project)
   - [Tutorial](#tutorial)
   - [YouTube Channel](#youtube-channel)
@@ -144,6 +145,11 @@
 
 - [Slither](https://github.com/crytic/slither) - Solidity static analysis framework, a suite of vulnerability detectors, prints visual information about contract details etc.
 - [solhint](https://github.com/protofire/solhint) - Solidity linter providing Security and Style Guide validations.
+
+### Database
+
+- [Gun](https://github.com/amark/gun) - Small, easy, and fast protocol for syncing data.
+- [OrbitDB](https://github.com/orbitdb/orbit-db) - Serverless, distributed, peer-to-peer database.
 
 ## Open Source Project
 
