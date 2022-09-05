@@ -213,6 +213,7 @@
 - [QuickNode](https://www.quicknode.com)
 - [Thirdweb](https://thirdweb.com)
 - [Meson Network](https://meson.network)
+- [Chainstack](https://chainstack.com/)
 
 ## Other
 
