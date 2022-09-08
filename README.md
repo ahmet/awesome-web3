@@ -183,6 +183,7 @@
 - Building EVM from scratch. - [link](https://karmacoma.notion.site/Building-an-EVM-from-scratch-part-1-c28ebb4200c94f6fb75948a5feffc686) [source code](https://github.com/karmacoma-eth/yolo-evm/tree/evm-from-scratch-pt1)
 - [LearnWeb3 DAO](https://learnweb3.io/) - Free program that teach you how to become Web3 Developer.
 - [Questbook](https://openquest.xyz/) - Decentralized University where you can choose a track based on your requirements to become a Web3 Developer.
+- [Cadena](https://cadena.dev/) - Cadena is a free plaform where you can learn by coding smart contracts, NFTs, tokens and more.
 
 ## YouTube Channel
 
