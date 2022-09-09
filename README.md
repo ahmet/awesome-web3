@@ -191,6 +191,7 @@
 - [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks/playlists) - Numerous hands-on development tutorial videos on blockchain Solidity smart contracts.
 - [Nader Dabit](https://www.youtube.com/c/naderdabit/playlists) - Tutorials and live coding on dApps, NFTs, DeFi and more.
 - [Patrick Collins](https://www.youtube.com/c/PatrickCollins/playlists) - Smart contract development with Solidity.
+- [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/playlists) - Free education about smart contracts on open decentralized blockchains.
 
 ## Book
 
