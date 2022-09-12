@@ -192,6 +192,7 @@
 - [Nader Dabit](https://www.youtube.com/c/naderdabit/playlists) - Tutorials and live coding on dApps, NFTs, DeFi and more.
 - [Patrick Collins](https://www.youtube.com/c/PatrickCollins/playlists) - Smart contract development with Solidity.
 - [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/playlists) - Free education about smart contracts on open decentralized blockchains.
+- [Dapp University](https://youtube.com/c/DappUniversity) - Learn to build decentralized apps on Ethereum Blockchain and smart contracts hacking tutorials.
 
 ## Book
 
