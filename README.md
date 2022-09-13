@@ -193,6 +193,7 @@
 - [Patrick Collins](https://www.youtube.com/c/PatrickCollins/playlists) - Smart contract development with Solidity.
 - [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/playlists) - Free education about smart contracts on open decentralized blockchains.
 - [Dapp University](https://youtube.com/c/DappUniversity) - Learn to build decentralized apps on Ethereum Blockchain and smart contracts hacking tutorials.
+- [Alchemy](https://youtube.com/c/AlchemyPlatform) - Tutorials and coding on dApps, NFTs, NFT's marketplaces, and other topics.
 
 ## Book
 
