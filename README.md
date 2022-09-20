@@ -195,6 +195,7 @@
 - [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/playlists) - Free education about smart contracts on open decentralized blockchains.
 - [Dapp University](https://youtube.com/c/DappUniversity) - Learn to build decentralized apps on Ethereum Blockchain and smart contracts hacking tutorials.
 - [Alchemy](https://youtube.com/c/AlchemyPlatform) - Tutorials and coding on dApps, NFTs, NFT's marketplaces, and other topics.
+- [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA/playlists) - Learn everything about how to build on Ethereum.
 
 ## Book
 
