@@ -196,6 +196,7 @@
 - [Dapp University](https://youtube.com/c/DappUniversity) - Learn to build decentralized apps on Ethereum Blockchain and smart contracts hacking tutorials.
 - [Alchemy](https://youtube.com/c/AlchemyPlatform) - Tutorials and coding on dApps, NFTs, NFT's marketplaces, and other topics.
 - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA/playlists) - Learn everything about how to build on Ethereum.
+- [Moralis Web3](https://www.youtube.com/c/MoralisWeb3/playlists) - Tutorials and Learn how to build dApps with Moralis web3 APIs.
 
 ## Book
 
