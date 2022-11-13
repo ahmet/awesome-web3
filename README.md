@@ -186,6 +186,7 @@
 - [Questbook](https://openquest.xyz/) - Decentralized University where you can choose a track based on your requirements to become a Web3 Developer.
 - [Cadena](https://cadena.dev/) - Cadena is a free plaform where you can learn by coding smart contracts, NFTs, tokens and more.
 - Building Full Stack Permanent Applications with Arweave, Smartweave and Next.js. - [link](https://dev.to/dabit3/building-full-stack-applications-with-arweave-and-nextjs-28hg)
+- Building and Testing Smart Contracts with Foundry by Paradigm. - [link](https://dev.to/dabit3/building-smart-contracts-with-foundry-by-paradigm-2gfm)
 
 ## YouTube Channel
 
