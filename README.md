@@ -190,6 +190,7 @@
 - Building a Full Stack Web3 YouTube Clone with Next, IPFS, The Graph, Solidity, and Livepeer. - [link](https://blog.suhailkakar.com/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-livepeer)
 - [Figment Learn](https://learn.figment.io/) - Free learning platform teach you how to use protocol by building Projects.
 - [ODYSSEY](https://www.odysseydao.com/) - Odyssey is great platform to understand blochchain, NFTs, web3 concepts, Defi, Dao and more.
+- [Bankless Academy](https://app.banklessacademy.com/) - Bankless Academy is on a mission to ensure every web3 Explorer is ready for their crypto-verse voyage.
 
 ## YouTube Channel
 
