@@ -38,6 +38,7 @@
 
 - [Solidity](https://github.com/bkrem/awesome-solidity) - Curated list of awesome Solidity resources, libraries, tools and more.
 - [Ethereum](https://github.com/bekatom/awesome-ethereum) - Awesome Ethereum & Dapps Resources.
+- [Thirdweb](https://github.com/warengonzaga/awesome-thirdweb) - Curated list of awesome thirdweb resources, libraries, examples, showcase, and open source projects.
 
 ## Reference
 
@@ -204,6 +205,7 @@
 - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA/playlists) - Learn everything about how to build on Ethereum.
 - [Moralis Web3](https://www.youtube.com/c/MoralisWeb3/playlists) - Tutorials and Learn how to build dApps with Moralis web3 APIs.
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/featured) - Tutorials about smart contract development, crypto, DeFi, tokens, NFTs, Ethereum.
+- [Thirdweb](https://youtube.com/@thirdweb_) - Tutorials about full stack web3 development.
 
 ## Book
 
