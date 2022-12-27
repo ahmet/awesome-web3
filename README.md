@@ -59,6 +59,7 @@
 ### Sample Code
 
 - [Solidity by Example](https://solidity-by-example.org) - Basic examples on Solidity.
+- [Web3 by Example](https://www.web3byexample.com/) - Basic examples on Ethers with JavaScript
 
 ### Development Environment
 
