@@ -8,6 +8,7 @@
   - [Reference](#reference)
   - [Software Development](#software-development)
     - [Developer Roadmap](#developer-roadmap)
+    - [Communities](#communities)
     - [Sample Code](#sample-code)
     - [Development Environment](#development-environment)
     - [Protocol](#protocol)
@@ -55,6 +56,13 @@
 ### Developer Roadmap
 
 - [DeFi Developer](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - Curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
+
+### Communities
+
+- [BuidlGuidl](https://buidlguidl.com/) - Curated group of Ethereum builders creating products, prototypes, and tutorials to enrich the web3 ecosystem
+- [DeveloperDAO](https://www.developerdao.com/) - Community of thousands of web3 builders creating a better internet
+- [WomenBuildlWeb3](https://www.womenbuildweb3.com/) - Global collective of women and non-binary developers learning and building in web3
+- [WebtrES](https://www.webtres.club/) - Global Spanish-speaking community learning and building in web3
 
 ### Sample Code
 
@@ -138,6 +146,7 @@
 - [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - Ethereum dev stack focused on fast product iterations.
 - [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered apps with one command, similar to create-react-app.
 - [next-web3-boilerplate](https://github.com/SoxZz5/next-web3-boilerplate) - Boilerplate in TypeScript using Next.js, NextAuth.js, siwe, Web3modal, useDapp, next-i18next, reactMUI.
+- [useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development.
 
 ### Testing
 
@@ -193,6 +202,9 @@
 - [Figment Learn](https://learn.figment.io/) - Free learning platform teach you how to use protocol by building Projects.
 - [ODYSSEY](https://www.odysseydao.com/) - Odyssey is great platform to understand blochchain, NFTs, web3 concepts, Defi, Dao and more.
 - [Bankless Academy](https://app.banklessacademy.com/) - Bankless Academy is on a mission to ensure every web3 Explorer is ready for their crypto-verse voyage.
+- [Speed Run Ethereum](https://speedrunethereum.com/) - Learn how to build on Ethereum; the superpowers and the gotchas.
+- [Node Guardians](https://nodeguardians.io/) - Learn about blockchain and programming as you navigate through a medieval game.
+- [Solidity by example](https://solidity-by-example.org) - Introduction to Solidity with simple examples.
 
 ## YouTube Channel
 
@@ -207,6 +219,8 @@
 - [Moralis Web3](https://www.youtube.com/c/MoralisWeb3/playlists) - Tutorials and Learn how to build dApps with Moralis web3 APIs.
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/featured) - Tutorials about smart contract development, crypto, DeFi, tokens, NFTs, Ethereum.
 - [Thirdweb](https://youtube.com/@thirdweb_) - Tutorials about full stack web3 development.
+- [Delphi Media](https://www.youtube.com/@MediaDelphi) - Tapping the brains of leaders across all verticals in the digital asset industry.
+- [Bankless Shows](https://www.youtube.com/@Bankless) - The ultimate guide to crypto finance.
 
 ## Book
 
@@ -218,11 +232,16 @@
 - [Into the Ether](https://podcast.ethhub.io)
 - [Mapping Out Eth 2.0](https://www.coindesk.com/podcasts/mapping-out-eth-2-0/) - Development of Ethereum 2.0.
 - [BAT Community](https://basicattentiontoken.libsyn.com/website) - BAT, Brave and tech underneath.
+- [Delphi Media](https://open.spotify.com/show/62PR1RigLG2YN5Pelq6UY9?si=MvCsyROjRkehh8bnnlKlLg) - Bi-weekly episodes on investing in the digital asset industry.
+- [On The Brink with Castle Island](https://open.spotify.com/show/47aw3C5brBfL8pCIw8LrQL) - Explore the political, ethical, and economic significance of Bitcoin and other public blockchains and talk to some of the leading experts in the industry.
 
 ## Newsletter
 
 - [Week in Web3](https://linktr.ee/weekinweb3)
 - [EthHub Weekly](https://ethhub.substack.com)
+- [Week in Ethereum Newsletter](https://weekinethereumnews.com/) - Weekly updates from the Ethereum ecosystem.
+- [Developer DAO Newsletter](https://developerdao.substack.com/) - Articles from Developer DAO directly inside your inbox.
+- [BuidlGuidl Newsletter](https://buildguidl.substack.com/) - A newsletter about Ethereum builders creating products, prototypes, and tutorials.
 
 ## Platform as a Service
 
