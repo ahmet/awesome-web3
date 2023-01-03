@@ -76,6 +76,7 @@
 - [EthFiddle](https://ethfiddle.com) - Web-based IDE that lets you write, compile, and debug your smart contract.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
 - [Remix](https://remix.ethereum.org/) - Online IDE for Solidity development.
+- [Foundry](https://book.getfoundry.sh/) - Foundry is blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 
 ### Protocol
 
