@@ -83,6 +83,7 @@
 - [WalletConnect](https://github.com/WalletConnect) - Open protocol connecting wallets to Dapps.
 - [WalletLink](https://github.com/walletlink/walletlink) - Open protocol that lets users connect their mobile wallets to your DApp.
 - [IPFS](https://ipfs.io) - Distributed system for storing and accessing files, websites, applications, and data.
+- [Lens Protocol](https://www.lens.xyz/) - Lens Protocol is composable and decentralized social graph, ready for you to build on so you can focus on creating a great experience, not scaling your users.
 
 ### JavaScript
 
