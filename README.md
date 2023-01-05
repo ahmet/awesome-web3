@@ -232,7 +232,6 @@
 
 ## Podcast
 
-- [Into the Ether](https://podcast.ethhub.io)
 - [Mapping Out Eth 2.0](https://www.coindesk.com/podcasts/mapping-out-eth-2-0/) - Development of Ethereum 2.0.
 - [BAT Community](https://basicattentiontoken.libsyn.com/website) - BAT, Brave and tech underneath.
 - [Delphi Media](https://open.spotify.com/show/62PR1RigLG2YN5Pelq6UY9?si=MvCsyROjRkehh8bnnlKlLg) - Bi-weekly episodes on investing in the digital asset industry.
