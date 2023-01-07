@@ -209,6 +209,7 @@
 - [Speed Run Ethereum](https://speedrunethereum.com/) - Learn how to build on Ethereum; the superpowers and the gotchas.
 - [Node Guardians](https://nodeguardians.io/) - Learn about blockchain and programming as you navigate through a medieval game.
 - [Solidity by example](https://solidity-by-example.org) - Introduction to Solidity with simple examples.
+- [Alchemy University](https://university.alchemy.com/) - Alchemy University is the ultimate ecosystem for learning how to build and interact with web3.
 
 ## YouTube Channel
 
