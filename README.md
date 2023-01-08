@@ -177,6 +177,7 @@
 - [Rainbow](https://github.com/rainbow-me/rainbow) - Open source Ethereum wallet.
 - [Remix](https://github.com/ethereum/remix-project) - Browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
 - [UniSwap](https://github.com/Uniswap) - Decentralized trading protocol on Ethereum.
+- [Chainlink](https://github.com/smartcontractkit/chainlink) - Chainlink enhances the possibilities of smart contracts by allowing them to access real-world data.
 
 ## Tutorial
 
