@@ -211,6 +211,7 @@
 - [Node Guardians](https://nodeguardians.io/) - Learn about blockchain and programming as you navigate through a medieval game.
 - [Solidity by example](https://solidity-by-example.org) - Introduction to Solidity with simple examples.
 - [Alchemy University](https://university.alchemy.com/) - Alchemy University is the ultimate ecosystem for learning how to build and interact with web3.
+- [DApp World](https://dapp-world.com/) - DApp World is one-stop platform for blockchain developers that offers tutorials, quizzes, and other features.
 
 ## YouTube Channel
 
