@@ -2281,10 +2281,10 @@ rehype-autolink-headings@^6.1.1:
     unified "^10.0.0"
     unist-util-visit "^4.0.0"
 
-rehype-external-links@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/rehype-external-links/-/rehype-external-links-1.0.1.tgz#9e5d21c606b04d8098012e2d3c811919762d0ba2"
-  integrity sha512-SrMMtIO2tPLWDfvibhECAn9cuEMW6Fi40ZVK2UQSPTnDEv3LraLzGVyKGb/vrDlUy4RCYTcmm0rq/ss9nPqrsw==
+rehype-external-links@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/rehype-external-links/-/rehype-external-links-2.0.1.tgz#fe54f9f227a1a2f8f6afe442ac4c9ee748f08756"
+  integrity sha512-u2dNypma+ps12SJWlS23zvbqwNx0Hl24t0YHXSM/6FCZj/pqWETCO3WyyrvALv4JYvRtuPjhiv2Lpen15ESqbA==
   dependencies:
     "@types/hast" "^2.0.0"
     extend "^3.0.0"
