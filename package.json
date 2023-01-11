@@ -14,7 +14,7 @@
     "react-dom": "18.2.0",
     "react-render-html": "^0.6.0",
     "rehype-autolink-headings": "^6.1.1",
-    "rehype-external-links": "^1.0.1",
+    "rehype-external-links": "^2.0.1",
     "rehype-raw": "^6.1.1",
     "rehype-slug": "^5.0.1",
     "rehype-stringify": "^9.0.3",
