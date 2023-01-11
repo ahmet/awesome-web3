@@ -228,6 +228,7 @@
 - [Thirdweb](https://youtube.com/@thirdweb_) - Tutorials about full stack web3 development.
 - [Delphi Media](https://www.youtube.com/@MediaDelphi) - Tapping the brains of leaders across all verticals in the digital asset industry.
 - [Bankless Shows](https://www.youtube.com/@Bankless) - The ultimate guide to crypto finance.
+- [HashLips NFT](https://www.youtube.com/@HashLipsNFT/featured) - Web3 Focused and has content on Blockchain development, and other topics.
 
 ## Book
 
