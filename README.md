@@ -263,6 +263,7 @@
 ## Other
 
 - [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
+- [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
 
 ## Contribute
 
