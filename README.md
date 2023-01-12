@@ -169,7 +169,7 @@
 
 - [Gun](https://github.com/amark/gun) - Small, easy, and fast protocol for syncing data.
 - [OrbitDB](https://github.com/orbitdb/orbit-db) - Serverless, distributed, peer-to-peer database.
-- [DB3](https://github.com/dbpunk-labs/db3)- DB3 is a community-driven layer2 decentralized database network, a firebase firestore alternative.
+- [DB3](https://github.com/dbpunk-labs/db3) - DB3 is a community-driven layer2 decentralized database network, a firebase firestore alternative.
 
 ## Open Source Project
 
