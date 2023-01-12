@@ -101,7 +101,7 @@
 - [wagmi](https://github.com/tmm/wagmi) - React hooks library for Ethereum.
 - [web3.js](https://github.com/ethereum/web3.js) - Ethereum JavaScript API which connects to the Generic JSON-RPC spec.
 - [web3-react](https://github.com/NoahZinsmeister/web3-react) - Simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps.
-- [db3.js](https://github.com/dbpunk-labs/db3.js) - db3.js is the db3 network javascript API and you can use it to write and query JSON documents against the db3 network
+- [db3.js](https://github.com/dbpunk-labs/db3.js) - DB3.js is the db3 network javascript API and you can use it to write and query JSON documents against the db3 network
 
 ### Solidity
 
