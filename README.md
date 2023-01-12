@@ -101,7 +101,7 @@
 - [wagmi](https://github.com/tmm/wagmi) - React hooks library for Ethereum.
 - [web3.js](https://github.com/ethereum/web3.js) - Ethereum JavaScript API which connects to the Generic JSON-RPC spec.
 - [web3-react](https://github.com/NoahZinsmeister/web3-react) - Simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps.
-- [db3.js](https://github.com/dbpunk-labs/db3.js) - DB3.js is the db3 network javascript API and you can use it to write and query JSON documents against the db3 network
+- [db3.js](https://github.com/dbpunk-labs/db3.js) - DB3.js is SDK of DB3 network, a community-driven layer2 decentralized database network.
 
 ### Solidity
 
@@ -169,7 +169,7 @@
 
 - [Gun](https://github.com/amark/gun) - Small, easy, and fast protocol for syncing data.
 - [OrbitDB](https://github.com/orbitdb/orbit-db) - Serverless, distributed, peer-to-peer database.
-- [DB3 Network](https://github.com/dbpunk-labs/db3)- Decentralized Firebase Firestore Alternative
+- [DB3](https://github.com/dbpunk-labs/db3)- DB3 is a community-driven layer2 decentralized database network, a firebase firestore alternative.
 
 ## Open Source Project
 
