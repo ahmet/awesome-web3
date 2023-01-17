@@ -41,6 +41,7 @@
 - [Ethereum](https://github.com/bekatom/awesome-ethereum) - Awesome Ethereum & Dapps Resources.
 - [Thirdweb](https://github.com/warengonzaga/awesome-thirdweb) - Curated list of awesome thirdweb resources, libraries, examples, showcase, and open source projects.
 - [Lens Protocol](https://github.com/0xJuancito/awesome-lens-protocol) - Curated list of awesome Lens Protocol projects, resources, libraries, tools and more.
+- [RPC Nodes](https://github.com/arddluma/awesome-list-rpc-nodes-providers) - Curated list of awesome Node providers and public RPC endpoints.
 
 ## Reference
 
