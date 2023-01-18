@@ -42,6 +42,7 @@
 - [Thirdweb](https://github.com/warengonzaga/awesome-thirdweb) - Curated list of awesome thirdweb resources, libraries, examples, showcase, and open source projects.
 - [Lens Protocol](https://github.com/0xJuancito/awesome-lens-protocol) - Curated list of awesome Lens Protocol projects, resources, libraries, tools and more.
 - [RPC Nodes](https://github.com/arddluma/awesome-list-rpc-nodes-providers) - Curated list of awesome Node providers and public RPC endpoints.
+- [Web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security) - Curated list of web3Security materials and resources For Pentesters and Bug Hunters.
 
 ## Reference
 
