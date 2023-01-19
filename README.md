@@ -43,6 +43,7 @@
 - [Lens Protocol](https://github.com/0xJuancito/awesome-lens-protocol) - Curated list of awesome Lens Protocol projects, resources, libraries, tools and more.
 - [RPC Nodes](https://github.com/arddluma/awesome-list-rpc-nodes-providers) - Curated list of awesome Node providers and public RPC endpoints.
 - [Web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security) - Curated list of web3 security materials and resources for pentesters and bug hunters.
+- [Wagmi](https://github.com/wagmi-dev/awesome-wagmi) - Curated list of awesome projects and resources related to Wagmi.
 
 ## Reference
 
