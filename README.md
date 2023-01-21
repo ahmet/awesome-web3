@@ -89,6 +89,7 @@
 - [IPFS](https://ipfs.io) - Distributed system for storing and accessing files, websites, applications, and data.
 - [Lens Protocol](https://www.lens.xyz/) - Lens Protocol is composable and decentralized social graph, ready for you to build on so you can focus on creating a great experience, not scaling your users.
 - [Aave Protocol](https://aave.com/) - Aave is decentralized non-custodial liquidity protocol where users can participate as depositors or borrowers.
+- [SmartWeave](https://github.com/ArweaveTeam/SmartWeave) - SmartWeave is smart contract protocol that allows developers to build permanent applications on top of Arweave.
 
 ### JavaScript
 
