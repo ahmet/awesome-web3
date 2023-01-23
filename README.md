@@ -157,6 +157,7 @@
 - [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered apps with one command, similar to create-react-app.
 - [next-web3-boilerplate](https://github.com/SoxZz5/next-web3-boilerplate) - Boilerplate in TypeScript using Next.js, NextAuth.js, siwe, Web3modal, useDapp, next-i18next, reactMUI.
 - [useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development.
+- [Turbo ETH](https://github.com/turbo-eth/template-web3-app) - Web3 App Template in Next.js 13, Tailwind, RainbowKit and Optimized Developer UX.
 
 ### Testing
 
