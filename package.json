@@ -23,7 +23,7 @@
     "unified": "^10.1.2"
   },
   "devDependencies": {
-    "@tailwindcss/typography": "^0.5.3",
+    "@tailwindcss/typography": "^0.5.9",
     "autoprefixer": "^10.4.13",
     "eslint": "8.32.0",
     "eslint-config-next": "13.1.4",
