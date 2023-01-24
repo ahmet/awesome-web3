@@ -150,6 +150,7 @@
 - [Rarible SDK](https://bubble.io/plugin/rarible-sdk---nft-marketplace-1627909974342x941739732723564500) - Build an NFT marketplace without code, a free plugin for bubble.io. Deploy collections, set royalties/platform fees, bid, sell, etc.
 - [ZilPay](https://novabloq.com/plugin/1658481604911x430885793059376100) - Zilliqa Wallet plugin for bubble.io, connect your Bubble app to the Zilliqa Blockchain and interact with ZilPay Wallet.
 - [ChainJet](https://chainjet.io) - No-code platform for building on-chain or off-chain task automations. Use ChainJet to integrate multiple web3 services to automate all kinds of tasks.
+- [WalletConnect](https://novabloq.com/plugin/walletconnect-official-1671213284712x803510314952042000) - Web3Modal v2 SDK with updated UI integrated into a plugin for bubble.io - Connect a wallet, sign a message, detect chain or account changed.
 
 ### Boilerplate
 
