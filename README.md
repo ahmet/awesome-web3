@@ -221,6 +221,7 @@
 - [Alchemy University](https://university.alchemy.com/) - Alchemy University is the ultimate ecosystem for learning how to build and interact with web3.
 - [DApp World](https://dapp-world.com/) - DApp World is one-stop platform for blockchain developers that offers tutorials, quizzes, and other features.
 - [How To Web3](https://www.howtoweb3.guide/) - All essential resources to learn and build web3 projects in one place.
+- [Developer DAO Academy](https://academy.developerdao.com/) - Developer DAO Academy is open-source education platform created by the Developer DAO.
 
 ## YouTube Channel
 
