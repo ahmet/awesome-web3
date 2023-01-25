@@ -223,6 +223,7 @@
 - [DApp World](https://dapp-world.com/) - DApp World is one-stop platform for blockchain developers that offers tutorials, quizzes, and other features.
 - [How To Web3](https://www.howtoweb3.guide/) - All essential resources to learn and build web3 projects in one place.
 - [Developer DAO Academy](https://academy.developerdao.com/) - Developer DAO Academy is open-source education platform created by the Developer DAO.
+- [Metaschool](https://metaschool.so/) - Metaschool is free and trusted resource to become a Web3 Developer by building & shipping dApps.
 
 ## YouTube Channel
 
