@@ -177,6 +177,7 @@
 - [Gun](https://github.com/amark/gun) - Small, easy, and fast protocol for syncing data.
 - [OrbitDB](https://github.com/orbitdb/orbit-db) - Serverless, distributed, peer-to-peer database.
 - [DB3](https://github.com/dbpunk-labs/db3) - DB3 is a community-driven layer2 decentralized database network, a firebase firestore alternative.
+- [WeaveDB](https://github.com/weavedb/weavedb) - WeaveDB is NoSQL Database as Smart Contract Bringing web2-like smooth UX, complexity, and scalability to web3 dApps.
 
 ## Open Source Project
 
