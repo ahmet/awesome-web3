@@ -40,6 +40,7 @@
 - [Solidity](https://github.com/bkrem/awesome-solidity) - Curated list of awesome Solidity resources, libraries, tools and more.
 - [Ethereum](https://github.com/bekatom/awesome-ethereum) - Awesome Ethereum & Dapps Resources.
 - [Thirdweb](https://github.com/warengonzaga/awesome-thirdweb) - Curated list of awesome thirdweb resources, libraries, examples, showcase, and open source projects.
+- [Farcaster Protocol](https://github.com/a16z/awesome-farcaster) - A collection of awesome Farcaster links including clients, tools, and more.
 - [Lens Protocol](https://github.com/0xJuancito/awesome-lens-protocol) - Curated list of awesome Lens Protocol projects, resources, libraries, tools and more.
 - [RPC Nodes](https://github.com/arddluma/awesome-list-rpc-nodes-providers) - Curated list of awesome Node providers and public RPC endpoints.
 - [Web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security) - Curated list of web3 security materials and resources for pentesters and bug hunters.
@@ -68,6 +69,7 @@
 - [DeveloperDAO](https://www.developerdao.com/) - Community of thousands of web3 builders creating a better internet
 - [WomenBuildlWeb3](https://www.womenbuildweb3.com/) - Global collective of women and non-binary developers learning and building in web3
 - [WebtrES](https://www.webtres.club/) - Global Spanish-speaking community learning and building in web3
+- [Launchcaster](https://www.launchcaster.xyz/) - A place to share and discover the best new stuff in Web3. Built on Farcaster and Lens protocols.
 
 ### Sample Code
 
