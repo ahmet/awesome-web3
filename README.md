@@ -94,6 +94,7 @@
 - [Lens Protocol](https://www.lens.xyz/) - Lens Protocol is composable and decentralized social graph, ready for you to build on so you can focus on creating a great experience, not scaling your users.
 - [Aave Protocol](https://aave.com/) - Aave is decentralized non-custodial liquidity protocol where users can participate as depositors or borrowers.
 - [SmartWeave](https://github.com/ArweaveTeam/SmartWeave) - SmartWeave is smart contract protocol that allows developers to build permanent applications on top of Arweave.
+- [The Graph](https://thegraph.com/en/) - The Graph is indexing protocol for querying networks like Ethereum and IPFS.
 
 ### JavaScript
 
