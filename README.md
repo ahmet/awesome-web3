@@ -96,6 +96,7 @@
 - [SmartWeave](https://github.com/ArweaveTeam/SmartWeave) - SmartWeave is smart contract protocol that allows developers to build permanent applications on top of Arweave.
 - [The Graph](https://thegraph.com/en/) - The Graph is indexing protocol for querying networks like Ethereum and IPFS.
 - [Push](https://push.org/) - Push Protocol is web3 communication network, enabling cross-chain notifications and messaging for dapps, wallets, and services.
+- [Ceramic Network](https://github.com/ceramicnetwork) - Ceramic is decentralized data network that brings unlimited data composability to Web3 applications.
 
 ### JavaScript
 
