@@ -114,6 +114,7 @@
 - [web3-react](https://github.com/NoahZinsmeister/web3-react) - Simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps.
 - [db3.js](https://github.com/dbpunk-labs/db3.js) - DB3.js is SDK of DB3 network, a community-driven layer2 decentralized database network.
 - [ensjs](https://github.com/ensdomains/ensjs) - Javascript bindings for the Ethereum Name Service.
+- [Lens.js](https://lensjs.suhailkakar.com/) - Lens.js is JavaScript SDK or API wrapper for the Lens API.
 
 ### Solidity
 
