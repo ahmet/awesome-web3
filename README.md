@@ -115,6 +115,7 @@
 - [db3.js](https://github.com/dbpunk-labs/db3.js) - DB3.js is SDK of DB3 network, a community-driven layer2 decentralized database network.
 - [ensjs](https://github.com/ensdomains/ensjs) - Javascript bindings for the Ethereum Name Service.
 - [Lens.js](https://lensjs.suhailkakar.com/) - Lens.js is JavaScript SDK or API wrapper for the Lens API.
+- [bee-js](https://github.com/ethersphere/bee-js) - Javascript client library for connecting to Bee decentralised storage.
 
 ### Solidity
 
