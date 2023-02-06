@@ -62,6 +62,7 @@
 ### Developer Roadmap
 
 - [DeFi Developer](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - Curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.
+- [Blockend Developer](https://github.com/Envoy-VC/blockend-developer-roadmap) - Step By Step Roadmap for those who want to Learn Blockchain Development from Beginning.
 
 ### Communities
 
