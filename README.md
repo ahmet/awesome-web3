@@ -275,6 +275,7 @@
 - [Week in Ethereum Newsletter](https://weekinethereumnews.com/) - Weekly updates from the Ethereum ecosystem.
 - [Developer DAO Newsletter](https://developerdao.substack.com/) - Articles from Developer DAO directly inside your inbox.
 - [BuidlGuidl Newsletter](https://buildguidl.substack.com/) - A newsletter about Ethereum builders creating products, prototypes, and tutorials.
+- [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/) -  Newsletter about blockchain, DeFi and exchange threat intelligence on hacks, vulnerabilities, security tools.
 
 ## Platform as a Service
 
