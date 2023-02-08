@@ -46,6 +46,7 @@
 - [Web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security) - Curated list of web3 security materials and resources for pentesters and bug hunters.
 - [Wagmi](https://github.com/wagmi-dev/awesome-wagmi) - Curated list of awesome projects and resources related to Wagmi.
 - [XMTP](https://github.com/xmtp/awesome-xmtp) - Curated list of awesome resources and projects built using XMTP.
+- [NFT](https://github.com/gianni-dalerta/awesome-nft) - Curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software.
 
 ## Reference
 
@@ -99,6 +100,7 @@
 - [Push](https://push.org/) - Push Protocol is web3 communication network, enabling cross-chain notifications and messaging for dapps, wallets, and services.
 - [Ceramic Network](https://github.com/ceramicnetwork) - Ceramic is decentralized data network that brings unlimited data composability to Web3 applications.
 - [Polkadot](https://polkadot.network/) - Polkadot is scalable, interoperable & secure network protocol for the next web.
+- [zkSync](https://zksync.io/) - Protocol zkSync is trustless protocol that uses cryptographic validity proofs to provide scalable and low-cost transactions on Ethereum.
 - [Uniswap](https://uniswap.org/) - Uniswap is protocol for trading and automated liquidity provision on Ethereum.
 
 ### JavaScript
@@ -120,6 +122,7 @@
 - [Lens.js](https://lensjs.suhailkakar.com/) - Lens.js is JavaScript SDK or API wrapper for the Lens API.
 - [bee-js](https://github.com/ethersphere/bee-js) - Javascript client library for connecting to Bee decentralised storage.
 - [livepeer.js](https://github.com/livepeer/livepeer.js) - Liverpeer.js provides core vanilla JS library and React hooks/components to easily connect to a Livepeer provider.
+- [solana-web3.js](https://github.com/solana-labs/solana-web3.js) - Solana Javascript API built on the Solana JSON RPC API.
 
 ### Solidity
 
@@ -287,6 +290,8 @@
 - [Thirdweb](https://thirdweb.com)
 - [Meson Network](https://meson.network)
 - [Chainstack](https://chainstack.com/)
+- [GetBlock](https://getblock.io/)
+- [Ankr](https://www.ankr.com/)
 
 ## Other
 
