@@ -286,6 +286,7 @@
 - [Thirdweb](https://thirdweb.com)
 - [Meson Network](https://meson.network)
 - [Chainstack](https://chainstack.com/)
+- [GetBlock](https://getblock.io/)
 
 ## Other
 
