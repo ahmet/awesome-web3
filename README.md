@@ -99,6 +99,7 @@
 - [Push](https://push.org/) - Push Protocol is web3 communication network, enabling cross-chain notifications and messaging for dapps, wallets, and services.
 - [Ceramic Network](https://github.com/ceramicnetwork) - Ceramic is decentralized data network that brings unlimited data composability to Web3 applications.
 - [Polkadot](https://polkadot.network/) - Polkadot is scalable, interoperable & secure network protocol for the next web.
+- [zkSync](https://zksync.io/) - Protocol zkSync is trustless protocol that uses cryptographic validity proofs to provide scalable and low-cost transactions on Ethereum.
 
 ### JavaScript
 
