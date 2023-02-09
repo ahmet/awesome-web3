@@ -242,6 +242,7 @@
 - [How To Web3](https://www.howtoweb3.guide/) - All essential resources to learn and build web3 projects in one place.
 - [Developer DAO Academy](https://academy.developerdao.com/) - Developer DAO Academy is open-source education platform created by the Developer DAO.
 - [Metaschool](https://metaschool.so/) - Metaschool is free and trusted resource to become a Web3 Developer by building & shipping dApps.
+- [District0x](https://education.district0x.io/) - District0x is Educational resource about Ethereum targeted at beginners.
 
 ## YouTube Channel
 
