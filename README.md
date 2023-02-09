@@ -103,6 +103,7 @@
 - [zkSync](https://zksync.io/) - Protocol zkSync is trustless protocol that uses cryptographic validity proofs to provide scalable and low-cost transactions on Ethereum.
 - [Uniswap](https://uniswap.org/) - Uniswap is protocol for trading and automated liquidity provision on Ethereum.
 - [NEAR](https://near.org/) - NEAR is smart-contract compatible blockchain, designed and built to support the development of highly secure and scalable dApps.
+- [Arweave](https://www.arweave.org/) - Arweave is protocol that allows you to permanently and sustainably store data for a single upfront fee.
 
 ### JavaScript
 
@@ -243,6 +244,7 @@
 - [How To Web3](https://www.howtoweb3.guide/) - All essential resources to learn and build web3 projects in one place.
 - [Developer DAO Academy](https://academy.developerdao.com/) - Developer DAO Academy is open-source education platform created by the Developer DAO.
 - [Metaschool](https://metaschool.so/) - Metaschool is free and trusted resource to become a Web3 Developer by building & shipping dApps.
+- [District0x](https://education.district0x.io/) - District0x is Educational resource about Ethereum targeted at beginners.
 
 ## YouTube Channel
 
