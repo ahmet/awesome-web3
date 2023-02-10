@@ -104,6 +104,7 @@
 - [Uniswap](https://uniswap.org/) - Uniswap is protocol for trading and automated liquidity provision on Ethereum.
 - [NEAR](https://near.org/) - NEAR is smart-contract compatible blockchain, designed and built to support the development of highly secure and scalable dApps.
 - [Arweave](https://www.arweave.org/) - Arweave is protocol that allows you to permanently and sustainably store data for a single upfront fee.
+- [Livepeer](https://livepeer.org/) - Livepeer is Ethereum-based protocol that distributes video transcoding work throughout its decentralized network.
 
 ### JavaScript
 
@@ -208,6 +209,7 @@
 - [UniSwap](https://github.com/Uniswap) - Decentralized trading protocol on Ethereum.
 - [Chainlink](https://github.com/smartcontractkit/chainlink) - Chainlink enhances the possibilities of smart contracts by allowing them to access real-world data.
 - [react-moralis](https://github.com/MoralisWeb3/react-moralis) - Hooks and components to use Moralis in React app.
+- [Solidity](https://github.com/ethereum/solidity) - Solidity is statically typed, contract-oriented, high-level language for implementing smart contracts on the Ethereum platform.
 
 ## Tutorial
 
@@ -263,6 +265,7 @@
 - [Delphi Digital](https://www.youtube.com/@Delphi_Digital) - Tapping the brains of leaders across all verticals in the digital asset industry.
 - [Bankless Shows](https://www.youtube.com/@Bankless) - The ultimate guide to crypto finance.
 - [HashLips NFT](https://www.youtube.com/@HashLipsNFT/featured) - Web3 Focused and has content on Blockchain development, and other topics.
+- [Whiteboard Crypto](https://www.youtube.com/@WhiteboardCrypto/featured) - Visually learn about Web3, Cryptocurrencies and many other concepts.
 
 ## Book
 
