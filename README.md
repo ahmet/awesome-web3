@@ -213,7 +213,6 @@
 
 ## Tutorial
 
-- [SimpleHash](https://docs.simplehash.com/recipes) - Tutorials for retrieving NFT metadata, media, sales and collection info from multiple chains.
 - [useWeb3](https://www.useweb3.xyz) - Learning platform for developers to explore and learn about Web3.
 - [CryptoZombies](https://cryptozombies.io) - Interactive school that teaches you all things technical about blockchains.
 - [Figment Learn](https://learn.figment.io) - Tutorials for various use cases and networks, Avalanche, Solana, Polygon and more.
@@ -249,6 +248,7 @@
 - [Developer DAO Academy](https://academy.developerdao.com/) - Developer DAO Academy is open-source education platform created by the Developer DAO.
 - [Metaschool](https://metaschool.so/) - Metaschool is free and trusted resource to become a Web3 Developer by building & shipping dApps.
 - [District0x](https://education.district0x.io/) - District0x is Educational resource about Ethereum targeted at beginners.
+- [SimpleHash](https://docs.simplehash.com/recipes) - Tutorials for retrieving NFT metadata, media, sales and collection info from multiple chains.
 
 ## YouTube Channel
 
@@ -301,6 +301,7 @@
 - [Chainstack](https://chainstack.com/)
 - [GetBlock](https://getblock.io/)
 - [Ankr](https://www.ankr.com/)
+- [SimpleHash](https://simplehash.com)
 
 ## Other
 
