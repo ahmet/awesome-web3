@@ -266,6 +266,7 @@
 - [Bankless Shows](https://www.youtube.com/@Bankless) - The ultimate guide to crypto finance.
 - [HashLips NFT](https://www.youtube.com/@HashLipsNFT/featured) - Web3 Focused and has content on Blockchain development, and other topics.
 - [Whiteboard Crypto](https://www.youtube.com/@WhiteboardCrypto/featured) - Visually learn about Web3, Cryptocurrencies and many other concepts.
+- [Jarrod Watts](https://www.youtube.com/@JarrodWatts/featured) - Learn how to build full-stack dApps with thirdweb and other web3 concepts.
 
 ## Book
 
