@@ -213,6 +213,7 @@
 
 ## Tutorial
 
+- [SimpleHash](https://docs.simplehash.com/recipes) - Tutorials for retrieving NFT metadata, media, sales and collection info from multiple chains.
 - [useWeb3](https://www.useweb3.xyz) - Learning platform for developers to explore and learn about Web3.
 - [CryptoZombies](https://cryptozombies.io) - Interactive school that teaches you all things technical about blockchains.
 - [Figment Learn](https://learn.figment.io) - Tutorials for various use cases and networks, Avalanche, Solana, Polygon and more.
