@@ -232,7 +232,7 @@
 - Building EVM from scratch. - [link](https://karmacoma.notion.site/Building-an-EVM-from-scratch-part-1-c28ebb4200c94f6fb75948a5feffc686) [source code](https://github.com/karmacoma-eth/yolo-evm/tree/evm-from-scratch-pt1)
 - [LearnWeb3 DAO](https://learnweb3.io/) - Free program that teach you how to become Web3 Developer.
 - [Questbook](https://openquest.xyz/) - Decentralized University where you can choose a track based on your requirements to become a Web3 Developer.
-- [Cadena](https://cadena.dev/?utm_source=awesome-web3) - Cadena is a free plaform where you can learn by coding smart contracts, NFTs, tokens and more.
+- [Cadena](https://www.cadena.dev/) - Cadena is a free plaform where you can learn by coding smart contracts, NFTs, tokens and more.
 - Building Full Stack Permanent Applications with Arweave, Smartweave and Next.js. - [link](https://dev.to/dabit3/building-full-stack-applications-with-arweave-and-nextjs-28hg)
 - Building and Testing Smart Contracts with Foundry by Paradigm. - [link](https://dev.to/dabit3/building-smart-contracts-with-foundry-by-paradigm-2gfm)
 - Building a Full Stack Web3 YouTube Clone with Next, IPFS, The Graph, Solidity, and Livepeer. - [link](https://blog.suhailkakar.com/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-livepeer)
