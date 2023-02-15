@@ -158,6 +158,7 @@
 
 - [py-evm](https://github.com/ethereum/py-evm) - Ethereum protocol implementation in Python.
 - [Vyper](https://github.com/vyperlang/vyper) - Contract-oriented, pythonic programming language that targets EVM.
+- [web3.py](https://github.com/ethereum/web3.py) - Python interface for interacting with the Ethereum blockchain and ecosystem.
 
 ### VMs
 
