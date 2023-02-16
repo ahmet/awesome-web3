@@ -180,6 +180,7 @@
 - [useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development.
 - [Turbo ETH](https://github.com/turbo-eth/template-web3-app) - Web3 App Template in Next.js 13, Tailwind, RainbowKit and Optimized Developer UX.
 - [ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) - The ultimate NextJS Ethereum Dapp Boilerplate which gives you maximum flexibility and speed.
+- [create-web3-dapp](https://github.com/alchemyplatform/create-web3-dapp) - The complete toolbox to create web3 applications.
 
 ### Testing
 
