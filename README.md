@@ -47,6 +47,7 @@
 - [Wagmi](https://github.com/wagmi-dev/awesome-wagmi) - Curated list of awesome projects and resources related to Wagmi.
 - [XMTP](https://github.com/xmtp/awesome-xmtp) - Curated list of awesome resources and projects built using XMTP.
 - [NFT](https://github.com/gianni-dalerta/awesome-nft) - Curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software.
+- [Blockchain](https://github.com/yjjnls/awesome-blockchain) - Curated list of resources for the development and applications of blockchain.
 
 ## Reference
 
