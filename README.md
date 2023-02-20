@@ -215,6 +215,7 @@
 - [Chainlink](https://github.com/smartcontractkit/chainlink) - Chainlink enhances the possibilities of smart contracts by allowing them to access real-world data.
 - [react-moralis](https://github.com/MoralisWeb3/react-moralis) - Hooks and components to use Moralis in React app.
 - [Solidity](https://github.com/ethereum/solidity) - Solidity is statically typed, contract-oriented, high-level language for implementing smart contracts on the Ethereum platform.
+- [Solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 
 ## Tutorial
 
