@@ -128,6 +128,7 @@
 - [bee-js](https://github.com/ethersphere/bee-js) - Javascript client library for connecting to Bee decentralised storage.
 - [livepeer.js](https://github.com/livepeer/livepeer.js) - Liverpeer.js provides core vanilla JS library and React hooks/components to easily connect to a Livepeer provider.
 - [solana-web3.js](https://github.com/solana-labs/solana-web3.js) - Solana Javascript API built on the Solana JSON RPC API.
+- [seaport-js](https://github.com/ProjectOpenSea/seaport-js) - JavaScript library to interface with the Seaport marketplace.
 
 ### Solidity
 
