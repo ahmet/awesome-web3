@@ -130,6 +130,7 @@
 - [livepeer.js](https://github.com/livepeer/livepeer.js) - Liverpeer.js provides core vanilla JS library and React hooks/components to easily connect to a Livepeer provider.
 - [solana-web3.js](https://github.com/solana-labs/solana-web3.js) - Solana Javascript API built on the Solana JSON RPC API.
 - [seaport-js](https://github.com/ProjectOpenSea/seaport-js) - JavaScript library to interface with the Seaport marketplace.
+- [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) - AlgoSDK is the official JavaScript library for communicating with the Algorand network.
 
 ### Solidity
 
