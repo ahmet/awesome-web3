@@ -50,6 +50,7 @@
 - [Blockchain](https://github.com/yjjnls/awesome-blockchain) - Curated list of resources for the development and applications of blockchain.
 - [ethereum-security](https://github.com/crytic/awesome-ethereum-security) - Curated list of Ethereum security references, guidance, tools, and more.
 - [Foundry](https://github.com/crisgarner/awesome-foundry) - Curated list of awesome Foundry resources, tutorials, tools and libraries.
+- [Algorand](https://github.com/aorumbayev/awesome-algorand) - Curated list of awesome resources related to the Algorand Blockchain.
 
 ## Reference
 
