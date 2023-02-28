@@ -195,6 +195,7 @@
 - [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework (a generic RPA ecosystem).
 - [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage for Solidity smart-contracts.
 - [Waffle](https://github.com/EthWorks/Waffle) - Library for writing and testing smart contracts.
+- [prb-test](https://github.com/PaulRBerg/prb-test) - Modern collection of testing assertions and logging utilities for Solidity.
 
 ### Code Quality
 
