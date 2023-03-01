@@ -286,6 +286,7 @@
 - [Ethereum development with Go](https://goethereumbook.org/en)
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 - [Token Economy Book](https://github.com/sherminvo/TokenEconomyBook/wiki)
+- [The Book of Swarm](https://www.ethswarm.org/The-Book-of-Swarm.pdf)
 
 ## Podcast
 
