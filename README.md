@@ -244,7 +244,6 @@
 - How to mock Solidity smart contracts for testing. - [link](https://ethereum.org/en/developers/tutorials/how-to-mock-solidity-contracts-for-testing)
 - Building EVM from scratch. - [link](https://karmacoma.notion.site/Building-an-EVM-from-scratch-part-1-c28ebb4200c94f6fb75948a5feffc686) [source code](https://github.com/karmacoma-eth/yolo-evm/tree/evm-from-scratch-pt1)
 - [LearnWeb3 DAO](https://learnweb3.io/) - Free program that teach you how to become Web3 Developer.
-- [Questbook](https://openquest.xyz/) - Decentralized University where you can choose a track based on your requirements to become a Web3 Developer.
 <!-- markdown-link-check-disable-next-line -->
 - [Cadena](https://www.cadena.dev/) - Cadena is a free plaform where you can learn by coding smart contracts, NFTs, tokens and more.
 - Building Full Stack Permanent Applications with Arweave, Smartweave and Next.js. - [link](https://dev.to/dabit3/building-full-stack-applications-with-arweave-and-nextjs-28hg)
