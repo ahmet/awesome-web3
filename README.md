@@ -52,6 +52,7 @@
 - [Foundry](https://github.com/crisgarner/awesome-foundry) - Curated list of awesome Foundry resources, tutorials, tools and libraries.
 - [Algorand](https://github.com/aorumbayev/awesome-algorand) - Curated list of awesome resources related to the Algorand Blockchain.
 - [Vyper](https://github.com/spadebuilders/awesome-vyper) - Curated resources for Vyper, the Pythonic smart contract language for the EVM.
+- [StarkNet](https://github.com/gakonst/awesome-starknet) - Curated list of awesome StarkNet resources, libraries, tools and more.
 
 ## Reference
 
