@@ -136,6 +136,7 @@
 - [seaport-js](https://github.com/ProjectOpenSea/seaport-js) - JavaScript library to interface with the Seaport marketplace.
 - [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) - AlgoSDK is the official JavaScript library for communicating with the Algorand network.
 - [starknet.js](https://github.com/0xs34n/starknet.js) - JavaScript library to interact with Starknet.
+- [notify](https://github.com/blocknative/notify) - JavaScript library for real time notifications for Ethereum transaction state changes.
 
 ### Solidity
 
