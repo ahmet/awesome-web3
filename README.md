@@ -112,6 +112,7 @@
 - [NEAR](https://near.org/) - NEAR is smart-contract compatible blockchain, designed and built to support the development of highly secure and scalable dApps.
 - [Arweave](https://www.arweave.org/) - Arweave is protocol that allows you to permanently and sustainably store data for a single upfront fee.
 - [Livepeer](https://livepeer.org/) - Livepeer is Ethereum-based protocol that distributes video transcoding work throughout its decentralized network.
+- [Compound](https://compound.finance/) - Compound is algorithmic, autonomous interest rate protocol built for developers, to unlock universe of open financial applications.
 
 ### JavaScript
 
