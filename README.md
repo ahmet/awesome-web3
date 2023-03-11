@@ -230,6 +230,7 @@
 - [Solidity](https://github.com/ethereum/solidity) - Solidity is statically typed, contract-oriented, high-level language for implementing smart contracts on the Ethereum platform.
 - [Solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [Neo](https://github.com/neo-project/neo) - Neo is blockchain platform that is open-source and community-driven.
+- [fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is enterprise-grade permissioned distributed ledger framework for developing solutions and applications.
 
 ## Tutorial
 
