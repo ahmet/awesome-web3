@@ -54,6 +54,7 @@
 - [Vyper](https://github.com/spadebuilders/awesome-vyper) - Curated resources for Vyper, the Pythonic smart contract language for the EVM.
 - [StarkNet](https://github.com/gakonst/awesome-starknet) - Curated list of awesome StarkNet resources, libraries, tools and more.
 - [Arweave](https://github.com/bitruss/awesome-arweave) - Curated list of awesome resources related to the Arweave.
+- [Huff](https://github.com/devtooligan/awesome-huff) - Curated list of resources for Huff language.
 
 ## Reference
 
@@ -114,6 +115,7 @@
 - [Livepeer](https://livepeer.org/) - Livepeer is Ethereum-based protocol that distributes video transcoding work throughout its decentralized network.
 - [Compound](https://compound.finance/) - Compound is algorithmic, autonomous interest rate protocol built for developers, to unlock universe of open financial applications.
 - [Yield](https://yieldprotocol.com/) - Yield Protocol is permissionless market for collateralized fixed-rate borrowing and lending.
+- [Euler](https://www.euler.finance/) - Euler is non-custodial protocol on Ethereum that allows users to lend and borrow almost any crypto asset.
 
 ### JavaScript
 
