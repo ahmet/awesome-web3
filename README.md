@@ -116,6 +116,7 @@
 - [Compound](https://compound.finance/) - Compound is algorithmic, autonomous interest rate protocol built for developers, to unlock universe of open financial applications.
 - [Yield](https://yieldprotocol.com/) - Yield Protocol is permissionless market for collateralized fixed-rate borrowing and lending.
 - [Euler](https://www.euler.finance/) - Euler is non-custodial protocol on Ethereum that allows users to lend and borrow almost any crypto asset.
+- [Unitas](https://unitas.foundation/) - Unitas Protocol enables financial sovereignty by granting people the right to choose their units of account while transacting with each other.
 
 ### JavaScript
 
