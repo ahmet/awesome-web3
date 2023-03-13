@@ -54,6 +54,7 @@
 - [Vyper](https://github.com/spadebuilders/awesome-vyper) - Curated resources for Vyper, the Pythonic smart contract language for the EVM.
 - [StarkNet](https://github.com/gakonst/awesome-starknet) - Curated list of awesome StarkNet resources, libraries, tools and more.
 - [Arweave](https://github.com/bitruss/awesome-arweave) - Curated list of awesome resources related to the Arweave.
+- [Huff](https://github.com/devtooligan/awesome-huff) - Curated list of resources for Huff language.
 
 ## Reference
 
