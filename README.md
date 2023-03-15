@@ -275,6 +275,7 @@
 - [District0x](https://education.district0x.io/) - District0x is Educational resource about Ethereum targeted at beginners.
 - [SimpleHash](https://docs.simplehash.com/recipes) - Tutorials for retrieving NFT metadata, media, sales and collection info from multiple chains.
 - [Ape Academy](https://academy.apeworx.io/) - Learn how to build smart contracts with Python and Vyper.
+- [Layer3](https://layer3.xyz/) - Layer3 is web3 teaching platform that is gamified and allows individuals to discover and learn about web3.
 
 ## YouTube Channel
 
