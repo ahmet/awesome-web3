@@ -275,6 +275,7 @@
 - [District0x](https://education.district0x.io/) - District0x is Educational resource about Ethereum targeted at beginners.
 - [SimpleHash](https://docs.simplehash.com/recipes) - Tutorials for retrieving NFT metadata, media, sales and collection info from multiple chains.
 - [Ape Academy](https://academy.apeworx.io/) - Learn how to build smart contracts with Python and Vyper.
+- [NFT School](https://nftschool.dev/) - Learn everything there is to know about NFT from the ground up.
 
 ## YouTube Channel
 
