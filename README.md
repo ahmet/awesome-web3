@@ -119,6 +119,7 @@
 - [Unitas](https://unitas.foundation/) - Unitas Protocol enables financial sovereignty by granting people the right to choose their units of account while transacting with each other.
 - [Sablier](https://sablier.finance/) - Sablier is money streaming protocol that aims to be used for streaming payments and achieve near real-time transactions.
 - [Pika Protocol](https://www.pikaprotocol.com/) - Pika is one of the most leveraged DeFi protocols, offering up to 100 times leverage on trades.
+- [Ocean Protocol](https://oceanprotocol.com/) - Ocean protocol aims to allow businesses and individuals to exchange and monetize data and data-based services.
 
 ### JavaScript
 
@@ -276,6 +277,8 @@
 - [District0x](https://education.district0x.io/) - District0x is Educational resource about Ethereum targeted at beginners.
 - [SimpleHash](https://docs.simplehash.com/recipes) - Tutorials for retrieving NFT metadata, media, sales and collection info from multiple chains.
 - [Ape Academy](https://academy.apeworx.io/) - Learn how to build smart contracts with Python and Vyper.
+- [NFT School](https://nftschool.dev/) - Learn everything there is to know about NFT from the ground up.
+- [Layer3](https://layer3.xyz/) - Layer3 is web3 teaching platform that is gamified and allows individuals to discover and learn about web3.
 
 ## YouTube Channel
 
