@@ -322,6 +322,7 @@
 - [BuidlGuidl Newsletter](https://buildguidl.substack.com/) - A newsletter about Ethereum builders creating products, prototypes, and tutorials.
 - [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/) -  Newsletter about blockchain, DeFi and exchange threat intelligence on hacks, vulnerabilities, security tools.
 - [Hashing Bits](https://quillaudits.substack.com/) - Hashing Bits is Web3 Cybersecurity focused weekly newsletter.
+- [WebThree.FYI](https://www.dailydropout.fyi/web3) - Learn about DeFi, NFTs, DAOs, cryptocurrencies, and other projects.
 
 ## Platform as a Service
 
