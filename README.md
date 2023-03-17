@@ -238,6 +238,7 @@
 - [Neo](https://github.com/neo-project/neo) - Neo is blockchain platform that is open-source and community-driven.
 - [fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is enterprise-grade permissioned distributed ledger framework for developing solutions and applications.
 - [web3swift](https://github.com/web3swift-team/web3swift) - web3swift is iOS toolbelt for interaction with the Ethereum network.
+- [Fuel](https://www.fuel.network/) - Fuel is the fastest execution layer for the modular blockchain stack.
 
 ## Tutorial
 
