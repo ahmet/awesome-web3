@@ -222,6 +222,7 @@
 - [OrbitDB](https://github.com/orbitdb/orbit-db) - Serverless, distributed, peer-to-peer database.
 - [DB3](https://github.com/dbpunk-labs/db3) - DB3 is a community-driven layer2 decentralized database network, a firebase firestore alternative.
 - [WeaveDB](https://github.com/weavedb/weavedb) - WeaveDB is NoSQL Database as Smart Contract Bringing web2-like smooth UX, complexity, and scalability to web3 dApps.
+- [Polybase](https://github.com/polybase/) - Polybase is a web3 native database that understands wallets, tokens & ZK. It's drop-in replacement for Firebase, Firestore, Postgres alongside web3 features like self-sovereign data, censorhip resistance, & end-end encryption. 
 
 ## Open Source Project
 
