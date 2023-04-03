@@ -145,6 +145,7 @@
 - [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) - AlgoSDK is the official JavaScript library for communicating with the Algorand network.
 - [starknet.js](https://github.com/0xs34n/starknet.js) - JavaScript library to interact with Starknet.
 - [notify](https://github.com/blocknative/notify) - JavaScript library for real time notifications for Ethereum transaction state changes.
+- [Dynamic](https://www.dynamic.xyz/) - Web3 authentication platform and multi-chain wallet connection library.
 
 ### Solidity
 
