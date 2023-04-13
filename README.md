@@ -342,7 +342,7 @@
 - [Ankr](https://www.ankr.com/)
 - [SimpleHash](https://simplehash.com)
 - [Basement](https://basement.dev/)
-- [walletOS](https://www.pinestreetlabs.com/)
+- [walletOS](https://www.pinestreetlabs.com/walletos/)
 
 ## Other
 
