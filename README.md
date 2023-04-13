@@ -352,3 +352,5 @@
 ## Contribute
 
 Contributions are welcomed! Please read the [contribution guidelines](https://github.com/ahmet/awesome-web3/blob/main/CONTRIBUTING.md) first.
+
+Don't forget to star my repo ⭐
