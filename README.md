@@ -55,6 +55,7 @@
 - [StarkNet](https://github.com/gakonst/awesome-starknet) - Curated list of awesome StarkNet resources, libraries, tools and more.
 - [Arweave](https://github.com/bitruss/awesome-arweave) - Curated list of awesome resources related to the Arweave.
 - [Huff](https://github.com/devtooligan/awesome-huff) - Curated list of resources for Huff language.
+- [The Graph](https://github.com/MichaelMacaulay/Awesome-The-Graph) - Curated list of awesome resources for The Graph.
 
 ## Reference
 
