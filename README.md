@@ -25,6 +25,7 @@
     - [Testing](#testing)
     - [Code Quality](#code-quality)
     - [Database](#database)
+    - [Risk Management](#risk-management)
   - [Open Source Project](#open-source-project)
   - [Tutorial](#tutorial)
   - [YouTube Channel](#youtube-channel)
@@ -225,6 +226,23 @@
 - [DB3](https://github.com/dbpunk-labs/db3) - DB3 is a community-driven layer2 decentralized database network, a firebase firestore alternative.
 - [WeaveDB](https://github.com/weavedb/weavedb) - WeaveDB is NoSQL Database as Smart Contract Bringing web2-like smooth UX, complexity, and scalability to web3 dApps.
 - [Polybase](https://github.com/polybase/) - Polybase is a drop-in replacement for Firebase, Firstore alongside 10x better db permissions with ZK + Wallet Auth.
+
+### Risk Management
+
+- [Risky Contract Manager](https://de.fi/approved-contracts) - Tool to revoke approvals to smart contracts.
+- [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
+- [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers.
+- [Mythril](https://github.com/ConsenSys/mythril) - Open-source EVM bytecode security analysis tool.
+- [Oyente](https://github.com/melonproject/oyente) - Alternative static smart contract security analysis.
+- [Ethersplay](https://github.com/crytic/ethersplay) - EVM disassembler.
+- [Evmdis](https://github.com/Arachnid/evmdis) - Alternative EVM disassembler.
+- [Hydra](https://github.com/IC3Hydra/Hydra) - Framework for cryptoeconomic contract security, decentralised security bounties.
+- [Solgraph](https://github.com/raineorshine/solgraph) - Visualise Solidity control flow for smart contract security analysis.
+- [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool on smart contracts and binaries.
+- [Slither](https://github.com/crytic/slither) - A Solidity static analysis framework.
+- [Adelaide](https://github.com/sec-bit/adelaide) - The SECBIT static analysis extension to Solidity compiler.
+- [solc-verify](https://github.com/SRI-CSL/solidity/) - A modular verifier for Solidity smart contracts.
+- [Solidity security blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns.
 
 ## Open Source Project
 
