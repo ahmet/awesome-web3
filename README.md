@@ -97,6 +97,7 @@
 - [Remix](https://remix.ethereum.org/) - Online IDE for Solidity development.
 - [Foundry](https://book.getfoundry.sh/) - Foundry is blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [Embark](https://github.com/embarklabs/embark) - The all-in-one developer platform for building and deploying decentralized applications.
+- [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
 ### Protocol
 
@@ -260,6 +261,8 @@
 - [fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is enterprise-grade permissioned distributed ledger framework for developing solutions and applications.
 - [web3swift](https://github.com/web3swift-team/web3swift) - web3swift is iOS toolbelt for interaction with the Ethereum network.
 - [Fuel](https://www.fuel.network/) - Fuel is the fastest execution layer for the modular blockchain stack.
+- [Hugin Messenger - Desktop](https://github.com/kryptokrona/hugin-desktop) A private messaging Web3 chat application for desktop, powered by the Kryptokrona Blockchain.
+- [Hugin Messenger - Mobile](https://github.com/kryptokrona/hugin-mobile) A private messaging Web3 chat application for mobile, powered by the Kryptokrona Blockchain.
 
 ## Tutorial
 
