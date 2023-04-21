@@ -11,6 +11,7 @@
     - [Communities](#communities)
     - [Sample Code](#sample-code)
     - [Development Environment](#development-environment)
+    - [SDK](#sdk)
     - [Protocol](#protocol)
     - [JavaScript](#javascript)
     - [Solidity](#solidity)
@@ -97,6 +98,8 @@
 - [Remix](https://remix.ethereum.org/) - Online IDE for Solidity development.
 - [Foundry](https://book.getfoundry.sh/) - Foundry is blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [Embark](https://github.com/embarklabs/embark) - The all-in-one developer platform for building and deploying decentralized applications.
+
+### SDK
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
 ### Protocol
