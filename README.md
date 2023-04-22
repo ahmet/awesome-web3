@@ -120,7 +120,7 @@
 - [Sablier](https://sablier.finance/) - Sablier is money streaming protocol that aims to be used for streaming payments and achieve near real-time transactions.
 - [Pika Protocol](https://www.pikaprotocol.com/) - Pika is one of the most leveraged DeFi protocols, offering up to 100 times leverage on trades.
 - [Ocean Protocol](https://oceanprotocol.com/) - Ocean protocol aims to allow businesses and individuals to exchange and monetize data and data-based services.
-- [Rollup ID](https://rollup.id.com/) - User management for the private web.
+- [Rollup ID](https://rollup.id/) - User management for the private web.
 
 ### JavaScript
 
