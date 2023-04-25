@@ -132,6 +132,7 @@
 ### JavaScript
 
 - [RainbowKit](https://www.rainbowkit.com/) - React library that makes it easy to add wallet connection to your dapp.
+- [Privy](https://www.privy.io/) - React library to add beautiful authentication flows and powerful connectors to your app.
 - [avalanchejs](https://github.com/ava-labs/avalanchejs) - JavaScript Library for interfacing with the Avalanche Platform.
 - [Avalanche Wallet SDK](https://github.com/ava-labs/avalanche-wallet-sdk) - Typescript library to create and manage wallets on the Avalanche network.
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - Bitcoin library for node.js and browsers.
