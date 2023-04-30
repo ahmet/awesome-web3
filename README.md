@@ -59,6 +59,7 @@
 - [Huff](https://github.com/devtooligan/awesome-huff) - Curated list of resources for Huff language.
 - [The Graph](https://github.com/MichaelMacaulay/Awesome-The-Graph) - Curated list of awesome resources for The Graph.
 - [Zero Knowledge](https://github.com/ventali/awesome-zk) - Curated list of awesome ZK resources, libraries, tools and more.
+- [Blockchain Scalability](https://github.com/lucadonnoh/awesome-blockchain-scalability) - Curated list of awesome resources about blockchain scalability.
 
 ## Reference
 
