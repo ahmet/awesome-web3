@@ -60,6 +60,7 @@
 - [The Graph](https://github.com/MichaelMacaulay/Awesome-The-Graph) - Curated list of awesome resources for The Graph.
 - [Zero Knowledge](https://github.com/ventali/awesome-zk) - Curated list of awesome ZK resources, libraries, tools and more.
 - [Blockchain Scalability](https://github.com/lucadonnoh/awesome-blockchain-scalability) - Curated list of awesome resources about blockchain scalability.
+- [MakerDAO](https://github.com/makerdao/awesome-makerdao) - Collection of tools, documents, articles, blog posts, interviews, and videos related to MakerDAO and the Dai stablecoin.
 
 ## Reference
 
