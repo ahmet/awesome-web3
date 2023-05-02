@@ -131,6 +131,7 @@
 - [Pika Protocol](https://www.pikaprotocol.com/) - Pika is one of the most leveraged DeFi protocols, offering up to 100 times leverage on trades.
 - [Ocean Protocol](https://oceanprotocol.com/) - Ocean protocol aims to allow businesses and individuals to exchange and monetize data and data-based services.
 - [Rollup ID](https://rollup.id/) - User management for the private web.
+- [Aztec Network](https://aztec.network/) - Aztec Network is Layer 2 zk-rollup, designed to enable programmable privacy, that will run on Ethereum.
 
 ### JavaScript
 
