@@ -71,6 +71,7 @@
 - [EVM Opcodes](https://www.ethervm.io) - Low level reference for the EVM and a Solidity decompiler which turns bytecode into more readable Solidity-like code.
 - [evm.codes](https://www.evm.codes) - An interactive reference to Ethereum Virtual Machine Opcodes ([source code](https://github.com/comitylabs/evm.codes)).
 - [Solidity](https://docs.soliditylang.org) - Solidity is an object-oriented, high-level language for implementing smart contracts.
+- [Vyper](https://docs.vyperlang.org) - Vyper is a contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine (EVM).
 
 ## Software Development
 
