@@ -135,6 +135,7 @@
 - [Aztec Network](https://aztec.network/) - Aztec Network is Layer 2 zk-rollup, designed to enable programmable privacy, that will run on Ethereum.
 - [IPOR](https://www.ipor.io/) - IPOR: The heartbeat of DeFi Fix your interest rate or hedge your exposure by leveraging non-custodial on-chain IPOR derivative instruments.
 - [Ajna protocol](https://www.ajna.finance/) - Ajna protocol is peer to peer, oracleless, permissionless lending protocol with no governance, accepting both fungible and non fungible tokens as collateral. 
+- [Synapse](https://synapseprotocol.com/) - Synapse Protocol enables cross-chain communication for facilitating transactions across blockchains.
 
 ### JavaScript
 
