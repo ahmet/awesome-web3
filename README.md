@@ -315,7 +315,6 @@
 - [How To Web3](https://www.howtoweb3.guide/) - All essential resources to learn and build web3 projects in one place.
 - [Developer DAO Academy](https://academy.developerdao.com/) - Developer DAO Academy is open-source education platform created by the Developer DAO.
 - [Metaschool](https://metaschool.so/) - Metaschool is free and trusted resource to become a Web3 Developer by building & shipping dApps.
-- [District0x](https://education.district0x.io/) - District0x is Educational resource about Ethereum targeted at beginners.
 - [SimpleHash](https://docs.simplehash.com/recipes) - Tutorials for retrieving NFT metadata, media, sales and collection info from multiple chains.
 - [Ape Academy](https://academy.apeworx.io/) - Learn how to build smart contracts with Python and Vyper.
 - [NFT School](https://nftschool.dev/) - Learn everything there is to know about NFT from the ground up.
@@ -352,7 +351,6 @@
 
 ## Podcast
 
-- [Mapping Out Eth 2.0](https://www.coindesk.com/podcasts/mapping-out-eth-2-0/) - Development of Ethereum 2.0.
 - [BAT Community](https://basicattentiontoken.libsyn.com/website) - BAT, Brave and tech underneath.
 - [Delphi Media](https://open.spotify.com/show/62PR1RigLG2YN5Pelq6UY9?si=MvCsyROjRkehh8bnnlKlLg) - Bi-weekly episodes on investing in the digital asset industry.
 - [On The Brink with Castle Island](https://open.spotify.com/show/47aw3C5brBfL8pCIw8LrQL) - Explore the political, ethical, and economic significance of Bitcoin and other public blockchains and talk to some of the leading experts in the industry.
