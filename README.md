@@ -183,6 +183,7 @@
 
 ### C/C++
 
+- [libethc](https://github.com/mhw0/libethc) - Open-source Ethereum library in ANSI C.
 - [Trust Wallet Core](https://github.com/trustwallet/wallet-core) - Cross-platform, mobile-focused library implementing low-level cryptographic wallet functionality for a high number of blockchains.
 
 ### Rust
