@@ -137,6 +137,7 @@
 - [IPOR](https://www.ipor.io/) - IPOR: The heartbeat of DeFi Fix your interest rate or hedge your exposure by leveraging non-custodial on-chain IPOR derivative instruments.
 - [Ajna protocol](https://www.ajna.finance/) - Ajna protocol is peer to peer, oracleless, permissionless lending protocol with no governance, accepting both fungible and non fungible tokens as collateral. 
 - [Synapse](https://synapseprotocol.com/) - Synapse Protocol enables cross-chain communication for facilitating transactions across blockchains.
+- [Router Protocol](https://github.com/router-resources/RouterProtocol) - Router Protocol bridges different layer 1 and layer 2 blockchains, enabling seamless cross-chain liquidity migration in DeFi. It facilitates token transfers between chains and cross-chain execution of operations.
 
 ### JavaScript
 
