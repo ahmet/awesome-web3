@@ -93,6 +93,7 @@
 - [Solidity by Example](https://solidity-by-example.org) - Basic examples on Solidity.
 - [Web3 by Example](https://www.web3byexample.com/) - Basic examples on Ethers with JavaScript
 - [Vyper by Example](https://vyper-by-example.org/) - Basic examples on Vyper.
+- [Yul By Example](https://github.com/Perelyn-sama/yul_by_example) - Basic examples on Yul. 
 
 ### Development Environment
 
