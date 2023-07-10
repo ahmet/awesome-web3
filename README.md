@@ -33,6 +33,7 @@
   - [Book](#book)
   - [Podcast](#podcast)
   - [Newsletter](#newsletter)
+  - [Chats&Channels](#chats)
   - [Platform as a Service](#platform-as-a-service)
   - [Other](#other)
   - [Contribute](#contribute)
@@ -93,7 +94,8 @@
 - [Solidity by Example](https://solidity-by-example.org) - Basic examples on Solidity.
 - [Web3 by Example](https://www.web3byexample.com/) - Basic examples on Ethers with JavaScript
 - [Vyper by Example](https://vyper-by-example.org/) - Basic examples on Vyper.
-- [Yul By Example](https://github.com/Perelyn-sama/yul_by_example) - Basic examples on Yul. 
+- [Merkle Proof Example](https://github.com/8gen/erc721a-merklerproof-template) — Usage example for Merkle Proof on Solidity and Javascript
+- [Yul By Example](https://github.com/Perelyn-sama/yul_by_example) - Basic examples on Yul.
 
 ### Development Environment
 
@@ -371,6 +373,11 @@
 - [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/) -  Newsletter about blockchain, DeFi and exchange threat intelligence on hacks, vulnerabilities, security tools.
 - [Hashing Bits](https://quillaudits.substack.com/) - Hashing Bits is Web3 Cybersecurity focused weekly newsletter.
 - [WebThree.FYI](https://www.dailydropout.fyi/web3) - Learn about DeFi, NFTs, DAOs, cryptocurrencies, and other projects.
+
+## Chats
+- [Telegram Chat Group Ethereum](https://t.me/ethdev)
+- [Telegram Chat Group Ethereum Russian](https://t.me/eth_ru)
+- [Telegram Ethereum Jobs](https://t.me/eth_jobs)
 
 ## Platform as a Service
 
