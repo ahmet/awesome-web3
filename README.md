@@ -33,7 +33,7 @@
   - [Book](#book)
   - [Podcast](#podcast)
   - [Newsletter](#newsletter)
-  - [Chats&Channels](#chats)
+  - [Chats and Channels](#chats)
   - [Platform as a Service](#platform-as-a-service)
   - [Other](#other)
   - [Contribute](#contribute)
@@ -375,6 +375,7 @@
 - [WebThree.FYI](https://www.dailydropout.fyi/web3) - Learn about DeFi, NFTs, DAOs, cryptocurrencies, and other projects.
 
 ## Chats
+
 - [Telegram Chat Group Ethereum](https://t.me/ethdev)
 - [Telegram Chat Group Ethereum Russian](https://t.me/eth_ru)
 - [Telegram Ethereum Jobs](https://t.me/eth_jobs)
