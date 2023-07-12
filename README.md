@@ -106,6 +106,9 @@
 - [Embark](https://github.com/embarklabs/embark) - The all-in-one developer platform for building and deploying decentralized applications.
 - [Solana Playground](https://github.com/solana-playground/solana-playground) - Online IDE to quickly develop and deploy Solana programs that runs on web browser.
 
+### DevOps
+- [Cannon](https://usecannon.com/) - Continuous configuration automation & development cli multi-tool. Like Terraform, Docker and NPM for Ethereum.
+
 ### SDK
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
