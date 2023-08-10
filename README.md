@@ -26,6 +26,7 @@
     - [Testing](#testing)
     - [Code Quality](#code-quality)
     - [Database](#database)
+    - [Datasets](#datasets)
     - [Risk Management](#risk-management)
   - [Open Source Project](#open-source-project)
   - [Tutorial](#tutorial)
@@ -251,6 +252,10 @@
 - [DB3](https://github.com/dbpunk-labs/db3) - DB3 is a community-driven layer2 decentralized database network, a firebase firestore alternative.
 - [WeaveDB](https://github.com/weavedb/weavedb) - WeaveDB is NoSQL Database as Smart Contract Bringing web2-like smooth UX, complexity, and scalability to web3 dApps.
 - [Polybase](https://github.com/polybase/) - Polybase is a drop-in replacement for Firebase, Firstore alongside 10x better db permissions with ZK + Wallet Auth.
+
+### Datasets
+
+- [Indexed.xyz](https://indexed.xyz) - Raw and decoded logs, transactions, and blocks for many EVM chains.
 
 ### Risk Management
 
