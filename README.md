@@ -395,6 +395,7 @@
 - [SimpleHash](https://simplehash.com)
 - [Basement](https://basement.dev/)
 - [walletOS](https://www.pinestreetlabs.com/walletos/)
+- [Tenderly](https://tenderly.co)
 
 ## Other
 
