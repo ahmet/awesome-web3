@@ -3126,15 +3126,15 @@ unified@^10.0.0:
     trough "^2.0.0"
     vfile "^5.0.0"
 
-unified@^11.0.0, unified@^11.0.2:
-  version "11.0.2"
-  resolved "https://registry.yarnpkg.com/unified/-/unified-11.0.2.tgz#9a5db5c46059fdffd949ab8612b473e1ee268b31"
-  integrity sha512-Zta++onvS/dJ6xUvXQOR5q8XJZOkiMCE5wQ8Yv9mLR25pxRS567EX0GO6HZRxxNV/lznwfsvRZ/1pqe9K9QLeQ==
+unified@^11.0.0, unified@^11.0.3:
+  version "11.0.3"
+  resolved "https://registry.yarnpkg.com/unified/-/unified-11.0.3.tgz#e141be0fe466a2d28b2160f62712bc9cbc08fdd4"
+  integrity sha512-jlCV402P+YDcFcB2VcN/n8JasOddqIiaxv118wNBoZXEhOn+lYG7BR4Bfg2BwxvlK58dwbuH2w7GX2esAjL6Mg==
   dependencies:
     "@types/unist" "^3.0.0"
-    "@ungap/structured-clone" "^1.0.0"
     bail "^2.0.0"
     devlop "^1.0.0"
+    extend "^3.0.0"
     is-plain-obj "^4.0.0"
     trough "^2.0.0"
     vfile "^6.0.0"
