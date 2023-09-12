@@ -336,6 +336,7 @@
 - [Layer3](https://layer3.xyz/) - Layer3 is web3 teaching platform that is gamified and allows individuals to discover and learn about web3.
 - [Vyper](https://learn.vyperlang.org/#/) - Learn Vyper by building a Pokémon Game.
 - [Staking Academy](https://www.staking-academy.com/) - Staking Academy is content aggregation platform with the goal of educating people about blockchain technology, staking and DeFi.
+- [Web3coda](https://web3coda.com/) - Web3coda provides bite-sized, hands-on Web3 and Blockchain exercises with online environment (with pre installed/configured tools) and simple to follow manuals.
 - [Wriggly](https://wriggly.io/problemset/all) - Learn Solidity and smart contract development with interactive code challenges.
 
 ## YouTube Channel
