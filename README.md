@@ -94,7 +94,7 @@
 - [Solidity by Example](https://solidity-by-example.org) - Basic examples on Solidity.
 - [Web3 by Example](https://www.web3byexample.com/) - Basic examples on Ethers with JavaScript
 - [Vyper by Example](https://vyper-by-example.org/) - Basic examples on Vyper.
-- [Yul By Example](https://github.com/Perelyn-sama/yul_by_example) - Basic examples on Yul. 
+- [Yul By Example](https://github.com/Perelyn-sama/yul_by_example) - Basic examples on Yul.
 
 ### Development Environment
 
@@ -109,9 +109,15 @@
 - [Tenderly DevNets](https://docs.tenderly.co/devnets/intro-to-devnets) - Development Networks or DevNets are a zero-setup, managed development environment for developing, testing, and debugging smart contracts. With built-in debugging tools, DevNets eliminate the need to run any third-party software or to set up an environment.
 
 ### DevOps
+
 - [Cannon](https://usecannon.com/) - Continuous configuration automation & development cli multi-tool. Like Terraform, Docker and NPM for Ethereum.
 
+### Hosting
+
+- [dAppling Network](https://www.dappling.network/) - Decentralized web hosting platform for Web3 frontends focusing on increasing uptime, security, and providing an additional access point for users.
+
 ### SDK
+
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
 ### Protocol
@@ -141,7 +147,7 @@
 - [Rollup ID](https://rollup.id/) - User management for the private web.
 - [Aztec Network](https://aztec.network/) - Aztec Network is Layer 2 zk-rollup, designed to enable programmable privacy, that will run on Ethereum.
 - [IPOR](https://www.ipor.io/) - IPOR: The heartbeat of DeFi Fix your interest rate or hedge your exposure by leveraging non-custodial on-chain IPOR derivative instruments.
-- [Ajna protocol](https://www.ajna.finance/) - Ajna protocol is peer to peer, oracleless, permissionless lending protocol with no governance, accepting both fungible and non fungible tokens as collateral. 
+- [Ajna protocol](https://www.ajna.finance/) - Ajna protocol is peer to peer, oracleless, permissionless lending protocol with no governance, accepting both fungible and non fungible tokens as collateral.
 - [Synapse](https://synapseprotocol.com/) - Synapse Protocol enables cross-chain communication for facilitating transactions across blockchains.
 - [Router Protocol](https://github.com/router-resources/RouterProtocol) - Router Protocol bridges different layer 1 and layer 2 blockchains, enabling seamless cross-chain liquidity migration in DeFi. It facilitates token transfers between chains and cross-chain execution of operations.
 
@@ -214,6 +220,7 @@
 - [SpacesVM](https://github.com/ava-labs/spacesvm) - SpacesVM enables authenticated, hierarchical storage of arbitrary keys/values using any EIP-712 compatible wallet.
 
 ### No Code
+
 - [Polkadot.js](https://bubble.io/plugin/polkadot-wallet-1639402639641x977692461648052200) - Free and open-source plugin for no code platform bubble.io. Use polkadot.js to build a web3 app that interacts with the Polkadot chain without code. The plugin was built with the help from Web3 Foundation.
 - [Rarible SDK](https://bubble.io/plugin/rarible-sdk---nft-marketplace-1627909974342x941739732723564500) - Build an NFT marketplace without code, a free plugin for bubble.io. Deploy collections, set royalties/platform fees, bid, sell, etc.
 - [ZilPay](https://novabloq.com/plugin/1658481604911x430885793059376100) - Zilliqa Wallet plugin for bubble.io, connect your Bubble app to the Zilliqa Blockchain and interact with ZilPay Wallet.
@@ -378,7 +385,7 @@
 - [Week in Ethereum Newsletter](https://weekinethereumnews.com/) - Weekly updates from the Ethereum ecosystem.
 - [Developer DAO Newsletter](https://developerdao.substack.com/) - Articles from Developer DAO directly inside your inbox.
 - [BuidlGuidl Newsletter](https://buidlguidl.substack.com/) - A newsletter about Ethereum builders creating products, prototypes, and tutorials.
-- [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/) -  Newsletter about blockchain, DeFi and exchange threat intelligence on hacks, vulnerabilities, security tools.
+- [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/) - Newsletter about blockchain, DeFi and exchange threat intelligence on hacks, vulnerabilities, security tools.
 - [Hashing Bits](https://quillaudits.substack.com/) - Hashing Bits is Web3 Cybersecurity focused weekly newsletter.
 - [WebThree.FYI](https://www.dailydropout.fyi/web3) - Learn about DeFi, NFTs, DAOs, cryptocurrencies, and other projects.
 
