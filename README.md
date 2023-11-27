@@ -282,6 +282,7 @@
 - [Adelaide](https://github.com/sec-bit/adelaide) - The SECBIT static analysis extension to Solidity compiler.
 - [solc-verify](https://github.com/SRI-CSL/solidity/) - A modular verifier for Solidity smart contracts.
 - [Solidity security blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns.
+- [EVMole](https://github.com/cdump/evmole) - Extracts function selectors from EVM bytecode, even for unverified contracts.
 
 ## Open Source Project
 
