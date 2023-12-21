@@ -179,6 +179,7 @@
 - [notify](https://github.com/blocknative/notify) - JavaScript library for real time notifications for Ethereum transaction state changes.
 - [Dynamic](https://www.dynamic.xyz/) - Web3 authentication platform and multi-chain wallet connection library.
 - [sequence.js](https://github.com/0xsequence/sequence.js) - Sequence is modular web3 stack and smart wallet for Ethereum chains.
+- [attestate/crawler](https://github.com/attestate/crawler) - JavaScript library for retrieving on-chain storage and generating data derivatives.
 
 ### Solidity
 
