@@ -308,7 +308,7 @@
 - [Fuel](https://www.fuel.network/) - Fuel is the fastest execution layer for the modular blockchain stack.
 - [Hugin Messenger - Desktop](https://github.com/kryptokrona/hugin-desktop) - Private messaging application on Kryptokrona Blockchain for desktop.
 - [Hugin Messenger - Mobile](https://github.com/kryptokrona/hugin-mobile) - Private messaging application on Kryptokrona Blockchain for mobile.
-- [Ambire Wallet](https://www.ambire.com) - Open source Web3 wallet that makes self-custody easy and secure via account abstraction.
+- [Ambire Wallet](https://github.com/AmbireTech/wallet) - Open source Web3 wallet that makes self-custody easy and secure via account abstraction.
 
 ## Tutorial
 
