@@ -309,6 +309,7 @@
 - [Hugin Messenger - Desktop](https://github.com/kryptokrona/hugin-desktop) - Private messaging application on Kryptokrona Blockchain for desktop.
 - [Hugin Messenger - Mobile](https://github.com/kryptokrona/hugin-mobile) - Private messaging application on Kryptokrona Blockchain for mobile.
 - [Ambire Wallet](https://github.com/AmbireTech/wallet) - Open source Web3 wallet that makes self-custody easy and secure via account abstraction.
+- [Mobula](https://github.com/MobulaFi/mobula-ui) - Mobula App is an open-source coin & portfolio tracking platform
 
 ## Tutorial
 
