@@ -157,7 +157,7 @@
 ### JavaScript
 
 - [RainbowKit](https://www.rainbowkit.com/) - React library that makes it easy to add wallet connection to your dapp.
-- [OnchainKit](https://github.com/coinbase/onchainkit) - A collection of tools to build world-class onchain apps with CSS, React, and Typescript.
+- [OnchainKit](https://github.com/coinbase/onchainkit) - Collection of tools to build world-class onchain apps with CSS, React, and Typescript.
 - [avalanchejs](https://github.com/ava-labs/avalanchejs) - JavaScript Library for interfacing with the Avalanche Platform.
 - [Avalanche Wallet SDK](https://github.com/ava-labs/avalanche-wallet-sdk) - Typescript library to create and manage wallets on the Avalanche network.
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - Bitcoin library for node.js and browsers.
