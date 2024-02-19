@@ -327,10 +327,10 @@
   resolved "https://registry.yarnpkg.com/@ungap/structured-clone/-/structured-clone-1.2.0.tgz#756641adb587851b5ccb3e095daf27ae581c8406"
   integrity sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==
 
-"@vercel/analytics@^1.1.3":
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/@vercel/analytics/-/analytics-1.1.3.tgz#43e74a2bbeb23c679bae40aefec732b49452c765"
-  integrity sha512-Z0l0y8TnUnnxr+on7oIMB9qQOoSJIniYMzUng6+NU8VVDkZ+kt2QGD5hzODwsuiRJAsjW528iUEtbWCEGkSCCg==
+"@vercel/analytics@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@vercel/analytics/-/analytics-1.2.1.tgz#4e215a390b6373834dbe2420e72a9d8c5487d86f"
+  integrity sha512-ZB5gDPCQvHu0DcBbywIwMm5aY9mTV8mBl7Mmk8QD84JqBnuYbsNCDnnDuzblNjd82tDtRjAqruZ0mzNm6MAWpA==
   dependencies:
     server-only "^0.0.1"
 
