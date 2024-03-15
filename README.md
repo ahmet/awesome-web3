@@ -122,6 +122,7 @@
 ### SDK
 
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
+- [Tatum SDK]([https://github.com/tatumio](https://github.com/tatumio/tatum-js)) - Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.
 
 ### Protocol
 
@@ -183,6 +184,7 @@
 - [sequence.js](https://github.com/0xsequence/sequence.js) - Sequence is modular web3 stack and smart wallet for Ethereum chains.
 - [attestate/crawler](https://github.com/attestate/crawler) - JavaScript library for retrieving on-chain storage and generating data derivatives.
 - [signature-validator](https://github.com/AmbireTech/signature-validator/) - TypeScript library that supports validation of any type of signature: account abstraction (ERC-1271, ERC-6492), standard EOA signatures, ERC-712.
+- [Tatum JavaScript SDK](https://github.com/tatumio/tatum-js) - Tatum SKD is a powerful, feature-rich TypeScript/JavaScript library that streamlines the 🛠development of blockchain applications.
 
 
 ### Solidity
@@ -311,6 +313,7 @@
 - [Hugin Messenger - Mobile](https://github.com/kryptokrona/hugin-mobile) - Private messaging application on Kryptokrona Blockchain for mobile.
 - [Ambire Wallet](https://github.com/AmbireTech/wallet) - Open source Web3 wallet that makes self-custody easy and secure via account abstraction.
 - [Mobula](https://github.com/MobulaFi/mobula-ui) - Mobula App is an open-source coin & portfolio tracking platform
+- [Tatum](https://github.com/tatumio/tatum-js) - Tatum is an open source SDK that provides the infrastructure and a unified framework for 90+ blockchain protocols, allowing any developer to build Web3 applications.
 
 ## Tutorial
 
@@ -375,6 +378,7 @@
 - [HashLips NFT](https://www.youtube.com/@HashLipsNFT/featured) - Web3 Focused and has content on Blockchain development, and other topics.
 - [Whiteboard Crypto](https://www.youtube.com/@WhiteboardCrypto/featured) - Visually learn about Web3, Cryptocurrencies and many other concepts.
 - [Jarrod Watts](https://www.youtube.com/@JarrodWatts/featured) - Learn how to build full-stack dApps with thirdweb and other web3 concepts.
+- [Tatum](https://www.youtube.com/@TatumWeb3) - Discover how to easily and quickly build Web3 apps and projects like crypto wallets, NFT apps, or blockchain-based games using Tatum.
 
 ## Book
 
