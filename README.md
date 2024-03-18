@@ -183,6 +183,7 @@
 - [sequence.js](https://github.com/0xsequence/sequence.js) - Sequence is modular web3 stack and smart wallet for Ethereum chains.
 - [attestate/crawler](https://github.com/attestate/crawler) - JavaScript library for retrieving on-chain storage and generating data derivatives.
 - [signature-validator](https://github.com/AmbireTech/signature-validator/) - TypeScript library that supports validation of any type of signature: account abstraction (ERC-1271, ERC-6492), standard EOA signatures, ERC-712.
+- [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - Simple WalletConnect Web3Modal v2 integration package for Vue3 apps.
 
 
 ### Solidity
