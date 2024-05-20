@@ -422,6 +422,7 @@
 - [Apillon](https://apillon.io/)
 - [rivet.cloud](https://rivet.cloud/)
 - [Tatum](https://tatum.io/)
+- [Juno](https://juno.build)
 
 ## Other
 
