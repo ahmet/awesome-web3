@@ -53,7 +53,7 @@
 - [Blockchain](https://github.com/yjjnls/awesome-blockchain) - Curated list of resources for the development and applications of blockchain.
 - [ethereum-security](https://github.com/crytic/awesome-ethereum-security) - Curated list of Ethereum security references, guidance, tools, and more.
 - [Foundry](https://github.com/crisgarner/awesome-foundry) - Curated list of awesome Foundry resources, tutorials, tools and libraries.
-- [Reth](https://github.com/jmcph4/awesome-reth) - Curated list of awesome Reth resources
+- [Reth](https://github.com/jmcph4/awesome-reth) - Curated list of awesome Reth resources.
 - [Algorand](https://github.com/aorumbayev/awesome-algorand) - Curated list of awesome resources related to the Algorand Blockchain.
 - [Vyper](https://github.com/spadebuilders/awesome-vyper) - Curated resources for Vyper, the Pythonic smart contract language for the EVM.
 - [StarkNet](https://github.com/gakonst/awesome-starknet) - Curated list of awesome StarkNet resources, libraries, tools and more.
@@ -212,7 +212,7 @@
 
 ### Rust
 
-- [Reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+- [Reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust.
 - [OpenEthereum](https://github.com/openethereum/openethereum) - The fast, light, and robust client for the Ethereum mainnet.
 
 ### Shell
