@@ -11,6 +11,8 @@
     - [Communities](#communities)
     - [Sample Code](#sample-code)
     - [Development Environment](#development-environment)
+    - [DevOps](#devops)
+    - [Hosting](#hosting)
     - [SDK](#sdk)
     - [Protocol](#protocol)
     - [JavaScript](#javascript)
@@ -431,6 +433,7 @@
 - [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
 - [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/) - Unofficial Ecosystem page for Ethereum and its Layer 2s featuring 900+ dApps and tools across Optimism, Base, Starknet and more.
+- [Formo](https://formo.so) - Web3 forms and product analytics for web3 teams.
 
 ## Contribute
 
