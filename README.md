@@ -11,6 +11,8 @@
     - [Communities](#communities)
     - [Sample Code](#sample-code)
     - [Development Environment](#development-environment)
+    - [DevOps](#devops)
+    - [Hosting](#hosting)
     - [SDK](#sdk)
     - [Protocol](#protocol)
     - [JavaScript](#javascript)
@@ -236,6 +238,7 @@
 - [Rarible SDK](https://bubble.io/plugin/rarible-sdk---nft-marketplace-1627909974342x941739732723564500) - Build an NFT marketplace without code, a free plugin for bubble.io. Deploy collections, set royalties/platform fees, bid, sell, etc.
 - [ZilPay](https://novabloq.com/plugin/1658481604911x430885793059376100) - Zilliqa Wallet plugin for bubble.io, connect your Bubble app to the Zilliqa Blockchain and interact with ZilPay Wallet.
 - [ChainJet](https://chainjet.io) - No-code platform for building on-chain or off-chain task automations. Use ChainJet to integrate multiple web3 services to automate all kinds of tasks.
+- [Layer4](https://www.layer4.app) - No-code and low-code blockchain integration platform. Deploy standard token contracts or persist data on-chain with a few clicks.
 - [WalletConnect](https://novabloq.com/plugin/walletconnect-official-1671213284712x803510314952042000) - Web3Modal v2 SDK with updated UI integrated into a plugin for bubble.io - Connect a wallet, sign a message, detect chain or account changed.
 
 ### Boilerplate
@@ -422,6 +425,7 @@
 - [walletOS](https://www.pinestreetlabs.com/walletos/)
 - [Tenderly](https://tenderly.co)
 - [Apillon](https://apillon.io/)
+- [Layer4](https://www.layer4.app)
 - [rivet.cloud](https://rivet.cloud/)
 - [Tatum](https://tatum.io/)
 - [Juno](https://juno.build)
