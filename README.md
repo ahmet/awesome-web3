@@ -67,7 +67,7 @@
 - [MakerDAO](https://github.com/makerdao/awesome-makerdao) - Collection of tools, documents, articles, blog posts, interviews, and videos related to MakerDAO and the Dai stablecoin.
 - [Kiwi](https://github.com/attestate/awesome-kiwinews) - Collection of documents, clients, apps, APIs, and other resources related to Kiwi protocol.
 - [Accout Abstraction](https://github.com/4337Mafia/awesome-account-abstraction) - Collection of account abstraction resources.
- 
+
 ## Reference
 
 - [BIPs](https://github.com/bitcoin/bips) - Bitcoin Improvement Proposals.
@@ -189,7 +189,6 @@
 - [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - Simple WalletConnect Web3Modal v2 integration package for Vue3 apps.
 - [@token-icons/react](https://github.com/0xa3k5/token-icons) - Over 2,500 optimized SVG token icons as React components and SVG imports for cryptocurrencies.
 
-
 ### Solidity
 
 - [Date and Time tools](https://github.com/pipermerriam/ethereum-datetime) - Contract which implements utilities for working with datetime values in ethereum.
@@ -206,6 +205,7 @@
 - [coreth](https://github.com/ava-labs/coreth) - Code and wrapper to extract Ethereum blockchain functionalities without network/consensus, for building custom blockchain services.
 - [geth](https://geth.ethereum.org) - Official Go implementation of the Ethereum protocol.
 - [subnet-cli](https://github.com/ava-labs/subnet-cli) - CLI tool to manage Avalanche Subnets.
+- [eRPC](https://github.com/erpc/erpc) - Open-source EVM RPC proxy & cache service built to scale horizontally from small traffic to million RPS across many chains, optimized for read-heavy use-cases such as Indexers, Frontends, MEV bots, etc.
 
 ### C/C++
 
