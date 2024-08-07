@@ -240,7 +240,7 @@
 - [ChainJet](https://chainjet.io) - No-code platform for building on-chain or off-chain task automations. Use ChainJet to integrate multiple web3 services to automate all kinds of tasks.
 - [Layer4](https://www.layer4.app) - No-code and low-code blockchain integration platform. Deploy standard token contracts or persist data on-chain with a few clicks.
 - [WalletConnect](https://novabloq.com/plugin/walletconnect-official-1671213284712x803510314952042000) - Web3Modal v2 SDK with updated UI integrated into a plugin for bubble.io - Connect a wallet, sign a message, detect chain or account changed.
-- [Minting.tools] - No-code ERC20 token generator. Free to use, shares flattened contract code for verification after deployment. Works with any EVM blockchain. Only requirement is a Web3 wallet, and gas on the chain you'd like to use.
+- [Minting.tools](https://minting.tools) - No-code ERC20 token generator. Free to use, shares flattened contract code for verification after deployment. Works with any EVM blockchain. Only requirement is a Web3 wallet, and gas on the chain you'd like to use.
 
 ### Boilerplate
 
