@@ -187,7 +187,7 @@
 - [attestate/crawler](https://github.com/attestate/crawler) - JavaScript library for retrieving on-chain storage and generating data derivatives.
 - [signature-validator](https://github.com/AmbireTech/signature-validator/) - TypeScript library that supports validation of any type of signature: account abstraction (ERC-1271, ERC-6492), standard EOA signatures, ERC-712.
 - [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - Simple WalletConnect Web3Modal v2 integration package for Vue3 apps.
-- [@token-icons/react](https://github.com/0xa3k5/token-icons) - Over 2,500 optimized SVG token icons as React components and SVG imports for cryptocurrencies.
+- [@web3icons/react](https://github.com/0xa3k5/web3icons) - Web3 icons as React components. Includes tokens, coins, networks, wallets.
 
 ### Solidity
 
