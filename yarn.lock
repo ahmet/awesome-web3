@@ -124,10 +124,10 @@
   resolved "https://registry.yarnpkg.com/@next/env/-/env-14.2.14.tgz#08f5175dab727102da02301ba61f7239773670fa"
   integrity sha512-/0hWQfiaD5//LvGNgc8PjvyqV50vGK0cADYzaoOOGN8fxzBn3iAiaq3S0tCRnFBldq0LVveLcxCTi41ZoYgAgg==
 
-"@next/eslint-plugin-next@14.2.14":
-  version "14.2.14"
-  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-14.2.14.tgz#091581faecd7f2c434b2ba85dbe935d743d542a2"
-  integrity sha512-kV+OsZ56xhj0rnTn6HegyTGkoa16Mxjrpk7pjWumyB2P8JVQb8S9qtkjy/ye0GnTr4JWtWG4x/2qN40lKZ3iVQ==
+"@next/eslint-plugin-next@14.2.15":
+  version "14.2.15"
+  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-14.2.15.tgz#796ae942a95b859e1add58e5b7ae78cfd55d59bb"
+  integrity sha512-pKU0iqKRBlFB/ocOI1Ip2CkKePZpYpnw5bEItEkuZ/Nr9FQP1+p7VDWr4VfOdff4i9bFmrOaeaU1bFEyAcxiMQ==
   dependencies:
     glob "10.3.10"
 
@@ -1051,12 +1051,12 @@ escape-string-regexp@^4.0.0:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz#14ba83a5d373e3d311e5afca29cf5bfad965bf34"
   integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
 
-eslint-config-next@14.2.14:
-  version "14.2.14"
-  resolved "https://registry.yarnpkg.com/eslint-config-next/-/eslint-config-next-14.2.14.tgz#b2b5dedadd4afe20e2103b0ec44eb2f1d211fc63"
-  integrity sha512-TXwyjGICAlWC9O0OufS3koTsBKQH8l1xt3SY/aDuvtKHIwjTHplJKWVb1WOEX0OsDaxGbFXmfD2EY1sNfG0Y/w==
+eslint-config-next@14.2.15:
+  version "14.2.15"
+  resolved "https://registry.yarnpkg.com/eslint-config-next/-/eslint-config-next-14.2.15.tgz#ff9661835eaf9f2ef1717ace55073a8f71037fab"
+  integrity sha512-mKg+NC/8a4JKLZRIOBplxXNdStgxy7lzWuedUaCc8tev+Al9mwDUTujQH6W6qXDH9kycWiVo28tADWGvpBsZcQ==
   dependencies:
-    "@next/eslint-plugin-next" "14.2.14"
+    "@next/eslint-plugin-next" "14.2.15"
     "@rushstack/eslint-patch" "^1.3.3"
     "@typescript-eslint/eslint-plugin" "^5.4.2 || ^6.0.0 || ^7.0.0 || ^8.0.0"
     "@typescript-eslint/parser" "^5.4.2 || ^6.0.0 || ^7.0.0 || ^8.0.0"
