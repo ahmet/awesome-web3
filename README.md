@@ -22,6 +22,7 @@
     - [Rust](#rust)
     - [Shell](#shell)
     - [Python](#python)
+    - [Dart](#dart)
     - [VMs](#vms)
     - [No Code](#no-code)
     - [Boilerplate](#boilerplate)
@@ -227,6 +228,10 @@
 - [py-evm](https://github.com/ethereum/py-evm) - Ethereum protocol implementation in Python.
 - [Vyper](https://github.com/vyperlang/vyper) - Contract-oriented, pythonic programming language that targets EVM.
 - [web3.py](https://github.com/ethereum/web3.py) - Python interface for interacting with the Ethereum blockchain and ecosystem.
+
+### Dart
+
+- [Polkadart](https://github.com/leonardocustodio/polkadart) - Dart library to interact with any Polkadot based blockchain.
 
 ### VMs
 
