@@ -146,7 +146,6 @@
 - [Arweave](https://www.arweave.org/) - Arweave is protocol that allows you to permanently and sustainably store data for a single upfront fee.
 - [Livepeer](https://livepeer.org/) - Livepeer is Ethereum-based protocol that distributes video transcoding work throughout its decentralized network.
 - [Compound](https://compound.finance/) - Compound is algorithmic, autonomous interest rate protocol built for developers, to unlock universe of open financial applications.
-- [Yield](https://yieldprotocol.com/) - Yield Protocol is permissionless market for collateralized fixed-rate borrowing and lending.
 - [Euler](https://www.euler.finance/) - Euler is non-custodial protocol on Ethereum that allows users to lend and borrow almost any crypto asset.
 - [Unitas](https://unitas.foundation/) - Unitas Protocol enables financial sovereignty by granting people the right to choose their units of account while transacting with each other.
 - [Sablier](https://sablier.finance/) - Sablier is money streaming protocol that aims to be used for streaming payments and achieve near real-time transactions.
@@ -176,7 +175,7 @@
 - [web3-react](https://github.com/NoahZinsmeister/web3-react) - Simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps.
 - [db3.js](https://github.com/dbpunk-labs/db3.js) - DB3.js is SDK of DB3 network, a community-driven layer2 decentralized database network.
 - [ensjs](https://github.com/ensdomains/ensjs) - Javascript bindings for the Ethereum Name Service.
-- [Lens.js](https://lensjs.suhailkakar.com/) - Lens.js is JavaScript SDK or API wrapper for the Lens API.
+- [Lens.js](https://github.com/suhailkakar/lens.js/) - Lens.js is JavaScript SDK or API wrapper for the Lens API.
 - [bee-js](https://github.com/ethersphere/bee-js) - Javascript client library for connecting to Bee decentralised storage.
 - [livepeer.js](https://github.com/livepeer/livepeer.js) - Liverpeer.js provides core vanilla JS library and React hooks/components to easily connect to a Livepeer provider.
 - [solana-web3.js](https://github.com/solana-labs/solana-web3.js) - Solana Javascript API built on the Solana JSON RPC API.
@@ -341,7 +340,7 @@
 - Intro to dApp's: Create your dApp frontend with React. - [link](https://eda.hashnode.dev/intro-to-dapps-create-your-dapp-frontend-withreact)
 - What is a crypto wallet & how does it work? - [link](https://eda.hashnode.dev/what-is-a-crypto-wallet-and-how-does-it-work)
 - Create your cryptocurrency token. - [link](https://eda.hashnode.dev/create-your-own-cryptocurrency-token)
-- Solidity and Truffle CI setup. - [link](https://ethereum.org/en/developers/tutorials/solidity-and-truffle-continuous-integration-setup)
+- Solidity and Truffle CI setup. - [link](https://soliditydeveloper.com/continuous-integration)
 - How to use Slither to find smart contract bugs. - [link](https://ethereum.org/en/developers/tutorials/how-to-use-slither-to-find-smart-contract-bugs)
 - How to mock Solidity smart contracts for testing. - [link](https://ethereum.org/en/developers/tutorials/how-to-mock-solidity-contracts-for-testing)
 - Building EVM from scratch. - [link](https://karmacoma.notion.site/Building-an-EVM-from-scratch-part-1-c28ebb4200c94f6fb75948a5feffc686) [source code](https://github.com/karmacoma-eth/yolo-evm/tree/evm-from-scratch-pt1)
@@ -351,7 +350,7 @@
 - [Cadena](https://www.cadena.dev/) - Cadena is a free platform where you can learn by coding smart contracts, NFTs, tokens and more.
 - Building Full Stack Permanent Applications with Arweave, Smartweave and Next.js. - [link](https://dev.to/dabit3/building-full-stack-applications-with-arweave-and-nextjs-28hg)
 - Building and Testing Smart Contracts with Foundry by Paradigm. - [link](https://dev.to/dabit3/building-smart-contracts-with-foundry-by-paradigm-2gfm)
-- Building a Full Stack Web3 YouTube Clone with Next, IPFS, The Graph, Solidity, and Livepeer. - [link](https://blog.suhailkakar.com/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-livepeer)
+- Building a Full Stack Web3 YouTube Clone with Next, IPFS, The Graph, Solidity, and Livepeer. - [link](https://www.suhailkakar.com/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-livepeer)
 - [ODYSSEY](https://www.odysseydao.com/) - Odyssey is great platform to understand blochchain, NFTs, web3 concepts, Defi, Dao and more.
 - [Bankless Academy](https://app.banklessacademy.com/) - Bankless Academy is on a mission to ensure every web3 Explorer is ready for their crypto-verse voyage.
 - [Speed Run Ethereum](https://speedrunethereum.com/) - Learn how to build on Ethereum; the superpowers and the gotchas.
@@ -362,7 +361,7 @@
 - [How To Web3](https://www.howtoweb3.guide/) - All essential resources to learn and build web3 projects in one place.
 - [Developer DAO Academy](https://academy.developerdao.com/) - Developer DAO Academy is open-source education platform created by the Developer DAO.
 - [Metaschool](https://metaschool.so/) - Metaschool is free and trusted resource to become a Web3 Developer by building & shipping dApps.
-- [SimpleHash](https://docs.simplehash.com/recipes) - Tutorials for retrieving NFT metadata, media, sales and collection info from multiple chains.
+- [SimpleHash](https://docs.simplehash.com/reference) - Tutorials for retrieving NFT metadata, media, sales and collection info from multiple chains.
 - [Ape Academy](https://academy.apeworx.io/) - Learn how to build smart contracts with Python and Vyper.
 - [NFT School](https://nftschool.dev/) - Learn everything there is to know about NFT from the ground up.
 - [Layer3](https://layer3.xyz/) - Layer3 is web3 teaching platform that is gamified and allows individuals to discover and learn about web3.
@@ -387,7 +386,7 @@
 - [Thirdweb](https://youtube.com/@thirdweb_) - Tutorials about full stack web3 development.
 - [Delphi Digital](https://www.youtube.com/@Delphi_Digital) - Tapping the brains of leaders across all verticals in the digital asset industry.
 - [Bankless Shows](https://www.youtube.com/@Bankless) - The ultimate guide to crypto finance.
-- [HashLips NFT](https://www.youtube.com/@HashLipsNFT/featured) - Web3 Focused and has content on Blockchain development, and other topics.
+- [HashLips NFT](https://www.youtube.com/@HashLipsAcademy/playlists) - Web3 Focused and has content on Blockchain development, and other topics.
 - [Whiteboard Crypto](https://www.youtube.com/@WhiteboardCrypto/featured) - Visually learn about Web3, Cryptocurrencies and many other concepts.
 - [Jarrod Watts](https://www.youtube.com/@JarrodWatts/featured) - Learn how to build full-stack dApps with thirdweb and other web3 concepts.
 
