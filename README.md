@@ -330,7 +330,6 @@
 
 - [useWeb3](https://www.useweb3.xyz) - Learning platform for developers to explore and learn about Web3.
 - [CryptoZombies](https://cryptozombies.io) - Interactive school that teaches you all things technical about blockchains.
-- [Figment Learn](https://learn.figment.io) - Tutorials for various use cases and networks, Avalanche, Solana, Polygon and more.
 - [Buildspace](https://buildspace.so/) - Cohort based web3 development courses, learn by building projects.
 - The complete guide to full stack Solana development with React, Anchor, Rust, and Phantom. - [link](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 - The complete guide to full stack Ethereum development. - [link](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
@@ -364,7 +363,6 @@
 - [Metaschool](https://metaschool.so/) - Metaschool is free and trusted resource to become a Web3 Developer by building & shipping dApps.
 - [SimpleHash](https://docs.simplehash.com/reference) - Tutorials for retrieving NFT metadata, media, sales and collection info from multiple chains.
 - [Ape Academy](https://academy.apeworx.io/) - Learn how to build smart contracts with Python and Vyper.
-- [NFT School](https://nftschool.dev/) - Learn everything there is to know about NFT from the ground up.
 - [Layer3](https://layer3.xyz/) - Layer3 is web3 teaching platform that is gamified and allows individuals to discover and learn about web3.
 - [Vyper](https://learn.vyperlang.org/#/) - Learn Vyper by building a Pokémon Game.
 - [Staking Academy](https://www.staking-academy.com/) - Staking Academy is content aggregation platform with the goal of educating people about blockchain technology, staking and DeFi.
