@@ -13,7 +13,7 @@
     "@vercel/speed-insights": "^1.2.0",
     "next": "15.2.4",
     "react": "19.1.0",
-    "react-dom": "19.0.0",
+    "react-dom": "19.1.0",
     "react-render-html": "^0.6.0",
     "rehype-autolink-headings": "^7.1.0",
     "rehype-external-links": "^3.0.0",
