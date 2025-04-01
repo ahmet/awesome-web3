@@ -1,5 +1,6 @@
 import { readFileSync } from 'fs'
 import { unified } from 'unified'
+import { join } from 'path';
 import remarkParse from 'remark-parse'
 import remarkRehype from 'remark-rehype'
 import rehypeRaw from 'rehype-raw'
