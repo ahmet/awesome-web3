@@ -11,6 +11,8 @@
     - [Communities](#communities)
     - [Sample Code](#sample-code)
     - [Development Environment](#development-environment)
+    - [DevOps](#devops)
+    - [Hosting](#hosting)
     - [SDK](#sdk)
     - [Protocol](#protocol)
     - [JavaScript](#javascript)
@@ -20,6 +22,7 @@
     - [Rust](#rust)
     - [Shell](#shell)
     - [Python](#python)
+    - [Dart](#dart)
     - [VMs](#vms)
     - [No Code](#no-code)
     - [Boilerplate](#boilerplate)
@@ -42,6 +45,7 @@
 
 - [Solidity](https://github.com/bkrem/awesome-solidity) - Curated list of awesome Solidity resources, libraries, tools and more.
 - [Ethereum](https://github.com/bekatom/awesome-ethereum) - Awesome Ethereum & Dapps Resources.
+- [Avalanche](https://github.com/arminreiter/awesome-avalanche) - Curated list of awesome Avalanche DApps, NFTs, Games, Memes, Community Members and other Avalanche resources.
 - [Thirdweb](https://github.com/warengonzaga/awesome-thirdweb) - Curated list of awesome thirdweb resources, libraries, examples, showcase, and open source projects.
 - [Farcaster Protocol](https://github.com/a16z/awesome-farcaster) - A collection of awesome Farcaster links including clients, tools, and more.
 - [Lens Protocol](https://github.com/0xJuancito/awesome-lens-protocol) - Curated list of awesome Lens Protocol projects, resources, libraries, tools and more.
@@ -53,6 +57,7 @@
 - [Blockchain](https://github.com/yjjnls/awesome-blockchain) - Curated list of resources for the development and applications of blockchain.
 - [ethereum-security](https://github.com/crytic/awesome-ethereum-security) - Curated list of Ethereum security references, guidance, tools, and more.
 - [Foundry](https://github.com/crisgarner/awesome-foundry) - Curated list of awesome Foundry resources, tutorials, tools and libraries.
+- [Reth](https://github.com/jmcph4/awesome-reth) - Curated list of awesome Reth resources.
 - [Algorand](https://github.com/aorumbayev/awesome-algorand) - Curated list of awesome resources related to the Algorand Blockchain.
 - [Vyper](https://github.com/spadebuilders/awesome-vyper) - Curated resources for Vyper, the Pythonic smart contract language for the EVM.
 - [StarkNet](https://github.com/gakonst/awesome-starknet) - Curated list of awesome StarkNet resources, libraries, tools and more.
@@ -63,8 +68,9 @@
 - [Blockchain Scalability](https://github.com/lucadonnoh/awesome-blockchain-scalability) - Curated list of awesome resources about blockchain scalability.
 - [MakerDAO](https://github.com/makerdao/awesome-makerdao) - Collection of tools, documents, articles, blog posts, interviews, and videos related to MakerDAO and the Dai stablecoin.
 - [Kiwi](https://github.com/attestate/awesome-kiwinews) - Collection of documents, clients, apps, APIs, and other resources related to Kiwi protocol.
-- [Accout Abstraction](https://github.com/4337Mafia/awesome-account-abstraction) - Collection of account abstraction resources.
- 
+- [Account Abstraction](https://github.com/4337Mafia/awesome-account-abstraction) - Collection of account abstraction resources.
+- [ETH Gas Tracker](https://www.ethgastracker.com/) - Monitor and track Ethereum and L2 gas prices to reduce transaction fees, save money and take control of your blockchain experience
+
 ## Reference
 
 - [BIPs](https://github.com/bitcoin/bips) - Bitcoin Improvement Proposals.
@@ -142,13 +148,11 @@
 - [Arweave](https://www.arweave.org/) - Arweave is protocol that allows you to permanently and sustainably store data for a single upfront fee.
 - [Livepeer](https://livepeer.org/) - Livepeer is Ethereum-based protocol that distributes video transcoding work throughout its decentralized network.
 - [Compound](https://compound.finance/) - Compound is algorithmic, autonomous interest rate protocol built for developers, to unlock universe of open financial applications.
-- [Yield](https://yieldprotocol.com/) - Yield Protocol is permissionless market for collateralized fixed-rate borrowing and lending.
 - [Euler](https://www.euler.finance/) - Euler is non-custodial protocol on Ethereum that allows users to lend and borrow almost any crypto asset.
 - [Unitas](https://unitas.foundation/) - Unitas Protocol enables financial sovereignty by granting people the right to choose their units of account while transacting with each other.
 - [Sablier](https://sablier.finance/) - Sablier is money streaming protocol that aims to be used for streaming payments and achieve near real-time transactions.
 - [Pika Protocol](https://www.pikaprotocol.com/) - Pika is one of the most leveraged DeFi protocols, offering up to 100 times leverage on trades.
 - [Ocean Protocol](https://oceanprotocol.com/) - Ocean protocol aims to allow businesses and individuals to exchange and monetize data and data-based services.
-- [Rollup ID](https://rollup.id/) - User management for the private web.
 - [Aztec Network](https://aztec.network/) - Aztec Network is Layer 2 zk-rollup, designed to enable programmable privacy, that will run on Ethereum.
 - [IPOR](https://www.ipor.io/) - IPOR: The heartbeat of DeFi Fix your interest rate or hedge your exposure by leveraging non-custodial on-chain IPOR derivative instruments.
 - [Ajna protocol](https://www.ajna.finance/) - Ajna protocol is peer to peer, oracleless, permissionless lending protocol with no governance, accepting both fungible and non fungible tokens as collateral.
@@ -172,7 +176,7 @@
 - [web3-react](https://github.com/NoahZinsmeister/web3-react) - Simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps.
 - [db3.js](https://github.com/dbpunk-labs/db3.js) - DB3.js is SDK of DB3 network, a community-driven layer2 decentralized database network.
 - [ensjs](https://github.com/ensdomains/ensjs) - Javascript bindings for the Ethereum Name Service.
-- [Lens.js](https://lensjs.suhailkakar.com/) - Lens.js is JavaScript SDK or API wrapper for the Lens API.
+- [Lens.js](https://github.com/suhailkakar/lens.js/) - Lens.js is JavaScript SDK or API wrapper for the Lens API.
 - [bee-js](https://github.com/ethersphere/bee-js) - Javascript client library for connecting to Bee decentralised storage.
 - [livepeer.js](https://github.com/livepeer/livepeer.js) - Liverpeer.js provides core vanilla JS library and React hooks/components to easily connect to a Livepeer provider.
 - [solana-web3.js](https://github.com/solana-labs/solana-web3.js) - Solana Javascript API built on the Solana JSON RPC API.
@@ -185,7 +189,8 @@
 - [attestate/crawler](https://github.com/attestate/crawler) - JavaScript library for retrieving on-chain storage and generating data derivatives.
 - [signature-validator](https://github.com/AmbireTech/signature-validator/) - TypeScript library that supports validation of any type of signature: account abstraction (ERC-1271, ERC-6492), standard EOA signatures, ERC-712.
 - [Tatum JavaScript SDK](https://github.com/tatumio/tatum-js) - Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.
-
+- [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - Simple WalletConnect Web3Modal v2 integration package for Vue3 apps.
+- [@web3icons/react](https://github.com/0xa3k5/web3icons) - Web3 icons as React components. Includes tokens, coins, networks, wallets.
 
 ### Solidity
 
@@ -200,9 +205,11 @@
 - [avalanche-network-runner](https://github.com/ava-labs/avalanche-network-runner) - Tool to run and interact with an Avalanche network locally.
 - [ava-sim](https://github.com/ava-labs/ava-sim) - Helper tool to spin up a local instance of an Avalanche network to interact with the standard APIs or to test a custom VM.
 - [ethereum-hdwallet](https://github.com/miguelmota/go-ethereum-hdwallet) - Ethereum HD Wallet derivations from seed which implements the go-ethereum's accounts.Wallet interface.
+- [tss-lib](https://github.com/bnb-chain/tss-lib) - This is an implementation of multi-party {t,n}-threshold ECDSA (Elliptic Curve Digital Signature Algorithm) based on Gennaro and Goldfeder CCS 2018 1 and EdDSA (Edwards-curve Digital Signature Algorithm)
 - [coreth](https://github.com/ava-labs/coreth) - Code and wrapper to extract Ethereum blockchain functionalities without network/consensus, for building custom blockchain services.
 - [geth](https://geth.ethereum.org) - Official Go implementation of the Ethereum protocol.
 - [subnet-cli](https://github.com/ava-labs/subnet-cli) - CLI tool to manage Avalanche Subnets.
+- [eRPC](https://github.com/erpc/erpc) - Open-source EVM RPC proxy & cache service built to scale horizontally from small traffic to million RPS across many chains, optimized for read-heavy use-cases such as Indexers, Frontends, MEV bots, etc.
 
 ### C/C++
 
@@ -211,6 +218,7 @@
 
 ### Rust
 
+- [Reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust.
 - [OpenEthereum](https://github.com/openethereum/openethereum) - The fast, light, and robust client for the Ethereum mainnet.
 
 ### Shell
@@ -223,6 +231,10 @@
 - [Vyper](https://github.com/vyperlang/vyper) - Contract-oriented, pythonic programming language that targets EVM.
 - [web3.py](https://github.com/ethereum/web3.py) - Python interface for interacting with the Ethereum blockchain and ecosystem.
 
+### Dart
+
+- [Polkadart](https://github.com/leonardocustodio/polkadart) - Dart library to interact with any Polkadot based blockchain.
+
 ### VMs
 
 - [evmone](https://github.com/ethereum/evmone) - C++ implementation of the Ethereum Virtual Machine (EVM), faster.
@@ -234,7 +246,9 @@
 - [Rarible SDK](https://bubble.io/plugin/rarible-sdk---nft-marketplace-1627909974342x941739732723564500) - Build an NFT marketplace without code, a free plugin for bubble.io. Deploy collections, set royalties/platform fees, bid, sell, etc.
 - [ZilPay](https://novabloq.com/plugin/1658481604911x430885793059376100) - Zilliqa Wallet plugin for bubble.io, connect your Bubble app to the Zilliqa Blockchain and interact with ZilPay Wallet.
 - [ChainJet](https://chainjet.io) - No-code platform for building on-chain or off-chain task automations. Use ChainJet to integrate multiple web3 services to automate all kinds of tasks.
+- [Layer4](https://www.layer4.app) - No-code and low-code blockchain integration platform. Deploy standard token contracts or persist data on-chain with a few clicks.
 - [WalletConnect](https://novabloq.com/plugin/walletconnect-official-1671213284712x803510314952042000) - Web3Modal v2 SDK with updated UI integrated into a plugin for bubble.io - Connect a wallet, sign a message, detect chain or account changed.
+- [Minting.tools](https://minting.tools) - No-code ERC20 token generator. Free to use, shares flattened contract code for verification after deployment. Works with any EVM blockchain. Only requirement is a Web3 wallet, and gas on the chain you'd like to use.
 
 ### Boilerplate
 
@@ -268,7 +282,7 @@
 - [OrbitDB](https://github.com/orbitdb/orbit-db) - Serverless, distributed, peer-to-peer database.
 - [DB3](https://github.com/dbpunk-labs/db3) - DB3 is a community-driven layer2 decentralized database network, a firebase firestore alternative.
 - [WeaveDB](https://github.com/weavedb/weavedb) - WeaveDB is NoSQL Database as Smart Contract Bringing web2-like smooth UX, complexity, and scalability to web3 dApps.
-- [Polybase](https://github.com/polybase/) - Polybase is a drop-in replacement for Firebase, Firstore alongside 10x better db permissions with ZK + Wallet Auth.
+- [Polybase](https://github.com/polybase/) - Polybase is a drop-in replacement for Firebase, Firestore alongside 10x better db permissions with ZK + Wallet Auth.
 
 ### Datasets
 
@@ -291,6 +305,7 @@
 - [solc-verify](https://github.com/SRI-CSL/solidity/) - A modular verifier for Solidity smart contracts.
 - [Solidity security blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns.
 - [EVMole](https://github.com/cdump/evmole) - Extracts function selectors from EVM bytecode, even for unverified contracts.
+- [Web3 Antivirus](https://web3antivirus.io) - Browser extension simulating transactions and reporting risks for user-side defense.
 
 ## Open Source Project
 
@@ -318,7 +333,6 @@
 
 - [useWeb3](https://www.useweb3.xyz) - Learning platform for developers to explore and learn about Web3.
 - [CryptoZombies](https://cryptozombies.io) - Interactive school that teaches you all things technical about blockchains.
-- [Figment Learn](https://learn.figment.io) - Tutorials for various use cases and networks, Avalanche, Solana, Polygon and more.
 - [Buildspace](https://buildspace.so/) - Cohort based web3 development courses, learn by building projects.
 - The complete guide to full stack Solana development with React, Anchor, Rust, and Phantom. - [link](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 - The complete guide to full stack Ethereum development. - [link](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
@@ -329,16 +343,17 @@
 - Intro to dApp's: Create your dApp frontend with React. - [link](https://eda.hashnode.dev/intro-to-dapps-create-your-dapp-frontend-withreact)
 - What is a crypto wallet & how does it work? - [link](https://eda.hashnode.dev/what-is-a-crypto-wallet-and-how-does-it-work)
 - Create your cryptocurrency token. - [link](https://eda.hashnode.dev/create-your-own-cryptocurrency-token)
-- Solidity and Truffle CI setup. - [link](https://ethereum.org/en/developers/tutorials/solidity-and-truffle-continuous-integration-setup)
+- Solidity and Truffle CI setup. - [link](https://soliditydeveloper.com/continuous-integration)
 - How to use Slither to find smart contract bugs. - [link](https://ethereum.org/en/developers/tutorials/how-to-use-slither-to-find-smart-contract-bugs)
 - How to mock Solidity smart contracts for testing. - [link](https://ethereum.org/en/developers/tutorials/how-to-mock-solidity-contracts-for-testing)
 - Building EVM from scratch. - [link](https://karmacoma.notion.site/Building-an-EVM-from-scratch-part-1-c28ebb4200c94f6fb75948a5feffc686) [source code](https://github.com/karmacoma-eth/yolo-evm/tree/evm-from-scratch-pt1)
+- [Build a blockchain from scratch in Go with gRPC](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC
 - [LearnWeb3 DAO](https://learnweb3.io/) - Free program that teach you how to become Web3 Developer.
 <!-- markdown-link-check-disable-next-line -->
-- [Cadena](https://www.cadena.dev/) - Cadena is a free plaform where you can learn by coding smart contracts, NFTs, tokens and more.
+- [Cadena](https://www.cadena.dev/) - Cadena is a free platform where you can learn by coding smart contracts, NFTs, tokens and more.
 - Building Full Stack Permanent Applications with Arweave, Smartweave and Next.js. - [link](https://dev.to/dabit3/building-full-stack-applications-with-arweave-and-nextjs-28hg)
 - Building and Testing Smart Contracts with Foundry by Paradigm. - [link](https://dev.to/dabit3/building-smart-contracts-with-foundry-by-paradigm-2gfm)
-- Building a Full Stack Web3 YouTube Clone with Next, IPFS, The Graph, Solidity, and Livepeer. - [link](https://blog.suhailkakar.com/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-livepeer)
+- Building a Full Stack Web3 YouTube Clone with Next, IPFS, The Graph, Solidity, and Livepeer. - [link](https://www.suhailkakar.com/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-livepeer)
 - [ODYSSEY](https://www.odysseydao.com/) - Odyssey is great platform to understand blochchain, NFTs, web3 concepts, Defi, Dao and more.
 - [Bankless Academy](https://app.banklessacademy.com/) - Bankless Academy is on a mission to ensure every web3 Explorer is ready for their crypto-verse voyage.
 - [Speed Run Ethereum](https://speedrunethereum.com/) - Learn how to build on Ethereum; the superpowers and the gotchas.
@@ -349,9 +364,8 @@
 - [How To Web3](https://www.howtoweb3.guide/) - All essential resources to learn and build web3 projects in one place.
 - [Developer DAO Academy](https://academy.developerdao.com/) - Developer DAO Academy is open-source education platform created by the Developer DAO.
 - [Metaschool](https://metaschool.so/) - Metaschool is free and trusted resource to become a Web3 Developer by building & shipping dApps.
-- [SimpleHash](https://docs.simplehash.com/recipes) - Tutorials for retrieving NFT metadata, media, sales and collection info from multiple chains.
+- [SimpleHash](https://docs.simplehash.com/reference) - Tutorials for retrieving NFT metadata, media, sales and collection info from multiple chains.
 - [Ape Academy](https://academy.apeworx.io/) - Learn how to build smart contracts with Python and Vyper.
-- [NFT School](https://nftschool.dev/) - Learn everything there is to know about NFT from the ground up.
 - [Layer3](https://layer3.xyz/) - Layer3 is web3 teaching platform that is gamified and allows individuals to discover and learn about web3.
 - [Vyper](https://learn.vyperlang.org/#/) - Learn Vyper by building a Pokémon Game.
 - [Staking Academy](https://www.staking-academy.com/) - Staking Academy is content aggregation platform with the goal of educating people about blockchain technology, staking and DeFi.
@@ -374,7 +388,7 @@
 - [Thirdweb](https://youtube.com/@thirdweb_) - Tutorials about full stack web3 development.
 - [Delphi Digital](https://www.youtube.com/@Delphi_Digital) - Tapping the brains of leaders across all verticals in the digital asset industry.
 - [Bankless Shows](https://www.youtube.com/@Bankless) - The ultimate guide to crypto finance.
-- [HashLips NFT](https://www.youtube.com/@HashLipsNFT/featured) - Web3 Focused and has content on Blockchain development, and other topics.
+- [HashLips NFT](https://www.youtube.com/@HashLipsAcademy/playlists) - Web3 Focused and has content on Blockchain development, and other topics.
 - [Whiteboard Crypto](https://www.youtube.com/@WhiteboardCrypto/featured) - Visually learn about Web3, Cryptocurrencies and many other concepts.
 - [Jarrod Watts](https://www.youtube.com/@JarrodWatts/featured) - Learn how to build full-stack dApps with thirdweb and other web3 concepts.
 - [Tatum](https://www.youtube.com/@TatumWeb3) - Discover how to easily and quickly build Web3 apps and projects like crypto wallets, NFT apps, or blockchain-based games using Tatum.
@@ -417,21 +431,23 @@
 - [GetBlock](https://getblock.io/)
 - [Ankr](https://www.ankr.com/)
 - [SimpleHash](https://simplehash.com)
-- [Basement](https://basement.dev/)
 - [walletOS](https://www.pinestreetlabs.com/walletos/)
 - [Tenderly](https://tenderly.co)
 - [Apillon](https://apillon.io/)
+- [Layer4](https://www.layer4.app)
 - [rivet.cloud](https://rivet.cloud/)
 - [Tatum](https://tatum.io/)
+- [Juno](https://juno.build)
 
 ## Other
 
 - [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
 - [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/) - Unofficial Ecosystem page for Ethereum and its Layer 2s featuring 900+ dApps and tools across Optimism, Base, Starknet and more.
+- [Formo](https://formo.so) - Web3 forms and product analytics for web3 teams.
 
 ## Contribute
 
 Contributions are welcomed! Please read the [contribution guidelines](https://github.com/ahmet/awesome-web3/blob/main/CONTRIBUTING.md) first.
 
-Don't forget to star my repo ⭐
+Please star this repo to show your support ⭐

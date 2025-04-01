@@ -1,5 +1,6 @@
 import { readFileSync } from 'fs'
 import { unified } from 'unified'
+import { join } from 'path';
 import remarkParse from 'remark-parse'
 import remarkRehype from 'remark-rehype'
 import rehypeRaw from 'rehype-raw'
@@ -34,17 +35,13 @@ export default function Home({ content }) {
       </Head>
 
       <div className='absolute top-0 right-0'>
-        <Link href="https://github.com/ahmet/awesome-web3/fork?utm_source=awesome-web3.com&utm_medium=fork_me_banner" passHref>
-          <a>
-            <Image
-              src="/forkme_right_darkblue.png"
-              width={149}
-              height={149}
-              alt="Fork Awesome Web3 on GitHub"
-              loading='lazy'
-              className='attachment-full size-full'
-            />
-          </a>
+        <Link href="https://github.com/ahmet/awesome-web3/fork?utm_source=awesome-web3.com&utm_medium=fork_me_banner" target="_blank" rel="noopener">
+          <Image
+            src="/forkme_right_darkblue.png"
+            alt="Fork Awesome Web3 on GitHub"
+            width={149}
+            height={149}
+          />
         </Link>
       </div>
       <main className="mx-4 my-12 lg:mx-0 flex flex-row justify-center">
@@ -55,9 +52,7 @@ export default function Home({ content }) {
 
       <footer className="flex flex-row justify-center mb-4">
         From your
-        <Link href='https://github.com/ahmet/awesome-web3/graphs/contributors?utm_source=awesome-web3.com&utm_medium=footer' passHref>
-          <a target="_blank" rel="noopener" className='mx-1 text-blue-700 no-underline hover:underline text-nowrap'>frens</a>
-        </Link>
+        <Link href='https://github.com/ahmet/awesome-web3/graphs/contributors?utm_source=awesome-web3.com&utm_medium=footer' target="_blank" rel="noopener" className='mx-1 text-blue-700 no-underline hover:underline text-nowrap'>frens</Link>
         with
         <span className='ml-1 mt-0.5'>
           <Image src="/heart.svg" alt="love" width={16} height={16} />
