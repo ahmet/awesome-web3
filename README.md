@@ -426,7 +426,6 @@
 - [QuickNode](https://www.quicknode.com)
 - [Thirdweb](https://thirdweb.com)
 - [Kriptonio](https://kriptonio.com)
-- [Meson Network](https://meson.network)
 - [Chainstack](https://chainstack.com/)
 - [GetBlock](https://getblock.io/)
 - [Ankr](https://www.ankr.com/)
