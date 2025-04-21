@@ -171,7 +171,7 @@
 - [ipfs-mini](https://github.com/silentcicero/ipfs-mini) - Super tiny module for querying an IPFS node, that works in the browser and in Node.
 - [js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript.
 - [Truffle](https://github.com/trufflesuite/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
-- [wagmi](https://github.com/tmm/wagmi) - React hooks library for Ethereum.
+- [wagmi](https://github.com/wevm/wagmi) - React hooks library for Ethereum.
 - [web3.js](https://github.com/ethereum/web3.js) - Ethereum JavaScript API which connects to the Generic JSON-RPC spec.
 - [web3-react](https://github.com/NoahZinsmeister/web3-react) - Simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps.
 - [db3.js](https://github.com/dbpunk-labs/db3.js) - DB3.js is SDK of DB3 network, a community-driven layer2 decentralized database network.
