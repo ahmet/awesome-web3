@@ -93,7 +93,7 @@
 
 - [BuidlGuidl](https://buidlguidl.com/) - Curated group of Ethereum builders creating products, prototypes, and tutorials to enrich the web3 ecosystem
 - [DeveloperDAO](https://www.developerdao.com/) - Community of thousands of web3 builders creating a better internet
-- [WomenBuildlWeb3](https://www.womenbuildweb3.com/) - Global collective of women and non-binary developers learning and building in web3
+- [WomenBuildWeb3](https://www.womenbuildweb3.com/) - Global collective of women and non-binary developers learning and building in web3
 - [WebtrES](https://www.webtres.club/) - Global Spanish-speaking community learning and building in web3
 - [Launchcaster](https://www.launchcaster.xyz/) - A place to share and discover the best new stuff in Web3. Built on Farcaster and Lens protocols.
 
@@ -178,7 +178,7 @@
 - [ensjs](https://github.com/ensdomains/ensjs) - Javascript bindings for the Ethereum Name Service.
 - [Lens.js](https://github.com/suhailkakar/lens.js/) - Lens.js is JavaScript SDK or API wrapper for the Lens API.
 - [bee-js](https://github.com/ethersphere/bee-js) - Javascript client library for connecting to Bee decentralised storage.
-- [livepeer.js](https://github.com/livepeer/livepeer.js) - Liverpeer.js provides core vanilla JS library and React hooks/components to easily connect to a Livepeer provider.
+- [livepeer.js](https://github.com/livepeer/livepeer.js) - Livepeer.js provides core vanilla JS library and React hooks/components to easily connect to a Livepeer provider.
 - [solana-web3.js](https://github.com/solana-labs/solana-web3.js) - Solana Javascript API built on the Solana JSON RPC API.
 - [seaport-js](https://github.com/ProjectOpenSea/seaport-js) - JavaScript library to interface with the Seaport marketplace.
 - [js-algorand-sdk](https://github.com/algorand/js-algorand-sdk) - AlgoSDK is the official JavaScript library for communicating with the Algorand network.
