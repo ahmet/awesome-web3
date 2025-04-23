@@ -93,7 +93,6 @@
 
 - [BuidlGuidl](https://buidlguidl.com/) - Curated group of Ethereum builders creating products, prototypes, and tutorials to enrich the web3 ecosystem
 - [DeveloperDAO](https://www.developerdao.com/) - Community of thousands of web3 builders creating a better internet
-- [WomenBuildWeb3](https://www.womenbuildweb3.com/) - Global collective of women and non-binary developers learning and building in web3
 - [WebtrES](https://www.webtres.club/) - Global Spanish-speaking community learning and building in web3
 - [Launchcaster](https://www.launchcaster.xyz/) - A place to share and discover the best new stuff in Web3. Built on Farcaster and Lens protocols.
 
