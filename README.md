@@ -436,6 +436,7 @@
 - [rivet.cloud](https://rivet.cloud/)
 - [Tatum](https://tatum.io/)
 - [Juno](https://juno.build)
+- [Mindlyn](https://mindlyn.io)
 
 ## Other
 
