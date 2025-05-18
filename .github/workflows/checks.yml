@@ -2,6 +2,9 @@ name: Markdown Links Check
 
 on: [push, pull_request]
 
+permissions:
+  contents: read
+
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
