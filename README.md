@@ -119,6 +119,7 @@
 ### DevOps
 
 - [Cannon](https://usecannon.com/) - Continuous configuration automation & development cli multi-tool. Like Terraform, Docker and NPM for Ethereum.
+- [Catapulta](https://catapulta.sh) - Zero config multi-chain smart contracts platform, for Foundry and Hardhat. Deploy smart contracts, we cover the gas for you in +20 EVM networks.
 
 ### Hosting
 
