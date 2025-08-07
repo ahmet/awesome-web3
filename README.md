@@ -373,6 +373,7 @@
 - [Web3coda](https://web3coda.com/) - Web3coda provides bite-sized, hands-on Web3 and Blockchain exercises with online environment (with pre installed/configured tools) and simple to follow manuals.
 - [Wriggly](https://wriggly.io/problemset/all) - Learn Solidity and smart contract development with interactive code challenges.
 - [Cyfrin Updraft](https://updraft.cyfrin.io) - Learn from industry-leading experts how to build the next generation of web3 applications and kickstart your career.
+- [IPFS to Swarm](https://github.com/Solar-Punk-Ltd/ipfs-to-swarm) - CLI tool for moving decentralized content from IPFS to Swarm storage.
 
 ## YouTube Channel
 
