@@ -11,9 +11,9 @@
   "dependencies": {
     "@vercel/analytics": "^1.5.0",
     "@vercel/speed-insights": "^1.2.0",
-    "next": "15.4.5",
+    "next": "15.4.6",
     "react": "19.1.1",
-    "react-dom": "19.1.0",
+    "react-dom": "19.1.1",
     "react-render-html": "^0.6.0",
     "rehype-autolink-headings": "^7.1.0",
     "rehype-external-links": "^3.0.0",
@@ -27,8 +27,8 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.16",
     "autoprefixer": "^10.4.21",
-    "eslint": "9.32.0",
-    "eslint-config-next": "15.4.5",
+    "eslint": "9.33.0",
+    "eslint-config-next": "15.4.6",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.17"
   }
