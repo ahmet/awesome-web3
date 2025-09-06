@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ahmet-awesome-web3-badge.png)](https://mseep.ai/app/ahmet-awesome-web3)
+
 # Awesome Web3
 
 <p align="center">A curated list of awesome Web3 resources, libraries, tools and more.</p>
