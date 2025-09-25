@@ -261,6 +261,7 @@
 - [create-web3-dapp](https://github.com/alchemyplatform/create-web3-dapp) - The complete toolbox to create web3 applications.
 - [nexth](https://github.com/wslyvh/nexth) - Next.js + Ethereum starter kit to quickly ship Web3 Apps.
 - [dapp-starter-template](https://github.com/jellydn/dapp-starter) - Opinionated Dapp Starter Template.
+- [NextJs Web3 Template](https://github.com/abaker42/crypto-shelfy-template) - NextJS Typescript template with wallet integration + token gated pages.
 
 ### Testing
 
