@@ -9,6 +9,30 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    open-pull-requests-limit: 10
+    commit-message:
+      prefix: "chore"
+      prefix-development: "chore"
+      include: "scope"
+    groups:
+      security-updates:
+        applies-to: "security-updates"
+        patterns:
+          - "*"
+      prod-patch-and-minor:
+        dependency-type: "production"
+        update-types:
+          - "patch"
+          - "minor"
+        patterns:
+          - "*"
+      dev-patch-and-minor:
+        dependency-type: "development"
+        update-types:
+          - "patch"
+          - "minor"
+        patterns:
+          - "*"
     ignore:
       - dependency-name: "tailwindcss"
         update-types: ["version-update:semver-major"]
