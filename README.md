@@ -276,6 +276,7 @@
 
 ### Code Quality
 
+- [Slippy](https://github.com/slippy-lint/slippy) - Simple and powerful linter for Solidity.
 - [Slither](https://github.com/crytic/slither) - Solidity static analysis framework, a suite of vulnerability detectors, prints visual information about contract details etc.
 - [solhint](https://github.com/protofire/solhint) - Solidity linter providing Security and Style Guide validations.
 
