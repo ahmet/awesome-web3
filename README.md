@@ -151,6 +151,7 @@
 - [NEAR](https://near.org/) - NEAR is smart-contract compatible blockchain, designed and built to support the development of highly secure and scalable dApps.
 - [Arweave](https://www.arweave.org/) - Arweave is protocol that allows you to permanently and sustainably store data for a single upfront fee.
 - [Livepeer](https://livepeer.org/) - Livepeer is an Ethereum-based protocol that distributes video transcoding work throughout its decentralized network.
+- [LUMEN World Computer](https://github.com/Lumen-Founder/lumen-base-mainnet) - An on-chain verification & settlement kernel for AI Agents on Base. Supports EIP-712 intents and bonded execution.
 - [Compound](https://compound.finance/) - Compound is algorithmic, autonomous interest rate protocol built for developers, to unlock universe of open financial applications.
 - [Euler](https://www.euler.finance/) - Euler is non-custodial protocol on Ethereum that allows users to lend and borrow almost any crypto asset.
 - [Unitas](https://unitas.foundation/) - Unitas Protocol enables financial sovereignty by granting people the right to choose their units of account while transacting with each other.
