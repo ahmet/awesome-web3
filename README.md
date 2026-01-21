@@ -173,6 +173,7 @@
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - Bitcoin library for node.js and browsers.
 - [dapparatus](https://github.com/austintgriffith/dapparatus) - Reusable dApp components in React.
 - [ethers.js](https://github.com/ethers-io/ethers.js/) - Complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).
+- [Hashgraph Online Standards SDK](https://github.com/hashgraph-online/standards-sdk) - TypeScript SDK for Hedera Consensus Service standards (HCS-1 through HCS-11), enabling decentralized file storage, NFT metadata, and recursive content on Hedera.
 - [ipfs-mini](https://github.com/silentcicero/ipfs-mini) - Super tiny module for querying an IPFS node, that works in the browser and in Node.
 - [js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript.
 - [Truffle](https://github.com/trufflesuite/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
