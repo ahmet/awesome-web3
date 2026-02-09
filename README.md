@@ -132,6 +132,7 @@
 
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 - [PVP Genesis SDK](https://github.com/Synapse-Founder/pvp-genesis-sdk) - TypeScript/JavaScript SDK for tokenizing physical energy and compute resources on Polygon blockchain, enabling DePIN applications.
+- [Signet CLI](https://github.com/h1-hunt/signet-client) - CLI and SDK for Signet, an onchain advertising platform on Base. Enables AI agents to purchase spotlight ads with USDC via the x402 payment protocol.
 - [Tatum SDK](https://github.com/tatumio/tatum-js) - Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.
 
 ### Protocol
