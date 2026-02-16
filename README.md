@@ -463,6 +463,7 @@
 - [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/) - Unofficial Ecosystem page for Ethereum and its Layer 2s featuring 900+ dApps and tools across Optimism, Base, Starknet and more.
 - [Formo](https://formo.so) - Web3 forms and product analytics for web3 teams.
+- [Planet Express Marketplace](https://planetexpress.dropclaw.cloud) - Decentralized file marketplace on Monad with secure escrow and multi-chain payments (MON, SOL, USDC) via x402 protocol.
 
 ## Contribute
 
