@@ -240,6 +240,7 @@
 - [Vyper](https://github.com/vyperlang/vyper) - Contract-oriented, pythonic programming language that targets EVM.
 - [web3.py](https://github.com/ethereum/web3.py) - Python interface for interacting with the Ethereum blockchain and ecosystem.
 - [dexscraper](https://github.com/vincentkoc/dexscraper) - Python SDK and CLI for extracting real-time DexScreener market data over WebSocket and API.
+- [py-ethclient](https://github.com/tokamak-network/py-ethclient) - Python Ethereum L1 execution client built from scratch — EVM, RLPx, eth/68, snap/1, full & snap sync, Engine API, and JSON-RPC.
 
 ### Dart
 
