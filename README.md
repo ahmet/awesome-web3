@@ -344,6 +344,7 @@
 - [Hugin Messenger - Desktop](https://github.com/kryptokrona/hugin-desktop) - Private messaging application on Kryptokrona Blockchain for desktop.
 - [Hugin Messenger - Mobile](https://github.com/kryptokrona/hugin-mobile) - Private messaging application on Kryptokrona Blockchain for mobile.
 - [Ambire Wallet](https://github.com/AmbireTech/wallet) - Open source Web3 wallet that makes self-custody easy and secure via account abstraction.
+- [AgentFund](https://github.com/RioBot-Grind/agentfund) - Decentralized crowdfunding platform for AI agents on Base with milestone-based escrow.
 - [Mobula](https://github.com/MobulaFi/mobula-ui) - Mobula App is an open-source coin & portfolio tracking platform
 - [Ethui](https://ethui.dev/) - Open-source Ethereum toolkit that integrates wallets, contract explorers, Foundry and Anvil. It streamlines smart contract testing, identity management, and dApp connectivity for developers.
 - [Mybucks.online](https://github.com/mybucks-online/app) - Open-source, browser-based and self-custodial wallet that generates a private key from credentials using one-way hash function.
