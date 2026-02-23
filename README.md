@@ -441,6 +441,7 @@
 ## Platform as a Service
 
 - [Alchemy](https://www.alchemy.com)
+- [Chartscout](https://chartscout.io) - Real time chart pattern detection with automated alerts across multiple exchanges
 - [Infura](https://infura.io)
 - [Moralis](https://moralis.io)
 - [QuickNode](https://www.quicknode.com)
