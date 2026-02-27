@@ -200,7 +200,7 @@
 - [Tatum JavaScript SDK](https://github.com/tatumio/tatum-js) - Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.
 - [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - Simple WalletConnect Web3Modal v2 integration package for Vue3 apps.
 - [@web3icons/react](https://github.com/0xa3k5/web3icons) - Web3 icons as React components. Includes tokens, coins, networks, wallets.
-- [@leonardocustodio/bcts](https://github.com/leonardocustodio/bcts) - TypeSript library implementing common specifications for decentralized applications.
+- [@paritytech/bcts](https://github.com/paritytech/bcts) - TypeSript library implementing common specifications for decentralized applications.
 
 ### Solidity
 
