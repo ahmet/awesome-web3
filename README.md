@@ -40,7 +40,6 @@
   - [Platform as a Service](#platform-as-a-service)
   - [Other](#other)
   - [Contribute](#contribute)
-- [agentwallet-sdk](https://github.com/up2itnow0822/agent-wallet-sdk) - TypeScript SDK for non-custodial AI agent wallets. Handles x402 payments, CCTP V2 cross-chain transfers, Uniswap V3 token swaps, and on-chain spend limits. MIT license.
 
 ## Awesome List
 
@@ -202,6 +201,7 @@
 - [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - Simple WalletConnect Web3Modal v2 integration package for Vue3 apps.
 - [@web3icons/react](https://github.com/0xa3k5/web3icons) - Web3 icons as React components. Includes tokens, coins, networks, wallets.
 - [@paritytech/bcts](https://github.com/paritytech/bcts) - TypeSript library implementing common specifications for decentralized applications.
+- [agentwallet-sdk](https://github.com/up2itnow0822/agent-wallet-sdk) - TypeScript SDK for non-custodial AI agent wallets. Handles x402 payments, CCTP V2 cross-chain transfers, Uniswap V3 token swaps, and on-chain spend limits. MIT license.
 
 ### Solidity
 
