@@ -202,6 +202,7 @@
 - [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - Simple WalletConnect Web3Modal v2 integration package for Vue3 apps.
 - [@web3icons/react](https://github.com/0xa3k5/web3icons) - Web3 icons as React components. Includes tokens, coins, networks, wallets.
 - [@paritytech/bcts](https://github.com/paritytech/bcts) - TypeSript library implementing common specifications for decentralized applications.
+- [clanker-wallet](https://github.com/almogdepaz/clanker-wallet) - TypeScript/Python SDK letting AI agents propose blockchain transactions that a human approves from their own wallet. E2E encrypted, no private keys in agent. Supports any EVM chain.
 - [@up2itnow0822/agent-wallet-sdk](https://github.com/up2itnow0822/agent-wallet-sdk) - TypeScript SDK for non-custodial AI agent wallets. Handles x402 payments, CCTP V2 cross-chain transfers, Uniswap V3 token swaps, and on-chain spend limits. MIT license.
 
 ### Solidity
