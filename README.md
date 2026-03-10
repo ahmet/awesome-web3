@@ -171,6 +171,8 @@
 
 ### JavaScript
 
+- [agentwallet-sdk](https://github.com/up2itnow0822/agent-wallet-sdk) - Non-custodial AI agent wallet SDK with x402 payments, ERC-6551 identity, 17-chain CCTP bridging, and SpendingPolicy guardrails.
+- [webmcp-sdk](https://github.com/up2itnow0822/webmcp-sdk) - Developer toolkit for W3C WebMCP (Chrome 146). Make any website agent-ready with navigator.modelContext support.
 - [RainbowKit](https://www.rainbowkit.com/) - React library that makes it easy to add wallet connection to your dapp.
 - [OnchainKit](https://github.com/coinbase/onchainkit) - Collection of tools to build world-class onchain apps with CSS, React, and Typescript.
 - [avalanchejs](https://github.com/ava-labs/avalanchejs) - JavaScript Library for interfacing with the Avalanche Platform.
