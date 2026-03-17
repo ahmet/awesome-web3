@@ -138,6 +138,8 @@
 - [Tatum SDK](https://github.com/tatumio/tatum-js) - Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.
 - [Clanker Wallet](https://github.com/almogdepaz/clanker-wallet) - Human-approved blockchain transactions for AI agents. Agent proposes a tx, human reviews and signs from a web app. E2E encrypted, CLI + TypeScript + Python SDKs.
 
+- [Arch Tools](https://archtools.dev) - The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible. [GitHub](https://github.com/Deesmo/Arch-AI-Tools)
+
 ### Protocol
 
 - [WalletConnect](https://github.com/WalletConnect) - Open protocol connecting wallets to Dapps.
