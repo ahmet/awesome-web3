@@ -306,6 +306,8 @@
 ### Datasets
 
 - [Codex](https://www.codex.io) - Blockchain data API for accessing on-chain data across multiple networks.
+- [CoinPaprika API](https://api.coinpaprika.com) - Free cryptocurrency market data API with 7,000+ coins, tickers, exchanges, and OHLCV data. No API key required.
+- [DexPaprika API](https://api.dexpaprika.com) - Free DEX data API providing pools, tokens, trades, and OHLCV across all chains. No API key required.
 - [Indexed.xyz](https://indexed.xyz) - Raw and decoded logs, transactions, and blocks for many EVM chains.
 - [Ormi Labs](https://ormilabs.com) - Ormi's 0xgraph is a next-gen subgraph indexing platform delivering 5× faster syncs, real-time queries with sub-second latency, zero throttling, and built-in support for chain re-orgs across 70+ chains.
 
