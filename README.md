@@ -31,6 +31,9 @@
     - [Database](#database)
     - [Datasets](#datasets)
     - [Risk Management](#risk-management)
+    - [x402 Payments Protocol](#x402-payments-protocol)
+  - [AI & LLM & MPC](#ai--llm--mcp)
+  - [Gas Tracker & Optimization](#gas-tracker--optimization)
   - [Open Source Project](#open-source-project)
   - [Tutorial](#tutorial)
   - [YouTube Channel](#youtube-channel)
@@ -69,10 +72,7 @@
 - [MakerDAO](https://github.com/makerdao/awesome-makerdao) - Collection of tools, documents, articles, blog posts, interviews, and videos related to MakerDAO and the Dai stablecoin.
 - [Kiwi](https://github.com/attestate/awesome-kiwinews) - Collection of documents, clients, apps, APIs, and other resources related to Kiwi protocol.
 - [Account Abstraction](https://github.com/4337Mafia/awesome-account-abstraction) - Collection of account abstraction resources.
-- [ETH Gas Tracker](https://www.ethgastracker.com/) - Monitor and track Ethereum and L2 gas prices to reduce transaction fees, save money and take control of your blockchain experience
-- [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) 📇 ☁️ 🏠 - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
-- [EthGasOptimizer (EGO)](https://ethgasoptimizer.com) - Smart Ethereum gas optimizer that predicts low-fee windows, schedules transactions, and sends real-time gas alerts to help users save on fees.
-- [EthGasStation](https://ethgasstation.io) - Live Ethereum gas stats, alerts, and workflow tools to help users and teams make better before-send transaction decisions.
+- [x402](https://github.com/xpaysh/awesome-x402) - Internet-native payment protocol using HTTP 402 status code for blockchain payments.
 
 ## Reference
 
@@ -134,12 +134,9 @@
 
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 - [PVP Genesis SDK](https://github.com/Synapse-Founder/pvp-genesis-sdk) - TypeScript/JavaScript SDK for tokenizing physical energy and compute resources on Polygon blockchain, enabling DePIN applications.
-- [Signet CLI](https://github.com/h1-hunt/signet-client) - CLI and SDK for Signet, an onchain advertising platform on Base. Enables AI agents to purchase spotlight ads with USDC via the x402 payment protocol.
 - [Tatum SDK](https://github.com/tatumio/tatum-js) - Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.
 - [Clanker Wallet](https://github.com/almogdepaz/clanker-wallet) - Human-approved blockchain transactions for AI agents. Agent proposes a tx, human reviews and signs from a web app. E2E encrypted, CLI + TypeScript + Python SDKs.
 - [AxonFi SDK](https://github.com/axonfi/sdk) - Non-custodial treasury and payment SDK for AI agents. Agents sign EIP-712 intents from secure vaults without holding funds or paying gas. TypeScript, Python, and LangChain integrations. Multi-chain (Base, Arbitrum).
-
-- [Arch Tools](https://archtools.dev) - The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible. [GitHub](https://github.com/Deesmo/Arch-AI-Tools)
 
 ### Protocol
 
@@ -169,8 +166,6 @@
 - [Ajna protocol](https://www.ajna.finance/) - Ajna protocol is peer to peer, oracleless, permissionless lending protocol with no governance, accepting both fungible and non fungible tokens as collateral.
 - [Synapse](https://synapseprotocol.com/) - Synapse Protocol enables cross-chain communication for facilitating transactions across blockchains.
 - [Router Protocol](https://github.com/router-resources/RouterProtocol) - Router Protocol bridges different layer 1 and layer 2 blockchains, enabling seamless cross-chain liquidity migration in DeFi. It facilitates token transfers between chains and cross-chain execution of operations.
-- [x402](https://github.com/xpaysh/awesome-x402) - Internet-native payment protocol using HTTP 402 status code for blockchain payments.
-- [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs. CLI and library that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.
 - [Chitin](https://chitin.id) - On-chain soul identity for AI agents on Base L2. W3C DID resolution (did:chitin), Soulbound Tokens (EIP-5192), ERC-8004 agent passports, verifiable certificates, and governance voting. ([GitHub](https://github.com/Tiida-Tech/chitin-contracts))
 - [MolTrust](https://moltrust.ch) - Trust infrastructure for AI agents. W3C DID identity verification, reputation scoring, Ed25519-signed Verifiable Credentials, and Base blockchain anchoring. ([SDK](https://github.com/MoltyCel/moltrust-sdk) · [PyPI](https://pypi.org/project/moltrust/) · [API Docs](https://api.moltrust.ch/docs))
 - [RustChain](https://rustchain.org) - Proof-of-Antiquity blockchain that rewards mining on vintage hardware (PowerPC G4, Pentium 4) with RTC tokens. Features 6-point hardware fingerprinting, Ergo chain anchoring, and an on-chain AI agent economy. ([source code](https://github.com/Scottcjn/rustchain))
@@ -209,7 +204,6 @@
 - [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - Simple WalletConnect Web3Modal v2 integration package for Vue3 apps.
 - [@web3icons/react](https://github.com/0xa3k5/web3icons) - Web3 icons as React components. Includes tokens, coins, networks, wallets.
 - [@paritytech/bcts](https://github.com/paritytech/bcts) - TypeSript library implementing common specifications for decentralized applications.
-- [@up2itnow0822/agent-wallet-sdk](https://github.com/up2itnow0822/agent-wallet-sdk) - TypeScript SDK for non-custodial AI agent wallets. Handles x402 payments, CCTP V2 cross-chain transfers, Uniswap V3 token swaps, and on-chain spend limits. MIT license.
 
 ### Solidity
 
@@ -331,6 +325,23 @@
 - [EVMole](https://github.com/cdump/evmole) - Extracts function selectors from EVM bytecode, even for unverified contracts.
 - [Web3 Antivirus](https://web3antivirus.io) - Browser extension simulating transactions and reporting risks for user-side defense.
 - [PolicyLayer](https://policylayer.com) - Non-custodial spending controls for AI agents with crypto wallets. Enforce daily limits, per-transaction caps, and recipient whitelists without holding private keys.
+
+### x402 Payments Protocol
+
+- [Signet CLI](https://github.com/h1-hunt/signet-client) - CLI and SDK for Signet, an onchain advertising platform on Base. Enables AI agents to purchase spotlight ads with USDC via the x402 payment protocol.
+- [Arch Tools](https://archtools.dev) - The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible. [GitHub](https://github.com/Deesmo/Arch-AI-Tools)
+- [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs. CLI and library that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.
+- [@up2itnow0822/agent-wallet-sdk](https://github.com/up2itnow0822/agent-wallet-sdk) - TypeScript SDK for non-custodial AI agent wallets. Handles x402 payments, CCTP V2 cross-chain transfers, Uniswap V3 token swaps, and on-chain spend limits. MIT license.
+
+## AI & LLM & MCP
+
+- [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) 📇 ☁️ 🏠 - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics.
+
+## Gas Tracker & Optimization
+
+- [ETH Gas Tracker](https://www.ethgastracker.com/) - Monitor and track Ethereum and L2 gas prices to reduce transaction fees, save money and take control of your blockchain experience
+- [EthGasOptimizer (EGO)](https://ethgasoptimizer.com) - Smart Ethereum gas optimizer that predicts low-fee windows, schedules transactions, and sends real-time gas alerts to help users save on fees.
+- [EthGasStation](https://ethgasstation.io) - Live Ethereum gas stats, alerts, and workflow tools to help users and teams make better before-send transaction decisions.
 
 ## Open Source Project
 
