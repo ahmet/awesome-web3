@@ -476,6 +476,7 @@
 - [Layer4](https://www.layer4.app)
 - [rivet.cloud](https://rivet.cloud/)
 - [Tatum](https://tatum.io/)
+- [GoldRush](https://goldrush.dev) - Blockchain data across 100+ chains — wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.
 - [Juno](https://juno.build)
 - [Mindlyn](https://mindlyn.io)
 
