@@ -131,6 +131,7 @@
 - [Filebase](https://filebase.com/) - Filebase is an InterPlanetary development platform, providing users with quick access to IPFS storage, dedicated IPFS gateways, and IPNS names.
 
 ### SDK
+
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 - [PVP Genesis SDK](https://github.com/Synapse-Founder/pvp-genesis-sdk) - TypeScript/JavaScript SDK for tokenizing physical energy and compute resources on Polygon blockchain, enabling DePIN applications.
 - [Signet CLI](https://github.com/h1-hunt/signet-client) - CLI and SDK for Signet, an onchain advertising platform on Base. Enables AI agents to purchase spotlight ads with USDC via the x402 payment protocol.
