@@ -413,6 +413,7 @@
 - [Wriggly](https://wriggly.io/problemset/all) - Learn Solidity and smart contract development with interactive code challenges.
 - [Cyfrin Updraft](https://updraft.cyfrin.io) - Learn from industry-leading experts how to build the next generation of web3 applications and kickstart your career.
 - [IPFS to Swarm](https://github.com/Solar-Punk-Ltd/ipfs-to-swarm) - CLI tool for moving decentralized content from IPFS to Swarm storage.
+- [Lianxinshe Blockchain Hub](https://www.lianxinshe666.com/special/blockchain/) - Comprehensive Chinese blockchain learning resource covering fundamentals, architecture, wallets, and security for beginners.
 
 ## YouTube Channel
 
