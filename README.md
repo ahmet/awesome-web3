@@ -44,6 +44,7 @@
   - [Other](#other)
   - [Contribute](#contribute)
 
+- [blockchain](https://www.lianxinshe666.com/special/blockchain/) A curated blockchain learning resource hub for beginners
 ## Awesome List
 
 - [Solidity](https://github.com/bkrem/awesome-solidity) - Curated list of awesome Solidity resources, libraries, tools and more.
