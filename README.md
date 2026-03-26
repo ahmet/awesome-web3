@@ -137,7 +137,6 @@
 - [Tatum SDK](https://github.com/tatumio/tatum-js) - Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.
 - [Clanker Wallet](https://github.com/almogdepaz/clanker-wallet) - Human-approved blockchain transactions for AI agents. Agent proposes a tx, human reviews and signs from a web app. E2E encrypted, CLI + TypeScript + Python SDKs.
 - [AxonFi SDK](https://github.com/axonfi/sdk) - Non-custodial treasury and payment SDK for AI agents. Agents sign EIP-712 intents from secure vaults without holding funds or paying gas. TypeScript, Python, and LangChain integrations. Multi-chain (Base, Arbitrum).
-- [Pythia Oracle MCP](https://github.com/pythia-the-oracle/pythia-oracle-mcp) - On-chain calculated indicators (EMA, RSI, Bollinger, Volatility) for 22 tokens via Chainlink. MCP server + LangChain integration for AI agents to access DeFi data.
 
 ### Protocol
 
@@ -337,6 +336,7 @@
 ## AI & LLM & MCP
 
 - [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) 📇 ☁️ 🏠 - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics.
+- [Pythia Oracle MCP](https://github.com/pythia-the-oracle/pythia-oracle-mcp) - On-chain calculated indicators (EMA, RSI, Bollinger, Volatility) for 22 tokens via Chainlink. MCP server + LangChain integration for AI agents to access DeFi data.
 
 ## Gas Tracker & Optimization
 
