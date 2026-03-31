@@ -488,6 +488,7 @@
 - [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/) - Unofficial Ecosystem page for Ethereum and its Layer 2s featuring 900+ dApps and tools across Optimism, Base, Starknet and more.
 - [Formo](https://formo.so) - Web3 forms and product analytics for web3 teams.
+- [PredScope](https://predscope.com) - Free prediction market analytics with live odds from 1,000+ Polymarket events, market statistics, and educational guides.
 - [SailOnChain](https://sailonchain.com) - Crypto & Web3 job board with 1,400+ positions, salary intelligence, and global remote roles from ~2,000 blockchain companies.
 
 ## Contribute
