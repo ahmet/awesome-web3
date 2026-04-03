@@ -170,6 +170,7 @@
 - [MolTrust](https://moltrust.ch) - Trust infrastructure for AI agents. W3C DID identity verification, reputation scoring, Ed25519-signed Verifiable Credentials, and Base blockchain anchoring. ([SDK](https://github.com/MoltyCel/moltrust-sdk) · [PyPI](https://pypi.org/project/moltrust/) · [API Docs](https://api.moltrust.ch/docs))
 - [RustChain](https://rustchain.org) - Proof-of-Antiquity blockchain that rewards mining on vintage hardware (PowerPC G4, Pentium 4) with RTC tokens. Features 6-point hardware fingerprinting, Ergo chain anchoring, and an on-chain AI agent economy. ([source code](https://github.com/Scottcjn/rustchain))
 
+- [SuiBets](https://suibets.com) - SuiBets is a decentralized sports betting protocol on Sui blockchain with verified smart contract, formal verification, and on-chain settlement. ([Verified Source](https://suiscan.xyz/mainnet/object/0x4d83eab83defa9e2488b3c525f54fc588185cfc1a906e5dada1954bf52296e76))
 ### JavaScript
 
 - [RainbowKit](https://www.rainbowkit.com/) - React library that makes it easy to add wallet connection to your dapp.
