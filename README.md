@@ -471,6 +471,7 @@
 - [Kriptonio](https://kriptonio.com)
 - [Chainstack](https://chainstack.com/)
 - [GetBlock](https://getblock.io/)
+- [Human Pages](https://humanpages.ai) - The open directory AI agents use to hire humans for real-world tasks. USDC payments on Base, x402 pay-per-use protocol. Zero platform fees.
 - [Ankr](https://www.ankr.com/)
 - [SimpleHash](https://simplehash.com)
 - [walletOS](https://www.pinestreetlabs.com/walletos/)
