@@ -372,6 +372,7 @@
 - [Ethui](https://ethui.dev/) - Open-source Ethereum toolkit that integrates wallets, contract explorers, Foundry and Anvil. It streamlines smart contract testing, identity management, and dApp connectivity for developers.
 - [Mybucks.online](https://github.com/mybucks-online/app) - Open-source, browser-based and self-custodial wallet that generates a private key from credentials using one-way hash function.
 - [Pulse](https://github.com/manja316/pulse-payments) - Instant payment links on Base. Create shareable payment requests settled onchain with 0.5% fee.
+- [Pact](https://github.com/manja316/pact-escrow) - Trustless freelance escrow on Base. Lock funds in a smart contract, release on milestone completion.
 
 ## Tutorial
 
@@ -491,7 +492,6 @@
 - [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/) - Unofficial Ecosystem page for Ethereum and its Layer 2s featuring 900+ dApps and tools across Optimism, Base, Starknet and more.
 - [Formo](https://formo.so) - Web3 forms and product analytics for web3 teams.
-- [Pact](https://pact-escrow-topaz.vercel.app) - Trustless freelance escrow on Base. Lock funds in a smart contract, release on milestone completion.
 - [SailOnChain](https://sailonchain.com) - Crypto & Web3 job board with 1,400+ positions, salary intelligence, and global remote roles from ~2,000 blockchain companies.
 
 ## Contribute
