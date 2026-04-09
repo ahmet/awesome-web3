@@ -11,9 +11,9 @@
 	"dependencies": {
 		"@vercel/analytics": "^2.0.1",
 		"@vercel/speed-insights": "^2.0.0",
-		"next": "16.2.2",
-		"react": "19.2.4",
-		"react-dom": "19.2.4",
+		"next": "16.2.3",
+		"react": "19.2.5",
+		"react-dom": "19.2.5",
 		"react-render-html": "^0.6.0",
 		"rehype-autolink-headings": "^7.1.0",
 		"rehype-external-links": "^3.0.0",
@@ -28,8 +28,8 @@
 		"@tailwindcss/typography": "^0.5.19",
 		"autoprefixer": "^10.4.27",
 		"eslint": "10.2.0",
-		"eslint-config-next": "16.2.2",
-		"postcss": "^8.5.8",
+		"eslint-config-next": "16.2.3",
+		"postcss": "^8.5.9",
 		"tailwindcss": "^3.4.19"
 	},
 	"resolutions": {
