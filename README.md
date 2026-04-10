@@ -419,6 +419,7 @@
 - [Wriggly](https://wriggly.io/problemset/all) - Learn Solidity and smart contract development with interactive code challenges.
 - [Cyfrin Updraft](https://updraft.cyfrin.io) - Learn from industry-leading experts how to build the next generation of web3 applications and kickstart your career.
 - [IPFS to Swarm](https://github.com/Solar-Punk-Ltd/ipfs-to-swarm) - CLI tool for moving decentralized content from IPFS to Swarm storage.
+- [Optimism: Building on the OP Stack](https://www.uselearnai.com/course/optimism-l2) — LearnAI powered, interactive course covering Optimistic Rollups, deploying on OP Mainnet, the Standard Bridge, the OP Stack for launching your own L2, and the Superchain ecosystem.
 
 ## YouTube Channel
 
