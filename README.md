@@ -377,6 +377,7 @@
 
 ## Tutorial
 
+- [LearnAI — Optimism Interactive Course](https://www.uselearnai.com/chat?topic=Optimism+L2) — AI-powered personal tutor for learning Optimism from scratch through conversation
 - [useWeb3](https://www.useweb3.xyz) - Learning platform for developers to explore and learn about Web3.
 - [CryptoZombies](https://cryptozombies.io) - Interactive school that teaches you all things technical about blockchains.
 - [Buildspace](https://buildspace.so/) - Cohort based web3 development courses, learn by building projects.
