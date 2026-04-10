@@ -377,7 +377,6 @@
 
 ## Tutorial
 
-- [LearnAI — Optimism Interactive Course](https://www.uselearnai.com/chat?topic=Optimism+L2) — AI-powered personal tutor for learning Optimism from scratch through conversation
 - [useWeb3](https://www.useweb3.xyz) - Learning platform for developers to explore and learn about Web3.
 - [CryptoZombies](https://cryptozombies.io) - Interactive school that teaches you all things technical about blockchains.
 - [Buildspace](https://buildspace.so/) - Cohort based web3 development courses, learn by building projects.
@@ -420,6 +419,7 @@
 - [Wriggly](https://wriggly.io/problemset/all) - Learn Solidity and smart contract development with interactive code challenges.
 - [Cyfrin Updraft](https://updraft.cyfrin.io) - Learn from industry-leading experts how to build the next generation of web3 applications and kickstart your career.
 - [IPFS to Swarm](https://github.com/Solar-Punk-Ltd/ipfs-to-swarm) - CLI tool for moving decentralized content from IPFS to Swarm storage.
+- [Optimism: Building on the OP Stack](https://www.uselearnai.com/course/optimism-l2) — LearnAI powered, interactive course covering Optimistic Rollups, deploying on OP Mainnet, the Standard Bridge, the OP Stack for launching your own L2, and the Superchain ecosystem.
 
 ## YouTube Channel
 
