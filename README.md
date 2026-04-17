@@ -376,6 +376,7 @@
 - [Pulse](https://github.com/manja316/pulse-payments) - Instant payment links on Base. Create shareable payment requests settled onchain with 0.5% fee.
 - [Pact](https://github.com/manja316/pact-escrow) - Trustless freelance escrow on Base. Lock funds in a smart contract, release on milestone completion.
 - [Drift](https://github.com/manja316/drift-subscriptions) - Onchain subscription payments on Base. Recurring crypto payments with auto-debit smart contracts.
+- [cipher-starter](https://github.com/cryptomotifs/cipher-starter) - Solo Solana signal engine + autonomous trading bot playbook: 150-page bundle (MIT) covering universe selection, MEV sandwich defenses, three-tier wallet architecture, risk circuit breakers, Canadian compliance memo, and Oracle Cloud Always Free deploy blueprint.
 
 ## Tutorial
 
