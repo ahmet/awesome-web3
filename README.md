@@ -153,6 +153,7 @@
 - [Polkadot](https://polkadot.network/) - Polkadot is scalable, interoperable & secure network protocol for the next web.
 - [zkSync](https://zksync.io/) - Protocol zkSync is trustless protocol that uses cryptographic validity proofs to provide scalable and low-cost transactions on Ethereum.
 - [Uniswap](https://uniswap.org/) - Uniswap is a protocol for trading and automated liquidity provision on Ethereum.
+- [Swapifie](https://www.swapifie.com/) - Multi-chain DEX aggregator for finding optimal token swap rates across decentralized exchanges.
 - [NEAR](https://near.org/) - NEAR is smart-contract compatible blockchain, designed and built to support the development of highly secure and scalable dApps.
 - [Arweave](https://www.arweave.org/) - Arweave is protocol that allows you to permanently and sustainably store data for a single upfront fee.
 - [Livepeer](https://livepeer.org/) - Livepeer is an Ethereum-based protocol that distributes video transcoding work throughout its decentralized network.
