@@ -234,7 +234,7 @@
 
 - [Reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust.
 - [OpenEthereum](https://github.com/openethereum/openethereum) - The fast, light, and robust client for the Ethereum mainnet.
-
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain with Ed25519 consensus, GPU attestation channels, and Rust-based miner implementation.
 ### Shell
 
 - [avash](https://github.com/ava-labs/avash) - Avalanche shell client provides temporary stateful shell execution environment used to deploy networks locally, manage their processes, and run network tests.
