@@ -336,6 +336,7 @@
 - [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs. CLI and library that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.
 - [@up2itnow0822/agent-wallet-sdk](https://github.com/up2itnow0822/agent-wallet-sdk) - TypeScript SDK for non-custodial AI agent wallets. Handles x402 payments, CCTP V2 cross-chain transfers, Uniswap V3 token swaps, and on-chain spend limits. MIT license.
 
+- [KDP Intelligence API](https://kdp-intelligence-api.vercel.app/docs) - Pay-per-query niche research API for Kindle Direct Publishing data. Returns demand scores, competition analysis, and revenue estimates for 0.03 USDC per query via x402 on Base L2. [OpenAPI Spec](https://kdp-intelligence-api.vercel.app/openapi.json)
 ## AI & LLM & MCP
 
 - [dRPC Agent Skills](https://github.com/drpcorg/drpc-agent-skills) - Read-only on-chain data for AI agents via DRPC's node network. Covers all major EVM networks and Solana. Free API key at drpc.org.
