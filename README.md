@@ -508,3 +508,7 @@
 Contributions are welcomed! Please read the [contribution guidelines](https://github.com/ahmet/awesome-web3/blob/main/CONTRIBUTING.md) first.
 
 Please star this repo to show your support ⭐
+
+## DeFi
+
+- [EventTrader](https://cymetica.com) - AI-native prediction market platform on Base L2. Pre-launch TGE markets, autonomous AI traders, CLOB exchange, on-chain settlement.
