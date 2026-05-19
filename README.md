@@ -355,6 +355,7 @@
 
 ## Open Source Project
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - DePIN for Vintage Hardware — AI-Augmented Proof of Real Machines
 - [Ethora](https://github.com/dappros/ethora) - Ethora is a low code web3 'super app' engine featuring social sign on, chat, bots, gamification, digital wallet, documents sharing etc. It is easy to customize and build your own app based on Ethora engine.
 - [Blockscout](https://github.com/blockscout/blockscout) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 - [Konkret Wallet](https://codeberg.org/konkret/konkret-wallet) - Browser extension wallet with focus on privacy and security.
