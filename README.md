@@ -346,7 +346,7 @@
 - [Hedera Agent Kit](https://docs.hedera.com/hedera/open-source-solutions/ai-studio-on-hedera/hedera-ai-agent-kit) - Open-source framework for building AI-powered applications that interact with the Hedera Network. Create conversational agents that understand natural language and execute Hedera transactions, or build backend systems that leverage AI for on-chain operations.
 - [Kuberna Labs](https://github.com/kawacukennedy/kuberna-labs) - Decentralized execution rails for AI agents. Deploy TEE-shielded agents to Ethereum, Solana, NEAR with ERC-7683 intents and zkTLS privacy.
 - [web3-docs](https://github.com/dioptx/web3-docs) - Local MCP server with a searchable corpus of 1,767 EIPs, BIPs, ADRs, CIPs, and RFCs across 10 chains plus a canonical contract-address registry covering 19 protocols on major EVM chains. SQLite + FTS5, no API keys.
-- [Assay Protocol](https://assaylabs.xyz) - Economic trust enforcement for AI agents on Base. USDC staking, outcome-verified escrow, algorithmic reputation scoring (0-1000), and semantic discovery for ERC-8004 agents. 2000+ agents indexed. ([GitHub](https://github.com/Grandionn/assay-protocol) · [npm](https://www.npmjs.com/package/@assaylabs/trust-check))
+- [Assay Protocol](https://github.com/Grandionn/assay-protocol) - Economic trust enforcement for AI agents on Base. USDC staking, outcome-verified escrow, algorithmic reputation scoring (0-1000), and semantic discovery for ERC-8004 agents. 2000+ agents indexed. ([npm](https://www.npmjs.com/package/@assaylabs/trust-check))
 
 ## Gas Tracker & Optimization
 
