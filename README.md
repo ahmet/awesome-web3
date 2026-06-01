@@ -209,6 +209,7 @@
 ### Solidity
 
 - [Date and Time tools](https://github.com/pipermerriam/ethereum-datetime) - Contract which implements utilities for working with datetime values in ethereum.
+- [DeFiMath](https://github.com/MerkleBlue/defimath) - Gas-optimized Solidity library for DeFi math: Black-Scholes option pricing, Greeks, interest rates, and statistics.
 - [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - The standard for secure blockchain applications.
 - [CREATE2 Deployer](https://github.com/pcaversaccio/create2deployer) - Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.
 - [Solady](https://github.com/Vectorized/solady) - Gas optimized Solidity Libraries.
