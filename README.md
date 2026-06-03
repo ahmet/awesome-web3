@@ -483,6 +483,7 @@
 - [Moralis](https://moralis.io)
 - [QuickNode](https://www.quicknode.com)
 - [Thirdweb](https://thirdweb.com)
+- [Krionex](https://krionex.com)
 - [Kriptonio](https://kriptonio.com)
 - [Chainstack](https://chainstack.com/)
 - [GetBlock](https://getblock.io/)
