@@ -133,12 +133,12 @@
 - [Filebase](https://filebase.com/) - Filebase is an InterPlanetary development platform, providing users with quick access to IPFS storage, dedicated IPFS gateways, and IPNS names.
 
 ### SDK
-- - [Hypermid SDK](https://github.com/Hypermid) - Cross-chain swap, bridge & fiat on-ramp SDK across 90+ chains (EVM, Solana, Bitcoin, NEAR, Sui, Tron, TON). Available in TypeScript, Python, Go and Rust. Anonymous tier — no API key required.
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 - [PVP Genesis SDK](https://github.com/Synapse-Founder/pvp-genesis-sdk) - TypeScript/JavaScript SDK for tokenizing physical energy and compute resources on Polygon blockchain, enabling DePIN applications.
 - [Tatum SDK](https://github.com/tatumio/tatum-js) - Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.
 - [Clanker Wallet](https://github.com/almogdepaz/clanker-wallet) - Human-approved blockchain transactions for AI agents. Agent proposes a tx, human reviews and signs from a web app. E2E encrypted, CLI + TypeScript + Python SDKs.
 - [AxonFi SDK](https://github.com/axonfi/sdk) - Non-custodial treasury and payment SDK for AI agents. Agents sign EIP-712 intents from secure vaults without holding funds or paying gas. TypeScript, Python, and LangChain integrations. Multi-chain (Base, Arbitrum).
+- [Hypermid SDK](https://github.com/Hypermid) - Cross-chain swap, bridge & fiat on-ramp SDK across 90+ chains (EVM, Solana, Bitcoin, NEAR, Sui, Tron, TON). Available in TypeScript, Python, Go and Rust. Anonymous tier — no API key required.
 
 ### Protocol
 
