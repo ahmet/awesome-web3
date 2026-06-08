@@ -338,6 +338,8 @@
 - [MoltsPay](https://github.com/Yaqing2023/moltspay) - Universal Payment Protocol (UPP) for AI agents that abstracts multiple underlying protocols (x402, MPP, PFS, Pre-Approval) into a single unified API. Supports 8 blockchains with protocol-specific optimizations and gasless payments. Node.js and Python SDKs available.
 - [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs. CLI and library that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.
 - [@up2itnow0822/agent-wallet-sdk](https://github.com/up2itnow0822/agent-wallet-sdk) - TypeScript SDK for non-custodial AI agent wallets. Handles x402 payments, CCTP V2 cross-chain transfers, Uniswap V3 token swaps, and on-chain spend limits. MIT license.
+- [SmartFlow Observatory & Mapper API](https://smartflowproai.com) - Public observatory and JSON REST API for the x402 endpoint network on Base. 22,251+ endpoints catalogued with uptime, payment-success, facilitator routing, and pricing metadata. Free tier (100 req/day) + paid bulk export. [Mapper API](https://api.smartflowproai.com) · [Health Dashboard](https://health.smartflowproai.com) · [GitHub](https://github.com/smartflowproai-lang)
+- [x402-endpoint-validator](https://github.com/smartflowproai-lang/x402-endpoint-validator) - GitHub Action validating x402 endpoints in CI: 402 challenge shape, EIP-712 typed data, settlement path, well-known schema. Drop-in YAML, MIT licensed. [Marketplace](https://github.com/marketplace/actions/x402-endpoint-validator)
 
 ## AI & LLM & MCP
 
@@ -477,6 +479,7 @@
 - [Hashing Bits](https://quillaudits.substack.com/) - Hashing Bits is Web3 Cybersecurity focused weekly newsletter.
 - [WebThree.FYI](https://www.dailydropout.fyi/web3) - Learn about DeFi, NFTs, DAOs, cryptocurrencies, and other projects.
 - [Kiwi Weekly](https://paragraph.xyz/@kiwi-weekly) - Most popular crypto essays, products & dev tools picked by the Kiwi community.
+- [SmartFlow Weekly Intel](https://smartflowproai.substack.com) - Weekly newsletter on x402 network health, facilitator behavior, and endpoint forensics. Free, archived publicly.
 
 ## Platform as a Service
 
