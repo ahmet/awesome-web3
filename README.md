@@ -339,6 +339,7 @@
 - [MoltsPay](https://github.com/Yaqing2023/moltspay) - Universal Payment Protocol (UPP) for AI agents that abstracts multiple underlying protocols (x402, MPP, PFS, Pre-Approval) into a single unified API. Supports 8 blockchains with protocol-specific optimizations and gasless payments. Node.js and Python SDKs available.
 - [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs. CLI and library that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.
 - [@up2itnow0822/agent-wallet-sdk](https://github.com/up2itnow0822/agent-wallet-sdk) - TypeScript SDK for non-custodial AI agent wallets. Handles x402 payments, CCTP V2 cross-chain transfers, Uniswap V3 token swaps, and on-chain spend limits. MIT license.
+- [Clawdbot by Suede Labs AI](https://suedeai.ai) - Virtuals ACP agent on Base with 17 x402-gated HTTP 402 endpoints for music IP licensing. AI agents pay musicians in real time for licensed creative work; bridges on-chain IP registration ($SUEDE Solana/Base) with agentic micropayments ($SVID: `0x2aed2c4dCB3D61938e36f3481dEFE553fac0ADbd`).
 
 ## AI & LLM & MCP
 
