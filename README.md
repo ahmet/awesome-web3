@@ -71,6 +71,7 @@
 - [Blockchain Scalability](https://github.com/lucadonnoh/awesome-blockchain-scalability) - Curated list of awesome resources about blockchain scalability.
 - [MakerDAO](https://github.com/makerdao/awesome-makerdao) - Collection of tools, documents, articles, blog posts, interviews, and videos related to MakerDAO and the Dai stablecoin.
 - [Kiwi](https://github.com/attestate/awesome-kiwinews) - Collection of documents, clients, apps, APIs, and other resources related to Kiwi protocol.
+- [SwapTitan MCP](https://github.com/polsolbridge/swaptitan-mcp) - No-KYC crypto swap MCP server for AI agents. 10 tools: swap, prices, portfolio, rug check. 1288+ assets. x402 micropayments.
 - [Account Abstraction](https://github.com/4337Mafia/awesome-account-abstraction) - Collection of account abstraction resources.
 - [x402](https://github.com/xpaysh/awesome-x402) - Internet-native payment protocol using HTTP 402 status code for blockchain payments.
 - [Web3 Jobs](https://github.com/ceosvex/awesome-web3-jobs) - Curated list of job boards, companies, salary data, and career resources for finding web3 and crypto jobs.
