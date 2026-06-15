@@ -655,12 +655,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@next/eslint-plugin-next@npm:16.2.7":
-  version: 16.2.7
-  resolution: "@next/eslint-plugin-next@npm:16.2.7"
+"@next/eslint-plugin-next@npm:16.2.9":
+  version: 16.2.9
+  resolution: "@next/eslint-plugin-next@npm:16.2.9"
   dependencies:
     fast-glob: "npm:3.3.1"
-  checksum: 10c0/2748e5f4bf85be84a886e43bef37437317fa7aad4be267eaf7d0ebbb4e19fd60a0a8a8daac2a9f4e6298017b55f4c28d6f3546ad9b3112720ddfd75b922d6d47
+  checksum: 10c0/74501333ce844ec02f2518c98859a42d3db1bcae3e7365a2c0f6691d38621719783d285572a23ca1c3edd2801f9805c073d6e572990e70a11f2e894361774f69
   languageName: node
   linkType: hard
 
@@ -1489,8 +1489,8 @@ __metadata:
     "@vercel/analytics": "npm:^2.0.1"
     "@vercel/speed-insights": "npm:^2.0.0"
     autoprefixer: "npm:^10.5.0"
-    eslint: "npm:10.4.1"
-    eslint-config-next: "npm:16.2.7"
+    eslint: "npm:10.5.0"
+    eslint-config-next: "npm:16.2.9"
     next: "npm:16.2.7"
     postcss: "npm:^8.5.15"
     react: "npm:19.2.7"
@@ -2501,11 +2501,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-next@npm:16.2.7":
-  version: 16.2.7
-  resolution: "eslint-config-next@npm:16.2.7"
+"eslint-config-next@npm:16.2.9":
+  version: 16.2.9
+  resolution: "eslint-config-next@npm:16.2.9"
   dependencies:
-    "@next/eslint-plugin-next": "npm:16.2.7"
+    "@next/eslint-plugin-next": "npm:16.2.9"
     eslint-import-resolver-node: "npm:^0.3.6"
     eslint-import-resolver-typescript: "npm:^3.5.2"
     eslint-plugin-import: "npm:^2.32.0"
@@ -2520,7 +2520,7 @@ __metadata:
   peerDependenciesMeta:
     typescript:
       optional: true
-  checksum: 10c0/9795720507a1b60fe360632a3e759c1d4605185565ff5492ab13011910d05d4c840f272e751a7bc716f7b08f97d09992a55a941e8bd77a144fe663bb0e068baf
+  checksum: 10c0/266764e180cc2aa75fe0c357218a24d7f9ebc28e2d7f6195080ca90052373181605a942be1c14c8018e4302859758f2d28c87200236396bf9d5de1cc1badc2a0
   languageName: node
   linkType: hard
 
@@ -2695,9 +2695,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:10.4.1":
-  version: 10.4.1
-  resolution: "eslint@npm:10.4.1"
+"eslint@npm:10.5.0":
+  version: 10.5.0
+  resolution: "eslint@npm:10.5.0"
   dependencies:
     "@eslint-community/eslint-utils": "npm:^4.8.0"
     "@eslint-community/regexpp": "npm:^4.12.2"
@@ -2736,7 +2736,7 @@ __metadata:
       optional: true
   bin:
     eslint: bin/eslint.js
-  checksum: 10c0/c5e6bb5158fb0d62f090c8e2671de5c98283bbb37a58b6d871bada63af3018e683483c96c1a92272fedc8f4e5279a273a0451acf0da67c487406639daa05aedb
+  checksum: 10c0/e1f7a1d442027e5478945cb07b6a382adc3f149fbfd3dbc14951a7a9fa312546b27fb35b0556897ca1d04539ad16ee85bda75ad9f724873e1153d1fbca0d6145
   languageName: node
   linkType: hard
 
