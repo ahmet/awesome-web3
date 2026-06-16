@@ -434,6 +434,7 @@
 - [Optimism: Building on the OP Stack](https://www.uselearnai.com/course/optimism-l2) — LearnAI powered, interactive course covering Optimistic Rollups, deploying on OP Mainnet, the Standard Bridge, the OP Stack for launching your own L2, and the Superchain ecosystem.
 - [ZeroDay Dev](https://apps.apple.com/us/app/zeroday-dev/id6760129673) - Learn Web3 with guided lessons and practices. (iOS)
 - [RedDuck Academy](https://academy.redduck.io/) - Solidity lessons with runnable examples, based on RedDuck's internal developer onboarding curriculum.
+- [Cryptocurrency & DeFi Research Agent](https://superhighway.walls.sh/guides/crypto-research-agent) - Build a Python agent that researches crypto assets and DeFi protocols using live web data — market metrics, on-chain analytics (TVL, protocol revenue), tokenomics, and recent developments — into structured JSON briefings for due diligence and market monitoring.
 
 ## YouTube Channel
 
