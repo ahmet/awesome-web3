@@ -336,6 +336,7 @@
 - [Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Free token safety scanner and rug pull checker with a 0-100 risk score across Solana, Ethereum, Base, BSC, Arbitrum, and Polygon. Honeypot simulation, mint-authority detection, liquidity-lock verification, and holder-concentration analysis. No signup, public REST API.
 - [TRONSEC](https://tronsec.io/app/) - Client-side TRON security toolkit: wallet analysis, AML heuristics, contract scanning, transaction decoding, and phishing URL checks. No wallet connection required. [Source](https://github.com/jamejohns/tronsec).
 - [OnChainRisk](https://onchainrisk.io/) - Wallet, token, and smart-contract risk scoring API for Web3 teams; surfaces risk signals such as malicious-token patterns, fund-flow exposure, counterparties, and labels.
+- [CoinPing](https://t.me/CoinPingAlertBot) — Multi-condition crypto price alert bot (threshold, 24h change %, cross-exchange spread). Free tier with 3 alert slots. [Open source](https://github.com/SeigeC/coinping-bot) (Go)
 
 ### x402 Payments Protocol
 
