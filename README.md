@@ -355,6 +355,7 @@
 - [Kuberna Labs](https://github.com/kawacukennedy/kuberna-labs) - Decentralized execution rails for AI agents. Deploy TEE-shielded agents to Ethereum, Solana, NEAR with ERC-7683 intents and zkTLS privacy.
 - [web3-docs](https://github.com/dioptx/web3-docs) - Local MCP server with a searchable corpus of 1,767 EIPs, BIPs, ADRs, CIPs, and RFCs across 10 chains plus a canonical contract-address registry covering 19 protocols on major EVM chains. SQLite + FTS5, no API keys.
 - [Assay Protocol](https://github.com/Grandionn/assay-protocol) - Economic trust enforcement for AI agents on Base. USDC staking, outcome-verified escrow, algorithmic reputation scoring (0-1000), and semantic discovery for ERC-8004 agents. 2000+ agents indexed. ([npm](https://www.npmjs.com/package/@assaylabs/trust-check))
+- [Block Lottos](https://blocklottos.com) - Agent-readable on-chain lottery and advertising platform with Polygon and Base games, public no-auth read APIs, OpenAPI docs, agent manifests, and user-signed wallet transaction preparation.
 - [Web3 Agent Kit](https://github.com/ulsreall/web3-agent-kit) - Open-source Python framework for building autonomous AI agents that interact with DeFi protocols. Multi-chain support (Ethereum, Base, Arbitrum, Optimism, Polygon), LLM-powered reasoning (OpenAI, Anthropic, Groq, DeepSeek), Uniswap V2 swaps, cross-chain bridges (Li.Fi, Socket), token sniper, and portfolio tracking.
 
 ## Gas Tracker & Optimization
