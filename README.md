@@ -313,6 +313,7 @@
 - [Indexed.xyz](https://indexed.xyz) - Raw and decoded logs, transactions, and blocks for many EVM chains.
 - [OpenChainBench](https://openchainbench.com) - Open, reproducible benchmarks for crypto infrastructure (aggregators, bridges, blockchains, perps) with live data, public methodology, and a JSON API. Data is CC-BY-4.0.
 - [Ormi Labs](https://ormilabs.com) - Ormi's 0xgraph is a next-gen subgraph indexing platform delivering 5× faster syncs, real-time queries with sub-second latency, zero throttling, and built-in support for chain re-orgs across 70+ chains.
+- [PubFi Discovery](https://pubfi.ai/discovery) - Crypto data API directory for AI agents and developers covering market data, on-chain state, governance, RPC, NFT, wallet, and machine-readable source profiles.
 
 ### Risk Management
 
