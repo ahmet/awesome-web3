@@ -229,6 +229,7 @@
 - [geth](https://geth.ethereum.org) - Official Go implementation of the Ethereum protocol.
 - [subnet-cli](https://github.com/ava-labs/subnet-cli) - CLI tool to manage Avalanche Subnets.
 - [eRPC](https://github.com/erpc/erpc) - Open-source EVM RPC proxy & cache service built to scale horizontally from small traffic to million RPS across many chains, optimized for read-heavy use-cases such as Indexers, Frontends, MEV bots, etc.
+- [Smart Router](https://github.com/Magma-Devs/smart-router) - Reliability and security layer for blockchain RPC that orchestrates multiple upstreams behind a single endpoint, with automatic failover, data cross-validation, block-aware caching, and observability across EVM and non-EVM networks.
 
 ### C/C++
 
