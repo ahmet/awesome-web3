@@ -496,6 +496,7 @@
 - [GetBlock](https://getblock.io/)
 - [Ankr](https://www.ankr.com/)
 - [SimpleHash](https://simplehash.com)
+- [sunwatch](https://sunwatch.sunfamily.xyz) - Crypto-paid uptime monitoring for side projects. Pay per monitor in USDC on Base with no accounts or KYC.
 - [walletOS](https://www.pinestreetlabs.com/walletos/)
 - [Tenderly](https://tenderly.co)
 - [Apillon](https://apillon.io/)
