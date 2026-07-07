@@ -396,6 +396,7 @@
 
 ## Tutorial
 
+- [Get-Started-with-Web3](https://github.com/beihaili/Get-Started-with-Web3) - Zero-to-hero Web3 tutorial (EN/ZH), 7 courses from wallet to ZKP.
 - [useWeb3](https://www.useweb3.xyz) - Learning platform for developers to explore and learn about Web3.
 - [CryptoZombies](https://cryptozombies.io) - Interactive school that teaches you all things technical about blockchains.
 - [Buildspace](https://buildspace.so/) - Cohort based web3 development courses, learn by building projects.
