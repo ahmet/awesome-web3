@@ -360,11 +360,35 @@
 - [Web3 Agent Kit](https://github.com/ulsreall/web3-agent-kit) - Open-source Python framework for building autonomous AI agents that interact with DeFi protocols. Multi-chain support (Ethereum, Base, Arbitrum, Optimism, Polygon), LLM-powered reasoning (OpenAI, Anthropic, Groq, DeepSeek), Uniswap V2 swaps, cross-chain bridges (Li.Fi, Socket), token sniper, and portfolio tracking.
 - [AgentsCoin](https://github.com/axiosdevs/agentscoin-mcp) - Give your AI agent its own money on a live EVM chain (chainId 24368): wallet, faucet, send, and create/trade tokens via MCP.
 
+## Analytics & Marketing Tools
+
+- [UTM Generator](https://formo.so/tools/utm-generator) - Generate campaign links with source, medium, campaign, term, and content parameters for web3 acquisition.
+- [Tracking Plan Generator](https://formo.so/tools/tracking-plan-generator) - Generate an install-ready event taxonomy for DeFi apps, wallets, and onchain products.
+- [DeFi Campaign ROI Calculator](https://formo.so/tools/defi-campaign-roi-calculator) - Measure ROI, ROAS, cost per wallet, and onchain conversion metrics for DeFi campaigns.
+- [ROI Calculator](https://formo.so/tools/roi-calculator) - Estimate wallet acquisition expenses, revenue per wallet, and marketing returns.
+- [Wallet Lifetime Value Calculator](https://formo.so/tools/ltv-calculator) - Compute lifetime value per wallet using revenue, lifespan, and margin data.
+- [Cost per Wallet Calculator (CAC)](https://formo.so/tools/cost-per-wallet-calculator) - Determine acquisition cost per wallet and LTV-to-CAC ratio.
+- [Crypto Conversion Rate Calculator](https://formo.so/tools/conversion-calculator) - Calculate visitor-to-wallet and connect-to-transaction conversion rates for your crypto funnel.
+- [Crypto Bounce Rate Calculator](https://formo.so/tools/bounce-rate-calculator) - Calculate wallet bounce rate and activation rate between wallet connect and first transaction.
+- [Crypto Retention Rate Calculator](https://formo.so/tools/retention-calculator) - Calculate wallet retention and churn rate for your crypto app's active cohorts.
+- [Churn Calculator](https://formo.so/tools/churn-calculator) - Calculate wallet churn and understand how many users you lose over time.
+- [Crypto Campaign CTR Calculator](https://formo.so/tools/ctr-calculator) - Measure click-through rate from impressions and clicks for campaigns.
+- [Crypto A/B Test Calculator](https://formo.so/tools/ab-test-calculator) - Calculate statistical significance and uplift between two conversion rate variants.
+- [Crypto Traffic Value Calculator](https://formo.so/tools/traffic-value-calculator) - Estimate paid-equivalent value of organic wallet traffic.
+
 ## Gas Tracker & Optimization
 
 - [ETH Gas Tracker](https://www.ethgastracker.com/) - Monitor and track Ethereum and L2 gas prices to reduce transaction fees, save money and take control of your blockchain experience
 - [EthGasOptimizer (EGO)](https://ethgasoptimizer.com) - Smart Ethereum gas optimizer that predicts low-fee windows, schedules transactions, and sends real-time gas alerts to help users save on fees.
 - [EthGasStation](https://ethgasstation.io) - Live Ethereum gas stats, alerts, and workflow tools to help users and teams make better before-send transaction decisions.
+
+## Developer Tools
+
+- [Builder Codes](https://formo.so/tools/builder-codes) - Encode, decode, and validate ERC-8021 builder codes for onchain transaction attribution.
+- [Wei Converter](https://formo.so/tools/wei-converter) - Convert between Wei, Gwei, and ETH without manual calculations.
+- [Address Checksum](https://formo.so/tools/address-checksum) - Validate and convert Ethereum and EVM addresses to EIP-55 checksum format.
+- [Sign-In with Ethereum](https://formo.so/tools/sign-in-with-ethereum) - Create and inspect EIP-4361 SIWE messages for wallet-based authentication.
+- [Calldata Decoder](https://formo.so/tools/calldata-decoder) - Decode Ethereum and EVM transaction calldata into readable function calls, selectors, and parameters.
 
 ## Open Source Project
 
@@ -441,6 +465,8 @@
 - [Optimism: Building on the OP Stack](https://www.uselearnai.com/course/optimism-l2) — LearnAI powered, interactive course covering Optimistic Rollups, deploying on OP Mainnet, the Standard Bridge, the OP Stack for launching your own L2, and the Superchain ecosystem.
 - [ZeroDay Dev](https://apps.apple.com/us/app/zeroday-dev/id6760129673) - Learn Web3 with guided lessons and practices. (iOS)
 - [RedDuck Academy](https://academy.redduck.io/) - Solidity lessons with runnable examples, based on RedDuck's internal developer onboarding curriculum.
+- [Web3 Event Analytics: The Complete Guide to Analytics & Attribution for Crypto and DeFi (2026)](https://formo.so/blog/web3-event-analytics-the-complete-guide-to-analytics-attribution-for-web3) - How to combine onchain and offchain data tracking to measure user behavior across dApps and connect campaigns to blockchain transactions.
+- [What is Web3 Attribution? How to Build an Onchain Attribution System](https://formo.so/blog/web3-attribution-onchain-attribution-system) - How to track user journeys from initial discovery through onchain conversion by connecting wallet addresses to marketing touchpoints.
 
 ## YouTube Channel
 
@@ -509,13 +535,13 @@
 - [Juno](https://juno.build)
 - [Mindlyn](https://mindlyn.io)
 - [Zerion](https://zerion.io/api) - Wallet and DeFi data API across 40+ chains — portfolios, token balances, transactions, NFTs, and DeFi positions. Historical charts, multi-wallet aggregation, and real-time webhooks. Offers CLI, MCP, and pay-per-request via x402 and MPP.
+- [Formo](https://formo.so) - Analytics and attribution for web3.
 
 ## Other
 
 - [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
 - [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/) - Unofficial Ecosystem page for Ethereum and its Layer 2s featuring 900+ dApps and tools across Optimism, Base, Starknet and more.
-- [Formo](https://formo.so) - Web3 forms and product analytics for web3 teams.
 - [SailOnChain](https://sailonchain.com) - Crypto & Web3 job board with 1,400+ positions, salary intelligence, and global remote roles from ~2,000 blockchain companies.
 
 ## Contribute
