@@ -393,6 +393,7 @@
 - [Pulse](https://github.com/manja316/pulse-payments) - Instant payment links on Base. Create shareable payment requests settled onchain with 0.5% fee.
 - [Pact](https://github.com/manja316/pact-escrow) - Trustless freelance escrow on Base. Lock funds in a smart contract, release on milestone completion.
 - [Drift](https://github.com/manja316/drift-subscriptions) - Onchain subscription payments on Base. Recurring crypto payments with auto-debit smart contracts.
+- [Vaultion](https://vaultion.org) - Non-custodial crypto escrow for stablecoin deals. Funds lock in an open-source smart contract and release on agreement or by dispute ruling.
 
 ## Tutorial
 
