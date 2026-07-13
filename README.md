@@ -360,7 +360,7 @@
 - [Web3 Agent Kit](https://github.com/ulsreall/web3-agent-kit) - Open-source Python framework for building autonomous AI agents that interact with DeFi protocols. Multi-chain support (Ethereum, Base, Arbitrum, Optimism, Polygon), LLM-powered reasoning (OpenAI, Anthropic, Groq, DeepSeek), Uniswap V2 swaps, cross-chain bridges (Li.Fi, Socket), token sniper, and portfolio tracking.
 - [AgentsCoin](https://github.com/axiosdevs/agentscoin-mcp) - Give your AI agent its own money on a live EVM chain (chainId 24368): wallet, faucet, send, and create/trade tokens via MCP.
 
-## Analytics & Marketing Tools
+## Tools
 
 - [UTM Generator](https://formo.so/tools/utm-generator) - Generate campaign links with source, medium, campaign, term, and content parameters for web3 acquisition.
 - [Tracking Plan Generator](https://formo.so/tools/tracking-plan-generator) - Generate an install-ready event taxonomy for DeFi apps, wallets, and onchain products.
@@ -375,20 +375,17 @@
 - [Crypto Campaign CTR Calculator](https://formo.so/tools/ctr-calculator) - Measure click-through rate from impressions and clicks for campaigns.
 - [Crypto A/B Test Calculator](https://formo.so/tools/ab-test-calculator) - Calculate statistical significance and uplift between two conversion rate variants.
 - [Crypto Traffic Value Calculator](https://formo.so/tools/traffic-value-calculator) - Estimate paid-equivalent value of organic wallet traffic.
+- [Builder Codes](https://formo.so/tools/builder-codes) - Encode, decode, and validate ERC-8021 builder codes for onchain transaction attribution.
+- [Wei Converter](https://formo.so/tools/wei-converter) - Convert between Wei, Gwei, and ETH without manual calculations.
+- [Address Checksum](https://formo.so/tools/address-checksum) - Validate and convert Ethereum and EVM addresses to EIP-55 checksum format.
+- [Sign-In with Ethereum](https://formo.so/tools/sign-in-with-ethereum) - Create and inspect EIP-4361 SIWE messages for wallet-based authentication.
+- [Calldata Decoder](https://formo.so/tools/calldata-decoder) - Decode Ethereum and EVM transaction calldata into readable function calls, selectors, and parameters.
 
 ## Gas Tracker & Optimization
 
 - [ETH Gas Tracker](https://www.ethgastracker.com/) - Monitor and track Ethereum and L2 gas prices to reduce transaction fees, save money and take control of your blockchain experience
 - [EthGasOptimizer (EGO)](https://ethgasoptimizer.com) - Smart Ethereum gas optimizer that predicts low-fee windows, schedules transactions, and sends real-time gas alerts to help users save on fees.
 - [EthGasStation](https://ethgasstation.io) - Live Ethereum gas stats, alerts, and workflow tools to help users and teams make better before-send transaction decisions.
-
-## Developer Tools
-
-- [Builder Codes](https://formo.so/tools/builder-codes) - Encode, decode, and validate ERC-8021 builder codes for onchain transaction attribution.
-- [Wei Converter](https://formo.so/tools/wei-converter) - Convert between Wei, Gwei, and ETH without manual calculations.
-- [Address Checksum](https://formo.so/tools/address-checksum) - Validate and convert Ethereum and EVM addresses to EIP-55 checksum format.
-- [Sign-In with Ethereum](https://formo.so/tools/sign-in-with-ethereum) - Create and inspect EIP-4361 SIWE messages for wallet-based authentication.
-- [Calldata Decoder](https://formo.so/tools/calldata-decoder) - Decode Ethereum and EVM transaction calldata into readable function calls, selectors, and parameters.
 
 ## Open Source Project
 
@@ -531,11 +528,11 @@
 - [Layer4](https://www.layer4.app)
 - [rivet.cloud](https://rivet.cloud/)
 - [Tatum](https://tatum.io/)
+- [Formo](https://formo.so) - Analytics and attribution for DeFi.
 - [GoldRush](https://goldrush.dev) - Blockchain data across 100+ chains — wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.
 - [Juno](https://juno.build)
 - [Mindlyn](https://mindlyn.io)
 - [Zerion](https://zerion.io/api) - Wallet and DeFi data API across 40+ chains — portfolios, token balances, transactions, NFTs, and DeFi positions. Historical charts, multi-wallet aggregation, and real-time webhooks. Offers CLI, MCP, and pay-per-request via x402 and MPP.
-- [Formo](https://formo.so) - Analytics and attribution for DeFi.
 
 ## Other
 
