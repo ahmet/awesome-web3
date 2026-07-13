@@ -184,6 +184,7 @@
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - Bitcoin library for node.js and browsers.
 - [dapparatus](https://github.com/austintgriffith/dapparatus) - Reusable dApp components in React.
 - [ethers.js](https://github.com/ethers-io/ethers.js/) - Complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).
+- [Formo SDK](https://github.com/getformo/sdk) - Analytics and attribution SDK for onchain apps.
 - [Hashgraph Online Standards SDK](https://github.com/hashgraph-online/standards-sdk) - TypeScript SDK for Hedera Consensus Service standards (HCS-1 through HCS-11), enabling decentralized file storage, NFT metadata, and recursive content on Hedera.
 - [ipfs-mini](https://github.com/silentcicero/ipfs-mini) - Super tiny module for querying an IPFS node, that works in the browser and in Node.
 - [js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript.
@@ -360,27 +361,6 @@
 - [Web3 Agent Kit](https://github.com/ulsreall/web3-agent-kit) - Open-source Python framework for building autonomous AI agents that interact with DeFi protocols. Multi-chain support (Ethereum, Base, Arbitrum, Optimism, Polygon), LLM-powered reasoning (OpenAI, Anthropic, Groq, DeepSeek), Uniswap V2 swaps, cross-chain bridges (Li.Fi, Socket), token sniper, and portfolio tracking.
 - [AgentsCoin](https://github.com/axiosdevs/agentscoin-mcp) - Give your AI agent its own money on a live EVM chain (chainId 24368): wallet, faucet, send, and create/trade tokens via MCP.
 
-## Tools
-
-- [UTM Generator](https://formo.so/tools/utm-generator) - Generate campaign links with source, medium, campaign, term, and content parameters for web3 acquisition.
-- [Tracking Plan Generator](https://formo.so/tools/tracking-plan-generator) - Generate an install-ready event taxonomy for DeFi apps, wallets, and onchain products.
-- [DeFi Campaign ROI Calculator](https://formo.so/tools/defi-campaign-roi-calculator) - Measure ROI, ROAS, cost per wallet, and onchain conversion metrics for DeFi campaigns.
-- [ROI Calculator](https://formo.so/tools/roi-calculator) - Estimate wallet acquisition expenses, revenue per wallet, and marketing returns.
-- [Wallet Lifetime Value Calculator](https://formo.so/tools/ltv-calculator) - Compute lifetime value per wallet using revenue, lifespan, and margin data.
-- [Cost per Wallet Calculator (CAC)](https://formo.so/tools/cost-per-wallet-calculator) - Determine acquisition cost per wallet and LTV-to-CAC ratio.
-- [Crypto Conversion Rate Calculator](https://formo.so/tools/conversion-calculator) - Calculate visitor-to-wallet and connect-to-transaction conversion rates for your crypto funnel.
-- [Crypto Bounce Rate Calculator](https://formo.so/tools/bounce-rate-calculator) - Calculate wallet bounce rate and activation rate between wallet connect and first transaction.
-- [Crypto Retention Rate Calculator](https://formo.so/tools/retention-calculator) - Calculate wallet retention and churn rate for your crypto app's active cohorts.
-- [Churn Calculator](https://formo.so/tools/churn-calculator) - Calculate wallet churn and understand how many users you lose over time.
-- [Crypto Campaign CTR Calculator](https://formo.so/tools/ctr-calculator) - Measure click-through rate from impressions and clicks for campaigns.
-- [Crypto A/B Test Calculator](https://formo.so/tools/ab-test-calculator) - Calculate statistical significance and uplift between two conversion rate variants.
-- [Crypto Traffic Value Calculator](https://formo.so/tools/traffic-value-calculator) - Estimate paid-equivalent value of organic wallet traffic.
-- [Builder Codes](https://formo.so/tools/builder-codes) - Encode, decode, and validate ERC-8021 builder codes for onchain transaction attribution.
-- [Wei Converter](https://formo.so/tools/wei-converter) - Convert between Wei, Gwei, and ETH without manual calculations.
-- [Address Checksum](https://formo.so/tools/address-checksum) - Validate and convert Ethereum and EVM addresses to EIP-55 checksum format.
-- [Sign-In with Ethereum](https://formo.so/tools/sign-in-with-ethereum) - Create and inspect EIP-4361 SIWE messages for wallet-based authentication.
-- [Calldata Decoder](https://formo.so/tools/calldata-decoder) - Decode Ethereum and EVM transaction calldata into readable function calls, selectors, and parameters.
-
 ## Gas Tracker & Optimization
 
 - [ETH Gas Tracker](https://www.ethgastracker.com/) - Monitor and track Ethereum and L2 gas prices to reduce transaction fees, save money and take control of your blockchain experience
@@ -462,8 +442,8 @@
 - [Optimism: Building on the OP Stack](https://www.uselearnai.com/course/optimism-l2) — LearnAI powered, interactive course covering Optimistic Rollups, deploying on OP Mainnet, the Standard Bridge, the OP Stack for launching your own L2, and the Superchain ecosystem.
 - [ZeroDay Dev](https://apps.apple.com/us/app/zeroday-dev/id6760129673) - Learn Web3 with guided lessons and practices. (iOS)
 - [RedDuck Academy](https://academy.redduck.io/) - Solidity lessons with runnable examples, based on RedDuck's internal developer onboarding curriculum.
-- [Web3 Event Analytics: The Complete Guide to Analytics & Attribution for Crypto and DeFi (2026)](https://formo.so/blog/web3-event-analytics-the-complete-guide-to-analytics-attribution-for-web3) - How to combine onchain and offchain data tracking to measure user behavior across dApps and connect campaigns to blockchain transactions.
-- [What is Web3 Attribution? How to Build an Onchain Attribution System](https://formo.so/blog/web3-attribution-onchain-attribution-system) - How to track user journeys from initial discovery through onchain conversion by connecting wallet addresses to marketing touchpoints.
+- [Web3 Event Analytics](https://formo.so/blog/web3-event-analytics-the-complete-guide-to-analytics-attribution-for-web3) - How to combine onchain and offchain data tracking to measure user behavior across dApps and connect campaigns to blockchain transactions.
+- [What is Web3 Attribution](https://formo.so/blog/web3-attribution-onchain-attribution-system) - How to track user journeys from initial discovery through onchain conversion by connecting wallet addresses to marketing touchpoints.
 
 ## YouTube Channel
 
