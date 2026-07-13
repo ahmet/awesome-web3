@@ -184,6 +184,7 @@
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - Bitcoin library for node.js and browsers.
 - [dapparatus](https://github.com/austintgriffith/dapparatus) - Reusable dApp components in React.
 - [ethers.js](https://github.com/ethers-io/ethers.js/) - Complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).
+- [Formo SDK](https://github.com/getformo/sdk) - Analytics and attribution SDK for onchain apps.
 - [Hashgraph Online Standards SDK](https://github.com/hashgraph-online/standards-sdk) - TypeScript SDK for Hedera Consensus Service standards (HCS-1 through HCS-11), enabling decentralized file storage, NFT metadata, and recursive content on Hedera.
 - [ipfs-mini](https://github.com/silentcicero/ipfs-mini) - Super tiny module for querying an IPFS node, that works in the browser and in Node.
 - [js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript.
@@ -442,6 +443,8 @@
 - [Optimism: Building on the OP Stack](https://www.uselearnai.com/course/optimism-l2) — LearnAI powered, interactive course covering Optimistic Rollups, deploying on OP Mainnet, the Standard Bridge, the OP Stack for launching your own L2, and the Superchain ecosystem.
 - [ZeroDay Dev](https://apps.apple.com/us/app/zeroday-dev/id6760129673) - Learn Web3 with guided lessons and practices. (iOS)
 - [RedDuck Academy](https://academy.redduck.io/) - Solidity lessons with runnable examples, based on RedDuck's internal developer onboarding curriculum.
+- [Web3 Event Analytics](https://formo.so/blog/web3-event-analytics-the-complete-guide-to-analytics-attribution-for-web3) - How to combine onchain and offchain data tracking to measure user behavior across dApps and connect campaigns to blockchain transactions.
+- [What is Web3 Attribution](https://formo.so/blog/web3-attribution-onchain-attribution-system) - How to track user journeys from initial discovery through onchain conversion by connecting wallet addresses to marketing touchpoints.
 
 ## YouTube Channel
 
@@ -506,6 +509,7 @@
 - [Layer4](https://www.layer4.app)
 - [rivet.cloud](https://rivet.cloud/)
 - [Tatum](https://tatum.io/)
+- [Formo](https://formo.so) - Analytics and attribution for DeFi.
 - [GoldRush](https://goldrush.dev) - Blockchain data across 100+ chains — wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.
 - [Juno](https://juno.build)
 - [Mindlyn](https://mindlyn.io)
@@ -516,7 +520,6 @@
 - [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
 - [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/) - Unofficial Ecosystem page for Ethereum and its Layer 2s featuring 900+ dApps and tools across Optimism, Base, Starknet and more.
-- [Formo](https://formo.so) - Web3 forms and product analytics for web3 teams.
 - [SailOnChain](https://sailonchain.com) - Crypto & Web3 job board with 1,400+ positions, salary intelligence, and global remote roles from ~2,000 blockchain companies.
 
 ## Contribute
