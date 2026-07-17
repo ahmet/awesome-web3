@@ -174,6 +174,7 @@
 - [Chitin](https://chitin.id) - On-chain soul identity for AI agents on Base L2. W3C DID resolution (did:chitin), Soulbound Tokens (EIP-5192), ERC-8004 agent passports, verifiable certificates, and governance voting. ([GitHub](https://github.com/Tiida-Tech/chitin-contracts))
 - [MolTrust](https://moltrust.ch) - Trust infrastructure for AI agents. W3C DID identity verification, reputation scoring, Ed25519-signed Verifiable Credentials, and Base blockchain anchoring. ([SDK](https://github.com/MoltyCel/moltrust-sdk) · [PyPI](https://pypi.org/project/moltrust/) · [API Docs](https://api.moltrust.ch/docs))
 - [Ophis](https://ophis.fi) - Intent-based DEX aggregator (a CoW Protocol fork) for gasless, MEV-protected swaps across 11 chains, with an MCP server and SDK for AI agents. ([GitHub](https://github.com/ophis-fi/ophis) · [Docs](https://docs.ophis.fi))
+- [FractalAI](https://fractalai.net.co) - AI-native Layer 1 blockchain (Rust) with post-quantum cryptography (CRYSTALS-Dilithium, NIST FIPS 204) and Proof of Fractal Work consensus. Provides verifiable on-chain AI attestations and self-facilitated x402 endpoints for autonomous agents (PQC signatures, decision attestation, provenance seals) priced in USDC on Base.
 
 ### JavaScript
 
