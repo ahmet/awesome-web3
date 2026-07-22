@@ -219,6 +219,7 @@
 - [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - The standard for secure blockchain applications.
 - [CREATE2 Deployer](https://github.com/pcaversaccio/create2deployer) - Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.
 - [Solady](https://github.com/Vectorized/solady) - Gas optimized Solidity Libraries.
+- [solidity-snippets](https://github.com/tiancaijb366-pixel/solidity-snippets) - 30 copy-paste-ready Solidity snippets for ERC standards, access control, upgrades, and utilities.
 
 ### Go
 
@@ -244,6 +245,7 @@
 - [OpenEthereum](https://github.com/openethereum/openethereum) - The fast, light, and robust client for the Ethereum mainnet.
 - [RustChain](https://rustchain.org) - Proof-of-Antiquity blockchain that rewards mining on vintage hardware (PowerPC G4, Pentium 4) with RTC tokens. Features 6-point hardware fingerprinting, Ergo chain anchoring, and an on-chain AI agent economy. ([source code](https://github.com/Scottcjn/rustchain))
 - [browser-web3-signer](https://github.com/nikicat/browser-web3-signer) - Sign EVM and TRON transactions and messages with your own browser wallet (MetaMask, Rabby, TronLink) from the CLI or from Rust, TypeScript, and Go programs; the private key never leaves the browser.
+- [rust-for-web3](https://github.com/tiancaijb366-pixel/rust-for-web3) - 40+ Rust snippets for Web3 development: Ethers-rs, Alloy, Solang, and Anchor.
 
 ### Shell
 
