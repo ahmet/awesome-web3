@@ -146,6 +146,7 @@
 
 ### Protocol
 
+- [DAY Protocol](https://dayprotocol.com) - Agent-native non-custodial yield router — wallet-only identity, strategies across Sui/Solana/Base/Arbitrum, Auto Pay residual rails and x402. ([SDK](https://github.com/dayprotocol/sdk) · [Docs](https://docs.dayprotocol.com))
 - [WalletConnect](https://github.com/WalletConnect) - Open protocol connecting wallets to Dapps.
 - [WalletLink](https://github.com/walletlink/walletlink) - Open protocol that lets users connect their mobile wallets to your DApp.
 - [IPFS](https://ipfs.tech/) - Distributed system for storing and accessing files, websites, applications, and data.
