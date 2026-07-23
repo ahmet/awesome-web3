@@ -126,6 +126,7 @@
 
 - [Cannon](https://usecannon.com/) - Continuous configuration automation & development cli multi-tool. Like Terraform, Docker and NPM for Ethereum.
 - [Catapulta](https://catapulta.sh) - Zero config multi-chain smart contracts platform, for Foundry and Hardhat. Deploy smart contracts, we cover the gas for you in +20 EVM networks.
+- [OpenChainBench](https://openchainbench.com) - Independent open-source benchmarks for RPC providers, L2 finality, gas oracles, and archive coverage across 22 chains. Data ships under CC BY 4.0, harnesses in Go/Rust on GitHub.
 
 ### Hosting
 
