@@ -366,6 +366,7 @@
 - [AgentsCoin](https://github.com/axiosdevs/agentscoin-mcp) - Give your AI agent its own money on a live EVM chain (chainId 24368): wallet, faucet, send, and create/trade tokens via MCP.
 - [BaseLens](https://github.com/YoungAlgy/baselens) - Pay-per-call AI agent that reads any Base address and returns a structured risk/activity report over x402 (a few cents in USDC). Built with Coinbase's CDP SDK and Anthropic's API.
 - [AgentServices](https://github.com/vbkotecha/aiservices-api) 📇 ☁️ - Crypto/financial market data APIs for AI agents. 54 services, 97 endpoints, 37 MCP tools, 41 x402-paid endpoints (USDC on Base). Prices, OHLCV, DeFi yields, DEX quotes, on-chain analytics, social sentiment, gas tracker. Remote MCP server (TypeScript, cloud-hosted).
+- [WealthVille](https://github.com/amitesh-m/wealthville-integrations) - DeFi liquidity-pool scoring for AI agents. Covers 575 EVM pools across Ethereum, Arbitrum, Base, Optimism, Polygon and BSC (Uniswap v2/v3/v4, Aave, Morpho, Pendle, Curve, Compound, Aerodrome) plus ~68,800 Solana pools. Returns a 0-100 pool score and an Enter/Hold/Exit/Reduce/Avoid verdict with per-protocol calibrated confidence, and publishes a miss-inclusive 30-day track record. Remote MCP server at `https://wealthville.net/mcp` (streamable-http, no key), npm `@wealthville/mcp-server`, ElizaOS plugin, and a keyless REST API.
 
 ## Gas Tracker & Optimization
 
