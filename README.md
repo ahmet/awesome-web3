@@ -372,6 +372,7 @@
 - [ETH Gas Tracker](https://www.ethgastracker.com/) - Monitor and track Ethereum and L2 gas prices to reduce transaction fees, save money and take control of your blockchain experience
 - [EthGasOptimizer (EGO)](https://ethgasoptimizer.com) - Smart Ethereum gas optimizer that predicts low-fee windows, schedules transactions, and sends real-time gas alerts to help users save on fees.
 - [EthGasStation](https://ethgasstation.io) - Live Ethereum gas stats, alerts, and workflow tools to help users and teams make better before-send transaction decisions.
+- [GetTronEnergy](https://gettronenergy.com/) - TRON energy rental that cuts USDT (TRC20) transfer fees by about 40% versus burning TRX, with live network fee data and free calculators.
 
 ## Open Source Project
 
