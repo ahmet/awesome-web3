@@ -279,6 +279,7 @@
 ### Boilerplate
 
 - [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - Ethereum dev stack focused on fast product iterations.
+- [Semantic Dapp](https://github.com/TacitvsXI/semantic-dapp) - Generate a usable user dApp and admin console from any EVM ABI with deterministic risk and audience classification.
 - [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered apps with one command, similar to create-react-app.
 - [next-web3-boilerplate](https://github.com/SoxZz5/next-web3-boilerplate) - Boilerplate in TypeScript using Next.js, NextAuth.js, siwe, Web3modal, useDapp, next-i18next, reactMUI.
 - [useDApp](https://github.com/TrueFiEng/useDApp) - Framework for rapid Dapp development.
