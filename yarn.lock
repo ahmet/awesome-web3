@@ -238,6 +238,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@eslint-community/eslint-utils@npm:4.9.1":
+  version: 4.9.1
+  resolution: "@eslint-community/eslint-utils@npm:4.9.1"
+  dependencies:
+    eslint-visitor-keys: "npm:^3.4.3"
+  peerDependencies:
+    eslint: ^6.0.0 || ^7.0.0 || >=8.0.0
+  checksum: 10c0/dc4ab5e3e364ef27e33666b11f4b86e1a6c1d7cbf16f0c6ff87b1619b3562335e9201a3d6ce806221887ff780ec9d828962a290bb910759fd40a674686503f02
+  languageName: node
+  linkType: hard
+
 "@eslint-community/eslint-utils@npm:^4.7.0, @eslint-community/eslint-utils@npm:^4.8.0":
   version: 4.9.0
   resolution: "@eslint-community/eslint-utils@npm:4.9.0"
@@ -708,12 +719,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@next/eslint-plugin-next@npm:16.2.12":
-  version: 16.2.12
-  resolution: "@next/eslint-plugin-next@npm:16.2.12"
+"@next/eslint-plugin-next@npm:16.3.0":
+  version: 16.3.0
+  resolution: "@next/eslint-plugin-next@npm:16.3.0"
   dependencies:
+    "@eslint-community/eslint-utils": "npm:4.9.1"
     fast-glob: "npm:3.3.1"
-  checksum: 10c0/c44cd10033ea95b30fa3b2cc15e94af2ac06183f481f283fd045964837d47bd2156c563db2d739988ee9b42baed4d7c8101eaaddbcaef667ce20f8985f5cca5c
+  checksum: 10c0/993098f36063601b200c141a0a92944cc2c7ae346a57816243984102b38d90a2a7bda09edd1353a54882a5a896e288c7e346e01ed6d6774d98410a40ede170c7
   languageName: node
   linkType: hard
 
@@ -1543,9 +1555,9 @@ __metadata:
     "@vercel/speed-insights": "npm:^2.0.0"
     autoprefixer: "npm:^10.5.4"
     eslint: "npm:10.8.0"
-    eslint-config-next: "npm:16.2.12"
+    eslint-config-next: "npm:16.3.0"
     next: "npm:16.3.0"
-    postcss: "npm:^8.5.25"
+    postcss: "npm:^8.5.26"
     react: "npm:19.2.8"
     react-dom: "npm:19.2.8"
     react-render-html: "npm:^0.6.0"
@@ -2554,11 +2566,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-next@npm:16.2.12":
-  version: 16.2.12
-  resolution: "eslint-config-next@npm:16.2.12"
+"eslint-config-next@npm:16.3.0":
+  version: 16.3.0
+  resolution: "eslint-config-next@npm:16.3.0"
   dependencies:
-    "@next/eslint-plugin-next": "npm:16.2.12"
+    "@next/eslint-plugin-next": "npm:16.3.0"
     eslint-import-resolver-node: "npm:^0.3.6"
     eslint-import-resolver-typescript: "npm:^3.5.2"
     eslint-plugin-import: "npm:^2.32.0"
@@ -2573,7 +2585,7 @@ __metadata:
   peerDependenciesMeta:
     typescript:
       optional: true
-  checksum: 10c0/bbabf2eddc68b039e6ae7d3f32ffd298a0c5c1d239f4a2e15e8c7840d8916e9ffcd009b8fb4e548fc14ab97e5968f66b463dba91294948db694f92b17e74edf4
+  checksum: 10c0/7f2e7f855c02d0a114f0f09de551378c6d225fea11e3b7c03214f61d5e95631f2aacc9c74cf0383fa2dfe73317640ded52f8fc048f6c8556c8bfe625911e3e99
   languageName: node
   linkType: hard
 
@@ -4907,6 +4919,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"nanoid@npm:^3.3.17":
+  version: 3.3.18
+  resolution: "nanoid@npm:3.3.18"
+  bin:
+    nanoid: bin/nanoid.cjs
+  checksum: 10c0/b994b4e396730f8be2520923284e2040d61eaee55cc6d4935ef6d38d34bafdc46133eda4d3faea5073bda545aa6079d82b886caeac5c731cf9ac18bcc1301425
+  languageName: node
+  linkType: hard
+
 "natural-compare@npm:^1.4.0":
   version: 1.4.0
   resolution: "natural-compare@npm:1.4.0"
@@ -5476,14 +5497,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.5.25":
-  version: 8.5.25
-  resolution: "postcss@npm:8.5.25"
+"postcss@npm:^8.5.26":
+  version: 8.5.26
+  resolution: "postcss@npm:8.5.26"
   dependencies:
-    nanoid: "npm:^3.3.16"
+    nanoid: "npm:^3.3.17"
     picocolors: "npm:^1.1.1"
     source-map-js: "npm:^1.2.1"
-  checksum: 10c0/0a12c1e74b456c57122e81f684e02fd98ff4d57526f794d10c996df1147158808f5ae373ac82b988c8de6cbbaa82dbd7b13803b14f5dd3cf7cc6a42ccad5c9f2
+  checksum: 10c0/2bdafc00d96bd57b6649a52e458864a4bf58ee56cfdbe4aea1472b5cccc127e6c1ad653bd0bec50d211e650eb0b9270c80e1e72aff2e2fa40d9e7363234d6e43
   languageName: node
   linkType: hard
 
