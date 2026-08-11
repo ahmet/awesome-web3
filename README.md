@@ -351,6 +351,7 @@
 - [@up2itnow0822/agent-wallet-sdk](https://github.com/up2itnow0822/agent-wallet-sdk) - TypeScript SDK for non-custodial AI agent wallets. Handles x402 payments, CCTP V2 cross-chain transfers, Uniswap V3 token swaps, and on-chain spend limits. MIT license.
 - [SpraayBatch](https://github.com/plagtech/SpraayBatch) - Batch USDC payments on Base for AI agents — pay up to 200 recipients in one atomic transaction. Gasless via CDP Paymaster, non-custodial auto-wallets, per-agent budget caps. OpenClaw plugin with ClawHub security audit pass. ([ClawHub](https://clawhub.ai/plagtech/plugins/spraay-batch))
 - [AgentServices](https://github.com/vbkotecha/aiservices-api) - 54 services / 97 endpoints with 37 MCP tools: crypto prices, OHLCV, DeFi yields, technical indicators, DEX swap quotes, prediction markets, trending tokens, gas tracker, and on-chain analytics. 41 x402-paid endpoints ($0.01-$0.05/call, USDC on Base). Remote MCP server, cloud-hosted.
+- [TLMNT Mini App Doctor](https://tlmnt.app) - Free Farcaster Mini App diagnostics plus two x402-paid Base USDC evidence APIs: a static dossier ($0.75) and a pinned server-side release gate ($5.99) with JFS/onchain checks and bounded PNG validation. ([OpenAPI](https://tlmnt.app/openapi.json) · [Agent guide](https://tlmnt.app/llms.txt))
 
 ## AI & LLM & MCP
 
