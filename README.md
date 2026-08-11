@@ -523,6 +523,7 @@
 
 ## Other
 
+- [ChainJobs](https://chainjobs.io) - Crypto & web3 job board with 2,650+ live roles aggregated daily from companies' official ATS systems, employer-published salary data, free JSON API.
 - [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
 - [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/) - Unofficial Ecosystem page for Ethereum and its Layer 2s featuring 900+ dApps and tools across Optimism, Base, Starknet and more.
