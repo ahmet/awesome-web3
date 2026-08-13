@@ -4,6 +4,7 @@
 <p align="center">Please check the <a href="https://github.com/ahmet/awesome-web3/blob/main/CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
 
 - [Awesome Web3](#awesome-web3)
+- [n8n Solana Wallet & Price Watcher](https://negozio.mooo.com?src=ahmet-web3) — ready-to-use n8n workflow that monitors Solana wallets/token prices and alerts on change. USDC payment, instant delivery.
   - [Awesome List](#awesome-list)
   - [Reference](#reference)
   - [Software Development](#software-development)
