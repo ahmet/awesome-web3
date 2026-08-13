@@ -527,6 +527,7 @@
 - [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/) - Unofficial Ecosystem page for Ethereum and its Layer 2s featuring 900+ dApps and tools across Optimism, Base, Starknet and more.
 - [SailOnChain](https://sailonchain.com) - Crypto & Web3 job board with 1,400+ positions, salary intelligence, and global remote roles from ~2,000 blockchain companies.
+- [Solana Mint/Program Monitor (n8n)](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow: watches an SPL mint or program ID and alerts on Telegram when a new transaction shows up, no API key required.
 
 ## Contribute
 
