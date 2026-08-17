@@ -366,6 +366,7 @@
 - [AgentsCoin](https://github.com/axiosdevs/agentscoin-mcp) - Give your AI agent its own money on a live EVM chain (chainId 24368): wallet, faucet, send, and create/trade tokens via MCP.
 - [BaseLens](https://github.com/YoungAlgy/baselens) - Pay-per-call AI agent that reads any Base address and returns a structured risk/activity report over x402 (a few cents in USDC). Built with Coinbase's CDP SDK and Anthropic's API.
 - [AgentServices](https://github.com/vbkotecha/aiservices-api) 📇 ☁️ - Crypto/financial market data APIs for AI agents. 54 services, 97 endpoints, 37 MCP tools, 41 x402-paid endpoints (USDC on Base). Prices, OHLCV, DeFi yields, DEX quotes, on-chain analytics, social sentiment, gas tracker. Remote MCP server (TypeScript, cloud-hosted).
+- [Grantor](https://chaingrantor.com) - OAuth/OIDC for AI agents (and wallets) with no authorization server: an agent authenticates with a self-certifying "deed" — a key signature or a zero-knowledge proof of membership in an on-chain registry — that the relying app verifies in-process and turns into a standard OIDC token. No issuer to run, no human in the loop. SDKs in TypeScript, Python, Go, and Rust.
 
 ## Gas Tracker & Optimization
 
