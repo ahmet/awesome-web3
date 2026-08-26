@@ -401,6 +401,7 @@
 - [Pact](https://github.com/manja316/pact-escrow) - Trustless freelance escrow on Base. Lock funds in a smart contract, release on milestone completion.
 - [Drift](https://github.com/manja316/drift-subscriptions) - Onchain subscription payments on Base. Recurring crypto payments with auto-debit smart contracts.
 - [Vaultion](https://github.com/troysteele5-dotcom/vaultion-contracts) - Non-custodial crypto escrow for stablecoin deals. Funds lock in an open-source smart contract and release on agreement or by dispute ruling.
+- [Vultisig](https://github.com/vultisig/vultisig-windows) - Seedless self-custodial multi-chain wallet secured by MPC threshold signatures; this repo builds the Vultisig desktop app and the Chrome extension.
 
 ## Tutorial
 
