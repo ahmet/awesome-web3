@@ -124,6 +124,7 @@
 - [Tenderly DevNets](https://docs.tenderly.co/devnets/intro-to-devnets) - Development Networks or DevNets are a zero-setup, managed development environment for developing, testing, and debugging smart contracts. With built-in debugging tools, DevNets eliminate the need to run any third-party software or to set up an environment.
 - [RevX](https://revx.dev/) - Online IDE for developing, compile, deploy, and test contracts on Polkadot.
 - [testnetfaucets.dev](https://testnetfaucets.dev) - Live status dashboard for 36 testnet faucets across 30+ networks, health-checked daily so you know which faucet works before you start testing.
+- [contract::rw](https://contractrw.dev) - Browser console to read and write any EVM contract from an ABI, on any chain or custom RPC including a local anvil/hardhat node. Decodes revert errors, function selectors and calldata. No verified source or signup needed.
 
 ### DevOps
 
