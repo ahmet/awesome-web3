@@ -533,3 +533,7 @@
 Contributions are welcomed! Please read the [contribution guidelines](https://github.com/ahmet/awesome-web3/blob/main/CONTRIBUTING.md) first.
 
 Please star this repo to show your support ⭐
+
+## Web3 Learning
+
+- [Web3Decentralization](https://web3decentralization.com) - Free, open-source Web3 learning hub (courses, glossary, certificates) with a live Nakamoto-Coefficient terminal ranking 12 L1 chains; code MIT, content CC-BY-4.0, data CC0.
