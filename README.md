@@ -125,11 +125,13 @@
 - [Solana Playground](https://github.com/solana-playground/solana-playground) - Online IDE to quickly develop and deploy Solana programs that runs on web browser.
 - [Tenderly DevNets](https://docs.tenderly.co/devnets/intro-to-devnets) - Development Networks or DevNets are a zero-setup, managed development environment for developing, testing, and debugging smart contracts. With built-in debugging tools, DevNets eliminate the need to run any third-party software or to set up an environment.
 - [RevX](https://revx.dev/) - Online IDE for developing, compile, deploy, and test contracts on Polkadot.
+- [testnetfaucets.dev](https://testnetfaucets.dev) - Live status dashboard for 36 testnet faucets across 30+ networks, health-checked daily so you know which faucet works before you start testing.
 
 ### DevOps
 
 - [Cannon](https://usecannon.com/) - Continuous configuration automation & development cli multi-tool. Like Terraform, Docker and NPM for Ethereum.
 - [Catapulta](https://catapulta.sh) - Zero config multi-chain smart contracts platform, for Foundry and Hardhat. Deploy smart contracts, we cover the gas for you in +20 EVM networks.
+- [OpenChainBench](https://openchainbench.com) - Independent open-source benchmarks for RPC providers, L2 finality, gas oracles, and archive coverage across 22 chains. Data ships under CC BY 4.0, harnesses in Go/Rust on GitHub.
 
 ### Hosting
 
@@ -186,6 +188,7 @@
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - Bitcoin library for node.js and browsers.
 - [dapparatus](https://github.com/austintgriffith/dapparatus) - Reusable dApp components in React.
 - [ethers.js](https://github.com/ethers-io/ethers.js/) - Complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).
+- [Formo SDK](https://github.com/getformo/sdk) - Analytics and attribution SDK for onchain apps.
 - [Hashgraph Online Standards SDK](https://github.com/hashgraph-online/standards-sdk) - TypeScript SDK for Hedera Consensus Service standards (HCS-1 through HCS-11), enabling decentralized file storage, NFT metadata, and recursive content on Hedera.
 - [ipfs-mini](https://github.com/silentcicero/ipfs-mini) - Super tiny module for querying an IPFS node, that works in the browser and in Node.
 - [js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript.
@@ -243,6 +246,7 @@
 - [Reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust.
 - [OpenEthereum](https://github.com/openethereum/openethereum) - The fast, light, and robust client for the Ethereum mainnet.
 - [RustChain](https://rustchain.org) - Proof-of-Antiquity blockchain that rewards mining on vintage hardware (PowerPC G4, Pentium 4) with RTC tokens. Features 6-point hardware fingerprinting, Ergo chain anchoring, and an on-chain AI agent economy. ([source code](https://github.com/Scottcjn/rustchain))
+- [browser-web3-signer](https://github.com/nikicat/browser-web3-signer) - Sign EVM and TRON transactions and messages with your own browser wallet (MetaMask, Rabby, TronLink) from the CLI or from Rust, TypeScript, and Go programs; the private key never leaves the browser.
 
 ### Shell
 
@@ -348,6 +352,7 @@
 - [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs. CLI and library that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.
 - [@up2itnow0822/agent-wallet-sdk](https://github.com/up2itnow0822/agent-wallet-sdk) - TypeScript SDK for non-custodial AI agent wallets. Handles x402 payments, CCTP V2 cross-chain transfers, Uniswap V3 token swaps, and on-chain spend limits. MIT license.
 - [SpraayBatch](https://github.com/plagtech/SpraayBatch) - Batch USDC payments on Base for AI agents — pay up to 200 recipients in one atomic transaction. Gasless via CDP Paymaster, non-custodial auto-wallets, per-agent budget caps. OpenClaw plugin with ClawHub security audit pass. ([ClawHub](https://clawhub.ai/plagtech/plugins/spraay-batch))
+- [AgentServices](https://github.com/vbkotecha/aiservices-api) - 54 services / 97 endpoints with 37 MCP tools: crypto prices, OHLCV, DeFi yields, technical indicators, DEX swap quotes, prediction markets, trending tokens, gas tracker, and on-chain analytics. 41 x402-paid endpoints ($0.01-$0.05/call, USDC on Base). Remote MCP server, cloud-hosted.
 
 ## AI & LLM & MCP
 
@@ -361,6 +366,8 @@
 - [Assay Protocol](https://github.com/Grandionn/assay-protocol) - Economic trust enforcement for AI agents on Base. USDC staking, outcome-verified escrow, algorithmic reputation scoring (0-1000), and semantic discovery for ERC-8004 agents. 2000+ agents indexed. ([npm](https://www.npmjs.com/package/@assaylabs/trust-check))
 - [Web3 Agent Kit](https://github.com/ulsreall/web3-agent-kit) - Open-source Python framework for building autonomous AI agents that interact with DeFi protocols. Multi-chain support (Ethereum, Base, Arbitrum, Optimism, Polygon), LLM-powered reasoning (OpenAI, Anthropic, Groq, DeepSeek), Uniswap V2 swaps, cross-chain bridges (Li.Fi, Socket), token sniper, and portfolio tracking.
 - [AgentsCoin](https://github.com/axiosdevs/agentscoin-mcp) - Give your AI agent its own money on a live EVM chain (chainId 24368): wallet, faucet, send, and create/trade tokens via MCP.
+- [BaseLens](https://github.com/YoungAlgy/baselens) - Pay-per-call AI agent that reads any Base address and returns a structured risk/activity report over x402 (a few cents in USDC). Built with Coinbase's CDP SDK and Anthropic's API.
+- [AgentServices](https://github.com/vbkotecha/aiservices-api) 📇 ☁️ - Crypto/financial market data APIs for AI agents. 54 services, 97 endpoints, 37 MCP tools, 41 x402-paid endpoints (USDC on Base). Prices, OHLCV, DeFi yields, DEX quotes, on-chain analytics, social sentiment, gas tracker. Remote MCP server (TypeScript, cloud-hosted).
 
 ## Gas Tracker & Optimization
 
@@ -395,6 +402,7 @@
 - [Pulse](https://github.com/manja316/pulse-payments) - Instant payment links on Base. Create shareable payment requests settled onchain with 0.5% fee.
 - [Pact](https://github.com/manja316/pact-escrow) - Trustless freelance escrow on Base. Lock funds in a smart contract, release on milestone completion.
 - [Drift](https://github.com/manja316/drift-subscriptions) - Onchain subscription payments on Base. Recurring crypto payments with auto-debit smart contracts.
+- [Vaultion](https://github.com/troysteele5-dotcom/vaultion-contracts) - Non-custodial crypto escrow for stablecoin deals. Funds lock in an open-source smart contract and release on agreement or by dispute ruling.
 
 ## Tutorial
 
@@ -443,6 +451,8 @@
 - [Optimism: Building on the OP Stack](https://www.uselearnai.com/course/optimism-l2) — LearnAI powered, interactive course covering Optimistic Rollups, deploying on OP Mainnet, the Standard Bridge, the OP Stack for launching your own L2, and the Superchain ecosystem.
 - [ZeroDay Dev](https://apps.apple.com/us/app/zeroday-dev/id6760129673) - Learn Web3 with guided lessons and practices. (iOS)
 - [RedDuck Academy](https://academy.redduck.io/) - Solidity lessons with runnable examples, based on RedDuck's internal developer onboarding curriculum.
+- [Web3 Event Analytics](https://formo.so/blog/web3-event-analytics-the-complete-guide-to-analytics-attribution-for-web3) - How to combine onchain and offchain data tracking to measure user behavior across dApps and connect campaigns to blockchain transactions.
+- [What is Web3 Attribution](https://formo.so/blog/web3-attribution-onchain-attribution-system) - How to track user journeys from initial discovery through onchain conversion by connecting wallet addresses to marketing touchpoints.
 
 ## YouTube Channel
 
@@ -507,6 +517,7 @@
 - [Layer4](https://www.layer4.app)
 - [rivet.cloud](https://rivet.cloud/)
 - [Tatum](https://tatum.io/)
+- [Formo](https://formo.so) - Analytics and attribution for DeFi.
 - [GoldRush](https://goldrush.dev) - Blockchain data across 100+ chains — wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.
 - [Juno](https://juno.build)
 - [Mindlyn](https://mindlyn.io)
@@ -517,8 +528,8 @@
 - [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
 - [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/) - Unofficial Ecosystem page for Ethereum and its Layer 2s featuring 900+ dApps and tools across Optimism, Base, Starknet and more.
-- [Formo](https://formo.so) - Web3 forms and product analytics for web3 teams.
 - [SailOnChain](https://sailonchain.com) - Crypto & Web3 job board with 1,400+ positions, salary intelligence, and global remote roles from ~2,000 blockchain companies.
+- [Deep Blue Alpha](https://deepbluealpha.io) - Real-time Ethereum whale intelligence platform tracking 25,000+ wallets with DEX swap detection, sentiment scoring, and per-token flow analytics for 200+ ERC-20 tokens.
 
 ## Contribute
 
