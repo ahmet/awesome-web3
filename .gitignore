@@ -69,6 +69,15 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
+# Yarn (not using Zero-Installs). install-state.gz is a local optimization cache.
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
 # dotenv environment variables file
 .env
 .env.test
