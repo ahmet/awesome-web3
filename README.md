@@ -393,6 +393,7 @@
 - [Solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [Neo](https://github.com/neo-project/neo) - Neo is blockchain platform that is open-source and community-driven.
 - [fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is enterprise-grade permissioned distributed ledger framework for developing solutions and applications.
+- [Vocdoni](https://github.com/vocdoni/vocdoni-node) - Decentralized voting protocol with an AGPL-3.0 Go implementation for verifiable organizational elections.
 - [web3swift](https://github.com/web3swift-team/web3swift) - web3swift is iOS toolbelt for interaction with the Ethereum network.
 - [Fuel](https://www.fuel.network/) - Fuel is the fastest execution layer for the modular blockchain stack.
 - [Hugin Messenger - Desktop](https://github.com/kryptokrona/hugin-desktop) - Private messaging application on Kryptokrona Blockchain for desktop.
