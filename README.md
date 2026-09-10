@@ -76,6 +76,8 @@
 - [x402](https://github.com/xpaysh/awesome-x402) - Internet-native payment protocol using HTTP 402 status code for blockchain payments.
 - [Web3 Jobs](https://github.com/ceosvex/awesome-web3-jobs) - Curated list of job boards, companies, salary data, and career resources for finding web3 and crypto jobs.
 - [AI × Crypto Tools](https://github.com/FlipZ3ro/awesome-ai-crypto-tools#readme) - Curated list of AI-powered tools for crypto trading, analysis, security, and development.
+- [CryptoJobsHub](https://cryptojobshub.io/) - Find remote and on-site developer, design, and marketing opportunities in Web3.
+
 
 ## Reference
 
@@ -124,6 +126,7 @@
 - [Tenderly DevNets](https://docs.tenderly.co/devnets/intro-to-devnets) - Development Networks or DevNets are a zero-setup, managed development environment for developing, testing, and debugging smart contracts. With built-in debugging tools, DevNets eliminate the need to run any third-party software or to set up an environment.
 - [RevX](https://revx.dev/) - Online IDE for developing, compile, deploy, and test contracts on Polkadot.
 - [testnetfaucets.dev](https://testnetfaucets.dev) - Live status dashboard for 36 testnet faucets across 30+ networks, health-checked daily so you know which faucet works before you start testing.
+- [contract::rw](https://contractrw.dev) - Browser console to read and write any EVM contract from an ABI, on any chain or custom RPC including a local anvil/hardhat node. Decodes revert errors, function selectors and calldata. No verified source or signup needed.
 
 ### DevOps
 
@@ -147,6 +150,7 @@
 
 ### Protocol
 
+- [DAY Protocol](https://dayprotocol.com) - Agent-native non-custodial yield router — wallet-only identity, strategies across Sui/Solana/Base/Arbitrum, Auto Pay residual rails and x402. ([SDK](https://github.com/dayprotocol/sdk) · [Docs](https://docs.dayprotocol.com))
 - [WalletConnect](https://github.com/WalletConnect) - Open protocol connecting wallets to Dapps.
 - [WalletLink](https://github.com/walletlink/walletlink) - Open protocol that lets users connect their mobile wallets to your DApp.
 - [IPFS](https://ipfs.tech/) - Distributed system for storing and accessing files, websites, applications, and data.
@@ -372,6 +376,7 @@
 - [ETH Gas Tracker](https://www.ethgastracker.com/) - Monitor and track Ethereum and L2 gas prices to reduce transaction fees, save money and take control of your blockchain experience
 - [EthGasOptimizer (EGO)](https://ethgasoptimizer.com) - Smart Ethereum gas optimizer that predicts low-fee windows, schedules transactions, and sends real-time gas alerts to help users save on fees.
 - [EthGasStation](https://ethgasstation.io) - Live Ethereum gas stats, alerts, and workflow tools to help users and teams make better before-send transaction decisions.
+- [GetTronEnergy](https://gettronenergy.com/) - TRON energy rental that cuts USDT (TRC20) transfer fees by about 40% versus burning TRX, with live network fee data and free calculators.
 
 ## Open Source Project
 
@@ -389,6 +394,7 @@
 - [Solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [Neo](https://github.com/neo-project/neo) - Neo is blockchain platform that is open-source and community-driven.
 - [fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is enterprise-grade permissioned distributed ledger framework for developing solutions and applications.
+- [Vocdoni](https://github.com/vocdoni/vocdoni-node) - Decentralized voting protocol with an AGPL-3.0 Go implementation for verifiable organizational elections.
 - [web3swift](https://github.com/web3swift-team/web3swift) - web3swift is iOS toolbelt for interaction with the Ethereum network.
 - [Fuel](https://www.fuel.network/) - Fuel is the fastest execution layer for the modular blockchain stack.
 - [Hugin Messenger - Desktop](https://github.com/kryptokrona/hugin-desktop) - Private messaging application on Kryptokrona Blockchain for desktop.
@@ -524,10 +530,12 @@
 
 ## Other
 
+- [ChainJobs](https://chainjobs.io) - Crypto & web3 job board with 2,650+ live roles aggregated daily from companies' official ATS systems, employer-published salary data, free JSON API.
 - [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
 - [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
 - [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/) - Unofficial Ecosystem page for Ethereum and its Layer 2s featuring 900+ dApps and tools across Optimism, Base, Starknet and more.
 - [SailOnChain](https://sailonchain.com) - Crypto & Web3 job board with 1,400+ positions, salary intelligence, and global remote roles from ~2,000 blockchain companies.
+- [Deep Blue Alpha](https://deepbluealpha.io) - Real-time Ethereum whale intelligence platform tracking 25,000+ wallets with DEX swap detection, sentiment scoring, and per-token flow analytics for 200+ ERC-20 tokens.
 
 ## Contribute
 
