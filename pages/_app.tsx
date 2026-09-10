@@ -1,15 +1,15 @@
-import { Analytics } from "@vercel/analytics/react"
-import { SpeedInsights } from "@vercel/speed-insights/next"
-import { Geist } from "next/font/google"
-import type { AppProps } from "next/app"
+import { Analytics } from '@vercel/analytics/react'
+import { SpeedInsights } from '@vercel/speed-insights/next'
+import type { AppProps } from 'next/app'
+import { Geist } from 'next/font/google'
 
-import { TooltipProvider } from "@/components/ui/tooltip"
+import { TooltipProvider } from '@/components/ui/tooltip'
 
-import "../styles/globals.css"
+import '../styles/globals.css'
 
 const geist = Geist({
-  subsets: ["latin"],
-  variable: "--font-geist",
+  subsets: ['latin'],
+  variable: '--font-geist'
 })
 
 export default function AwesomeWeb3({ Component, pageProps }: AppProps) {

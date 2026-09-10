@@ -1,18 +1,12 @@
-import { readFileSync } from "fs"
-import { join } from "path"
-import Head from "next/head"
+import { readFileSync } from 'node:fs'
+import { join } from 'node:path'
+import Head from 'next/head'
 
-import { CatalogApp } from "@/components/catalog/catalog"
-import {
-  fromCatalogProps,
-  parseReadme,
-  toCatalogProps,
-  type CatalogProps,
-} from "@/lib/catalog"
+import { CatalogApp } from '@/components/catalog/catalog'
+import { type CatalogProps, fromCatalogProps, parseReadme, toCatalogProps } from '@/lib/catalog'
 
-const TITLE = "Awesome Web3 - Curated list of Web3 resources, libraries, tools and more"
-const DESCRIPTION =
-  "Curated list of Web3 resources: videos, tutorials, books, libraries, tools, boilerplates, and more."
+const TITLE = 'Awesome Web3 - Curated list of Web3 resources, libraries, tools and more'
+const DESCRIPTION = 'Curated list of Web3 resources: videos, tutorials, books, libraries, tools, boilerplates, and more.'
 
 export default function Home({ catalog }: { catalog: CatalogProps }) {
   return (
@@ -40,11 +34,11 @@ export default function Home({ catalog }: { catalog: CatalogProps }) {
 }
 
 export function getStaticProps() {
-  const markdown = readFileSync(join(process.cwd(), "README.md"), "utf8")
+  const markdown = readFileSync(join(process.cwd(), 'README.md'), 'utf8')
 
   return {
     props: {
-      catalog: toCatalogProps(parseReadme(markdown)),
-    },
+      catalog: toCatalogProps(parseReadme(markdown))
+    }
   }
 }

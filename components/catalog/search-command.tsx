@@ -1,14 +1,7 @@
-import { ExternalLinkIcon } from "lucide-react"
+import { ExternalLinkIcon } from 'lucide-react'
 
-import {
-  CommandDialog,
-  CommandEmpty,
-  CommandGroup,
-  CommandInput,
-  CommandItem,
-  CommandList,
-} from "@/components/ui/command"
-import { resourceHost, type Resource } from "@/lib/catalog"
+import { CommandDialog, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from '@/components/ui/command'
+import { type Resource, resourceHost } from '@/lib/catalog'
 
 type SearchCommandProps = {
   open: boolean
@@ -16,11 +9,7 @@ type SearchCommandProps = {
   resources: Resource[]
 }
 
-export function SearchCommand({
-  open,
-  onOpenChange,
-  resources,
-}: SearchCommandProps) {
+export function SearchCommand({ open, onOpenChange, resources }: SearchCommandProps) {
   const groups = new Map<string, Resource[]>()
   for (const resource of resources) {
     const list = groups.get(resource.category) ?? []
@@ -29,12 +18,7 @@ export function SearchCommand({
   }
 
   return (
-    <CommandDialog
-      open={open}
-      onOpenChange={onOpenChange}
-      title="Search resources"
-      description="Find a Web3 resource from the curated list."
-    >
+    <CommandDialog open={open} onOpenChange={onOpenChange} title="Search resources" description="Find a Web3 resource from the curated list.">
       <CommandInput placeholder="Search resources..." />
       <CommandList>
         <CommandEmpty>No resources found.</CommandEmpty>
@@ -43,18 +27,16 @@ export function SearchCommand({
             {items.map((resource) => (
               <CommandItem
                 key={resource.id}
-                value={`${resource.title} ${resource.description} ${resource.category} ${resource.subcategory ?? ""} ${resource.url}`}
+                value={`${resource.title} ${resource.description} ${resource.category} ${resource.subcategory ?? ''} ${resource.url}`}
                 onSelect={() => {
-                  window.open(resource.url, "_blank", "noopener,noreferrer")
+                  window.open(resource.url, '_blank', 'noopener,noreferrer')
                   onOpenChange(false)
                 }}
               >
                 <div className="flex min-w-0 flex-1 flex-col gap-0.5">
                   <span className="truncate">{resource.title}</span>
                   <span className="truncate text-xs text-muted-foreground">
-                    {resource.subcategory
-                      ? `${resource.subcategory} · ${resourceHost(resource.url)}`
-                      : resourceHost(resource.url)}
+                    {resource.subcategory ? `${resource.subcategory} · ${resourceHost(resource.url)}` : resourceHost(resource.url)}
                   </span>
                 </div>
                 <ExternalLinkIcon />

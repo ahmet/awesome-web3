@@ -6,7 +6,8 @@
 		"dev": "next dev --turbopack",
 		"build": "next build",
 		"start": "next start",
-		"lint": "next lint"
+		"lint": "biome check .",
+		"lint:fix": "biome check --write ."
 	},
 	"dependencies": {
 		"@base-ui/react": "^1.8.0",
@@ -25,12 +26,11 @@
 		"unified": "^11.0.5"
 	},
 	"devDependencies": {
+		"@biomejs/biome": "2.4.2",
 		"@tailwindcss/postcss": "^4.3.3",
 		"@types/node": "^22.20.2",
 		"@types/react": "^19.3.0",
 		"@types/react-dom": "^19.3.0",
-		"eslint": "10.10.0",
-		"eslint-config-next": "16.3.4",
 		"postcss": "^8.5.28",
 		"tailwindcss": "^4.3.3",
 		"typescript": "^7.0.2"
