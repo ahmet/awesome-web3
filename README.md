@@ -66,7 +66,6 @@
 - [StarkNet](https://github.com/gakonst/awesome-starknet) - Curated list of awesome StarkNet resources, libraries, tools and more.
 - [Arweave](https://github.com/bitruss/awesome-arweave) - Curated list of awesome resources related to the Arweave.
 - [Huff](https://github.com/devtooligan/awesome-huff) - Curated list of resources for Huff language.
-- [The Graph](https://github.com/MichaelMacaulay/Awesome-The-Graph) - Curated list of awesome resources for The Graph.
 - [Zero Knowledge](https://github.com/ventali/awesome-zk) - Curated list of awesome ZK resources, libraries, tools and more.
 - [Blockchain Scalability](https://github.com/lucadonnoh/awesome-blockchain-scalability) - Curated list of awesome resources about blockchain scalability.
 - [MakerDAO](https://github.com/makerdao/awesome-makerdao) - Collection of tools, documents, articles, blog posts, interviews, and videos related to MakerDAO and the Dai stablecoin.
@@ -107,15 +106,12 @@
 ### Sample Code
 
 - [Solidity by Example](https://solidity-by-example.org) - Basic examples on Solidity.
-- [Web3 by Example](https://www.web3byexample.com/) - Basic examples on Ethers with JavaScript
-- [Vyper by Example](https://vyper-by-example.org/) - Basic examples on Vyper.
 - [Yul By Example](https://github.com/Perelyn-sama/yul_by_example) - Basic examples on Yul.
 
 ### Development Environment
 
 - [Brownie](https://github.com/eth-brownie/brownie) - Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [Ethereum Code Viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View source of deployed Ethereum smart contracts in VS Code.
-- [evmchain-config](https://github.com/harunosakura030303-maker/evmchain-config) - Universal EVM chain configuration manager — one `.env` works across Hardhat, Foundry, viem, and ethers. Auto-detects project type, 18+ built-in chains.
 - [EthFiddle](https://ethfiddle.com) - Web-based IDE that lets you write, compile, and debug your smart contract.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
 - [Remix](https://remix.ethereum.org/) - Online IDE for Solidity development.
@@ -131,7 +127,6 @@
 ### DevOps
 
 - [Cannon](https://usecannon.com/) - Continuous configuration automation & development cli multi-tool. Like Terraform, Docker and NPM for Ethereum.
-- [Catapulta](https://catapulta.sh) - Zero config multi-chain smart contracts platform, for Foundry and Hardhat. Deploy smart contracts, we cover the gas for you in +20 EVM networks.
 - [OpenChainBench](https://openchainbench.com) - Independent open-source benchmarks for RPC providers, L2 finality, gas oracles, and archive coverage across 22 chains. Data ships under CC BY 4.0, harnesses in Go/Rust on GitHub.
 
 ### Hosting
@@ -142,7 +137,6 @@
 ### SDK
 
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
-- [PVP Genesis SDK](https://github.com/Synapse-Founder/pvp-genesis-sdk) - TypeScript/JavaScript SDK for tokenizing physical energy and compute resources on Polygon blockchain, enabling DePIN applications.
 - [Tatum SDK](https://github.com/tatumio/tatum-js) - Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.
 - [Clanker Wallet](https://github.com/almogdepaz/clanker-wallet) - Human-approved blockchain transactions for AI agents. Agent proposes a tx, human reviews and signs from a web app. E2E encrypted, CLI + TypeScript + Python SDKs.
 - [AxonFi SDK](https://github.com/axonfi/sdk) - Non-custodial treasury and payment SDK for AI agents. Agents sign EIP-712 intents from secure vaults without holding funds or paying gas. TypeScript, Python, and LangChain integrations. Multi-chain (Base, Arbitrum).
@@ -170,7 +164,6 @@
 - [Euler](https://www.euler.finance/) - Euler is non-custodial protocol on Ethereum that allows users to lend and borrow almost any crypto asset.
 - [Unitas](https://unitas.foundation/) - Unitas Protocol enables financial sovereignty by granting people the right to choose their units of account while transacting with each other.
 - [Sablier](https://sablier.finance/) - Sablier is money streaming protocol that aims to be used for streaming payments and achieve near real-time transactions.
-- [Pika Protocol](https://www.pikaprotocol.com/) - Pika is one of the most leveraged DeFi protocols, offering up to 100 times leverage on trades.
 - [Ocean Protocol](https://oceanprotocol.com/) - Ocean protocol aims to allow businesses and individuals to exchange and monetize data and data-based services.
 - [Aztec Network](https://aztec.network/) - Aztec Network is Layer 2 zk-rollup, designed to enable programmable privacy, that will run on Ethereum.
 - [IPOR](https://www.ipor.io/) - IPOR: The heartbeat of DeFi Fix your interest rate or hedge your exposure by leveraging non-custodial on-chain IPOR derivative instruments.
@@ -345,7 +338,7 @@
 - [Web3 Antivirus](https://web3antivirus.io) - Browser extension simulating transactions and reporting risks for user-side defense.
 - [PolicyLayer](https://policylayer.com) - Non-custodial spending controls for AI agents with crypto wallets. Enforce daily limits, per-transaction caps, and recipient whitelists without holding private keys.
 - [Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Free token safety scanner and rug pull checker with a 0-100 risk score across Solana, Ethereum, Base, BSC, Arbitrum, and Polygon. Honeypot simulation, mint-authority detection, liquidity-lock verification, and holder-concentration analysis. No signup, public REST API.
-- [TRONSEC](https://tronsec.io/app/) - Client-side TRON security toolkit: wallet analysis, AML heuristics, contract scanning, transaction decoding, and phishing URL checks. No wallet connection required. [Source](https://github.com/jamejohns/tronsec).
+- [TRONSEC](https://tronsec.io/app/) - Client-side TRON security toolkit: wallet analysis, AML heuristics, contract scanning, transaction decoding, and phishing URL checks. No wallet connection required.
 - [OnChainRisk](https://onchainrisk.io/) - Wallet, token, and smart-contract risk scoring API for Web3 teams; surfaces risk signals such as malicious-token patterns, fund-flow exposure, counterparties, and labels.
 - [SafeAgent](https://github.com/Bemosha/safeagent) - Browser extension that detects clipboard address substitution, unlimited-approval signatures, seed-phrase input forms, and typosquatted domains. Detection runs locally, no telemetry. MIT. [Chrome Web Store](https://chromewebstore.google.com/detail/ofohhhijlkclalcbfckgpinancpdapmh).
 - [PublicAML](https://publicaml.org/) - Free, non-profit AML/KYT wallet screening: paste any BTC, ETH, BNB Chain, or TRON address for a risk score, sanctions status, source of funds, and counterparties. No signup; keyless public API and Telegram bot.
@@ -365,14 +358,13 @@
 
 - [0xArchive](https://docs.0xarchive.io/mcp-server) - Hosted read-only current and historical market data for Hyperliquid and Lighter.
 - [dRPC Agent Skills](https://github.com/drpcorg/drpc-agent-skills) - Read-only on-chain data for AI agents via DRPC's node network. Covers all major EVM networks and Solana. Free API key at drpc.org.
-- [FlexYield](https://flexyield.io/mcp) - Blockchain RPC gateway with a hosted MCP server: one API key across Ethereum, Base, Arbitrum, Optimism, Polygon and Solana, multi-provider failover, per-key budgets for agent fleets, measured reliability. Free tier 1M req/mo.
 - [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) 🎖️ 📇 ☁️ 🏠 - Institutional-grade crypto market infrastructure for AI — live prices, DeFi, wallets, and token risk through a managed MCP, REST API, or CLI.
 - [Hashgraph Online (HOL)](https://github.com/hashgraph-online) - Universal agentic registry on Hedera providing blockchain-based identity for AI agents via HCS-14 Universal Agent IDs (UAIDs). Bridges A2A, ERC-8004, x402, and MCP protocols. 187K+ verified agents, 33M+ daily operations. Open-source SDKs: TypeScript, Go, Python.
 - [Pythia Oracle MCP](https://github.com/pythia-the-oracle/pythia-oracle-mcp) - On-chain calculated indicators (EMA, RSI, Bollinger, Volatility) for 22 tokens via Chainlink. MCP server + LangChain integration for AI agents to access DeFi data.
 - [Hedera Agent Kit](https://docs.hedera.com/hedera/open-source-solutions/ai-studio-on-hedera/hedera-ai-agent-kit) - Open-source framework for building AI-powered applications that interact with the Hedera Network. Create conversational agents that understand natural language and execute Hedera transactions, or build backend systems that leverage AI for on-chain operations.
 - [Kuberna Labs](https://github.com/kawacukennedy/kuberna-labs) - Decentralized execution rails for AI agents. Deploy TEE-shielded agents to Ethereum, Solana, NEAR with ERC-7683 intents and zkTLS privacy.
 - [web3-docs](https://github.com/dioptx/web3-docs) - Local MCP server with a searchable corpus of 1,767 EIPs, BIPs, ADRs, CIPs, and RFCs across 10 chains plus a canonical contract-address registry covering 19 protocols on major EVM chains. SQLite + FTS5, no API keys.
-- [Assay Protocol](https://github.com/Grandionn/assay-protocol) - Economic trust enforcement for AI agents on Base. USDC staking, outcome-verified escrow, algorithmic reputation scoring (0-1000), and semantic discovery for ERC-8004 agents. 2000+ agents indexed. ([npm](https://www.npmjs.com/package/@assaylabs/trust-check))
+- [Assay Protocol](https://github.com/Grandionn/assay-protocol) - Economic trust enforcement for AI agents on Base. USDC staking, outcome-verified escrow, algorithmic reputation scoring (0-1000), and semantic discovery for ERC-8004 agents. 2000+ agents indexed.
 - [Web3 Agent Kit](https://github.com/ulsreall/web3-agent-kit) - Open-source Python framework for building autonomous AI agents that interact with DeFi protocols. Multi-chain support (Ethereum, Base, Arbitrum, Optimism, Polygon), LLM-powered reasoning (OpenAI, Anthropic, Groq, DeepSeek), Uniswap V2 swaps, cross-chain bridges (Li.Fi, Socket), token sniper, and portfolio tracking.
 - [AgentsCoin](https://github.com/axiosdevs/agentscoin-mcp) - Give your AI agent its own money on a live EVM chain (chainId 24368): wallet, faucet, send, and create/trade tokens via MCP.
 - [BaseLens](https://github.com/YoungAlgy/baselens) - Pay-per-call AI agent that reads any Base address and returns a structured risk/activity report over x402 (a few cents in USDC). Built with Coinbase's CDP SDK and Anthropic's API.
@@ -382,7 +374,6 @@
 
 - [ETH Gas Tracker](https://www.ethgastracker.com/) - Monitor and track Ethereum and L2 gas prices to reduce transaction fees, save money and take control of your blockchain experience
 - [EthGasOptimizer (EGO)](https://ethgasoptimizer.com) - Smart Ethereum gas optimizer that predicts low-fee windows, schedules transactions, and sends real-time gas alerts to help users save on fees.
-- [EthGasStation](https://ethgasstation.io) - Live Ethereum gas stats, alerts, and workflow tools to help users and teams make better before-send transaction decisions.
 - [GetTronEnergy](https://gettronenergy.com/) - TRON energy rental that cuts USDT (TRC20) transfer fees by about 40% versus burning TRX, with live network fee data and free calculators.
 
 ## Open Source Project
@@ -396,7 +387,6 @@
 - [Remix](https://github.com/ethereum/remix-project) - Browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
 - [UniSwap](https://github.com/Uniswap) - Decentralized trading protocol on Ethereum.
 - [Chainlink](https://github.com/smartcontractkit/chainlink) - Chainlink enhances the possibilities of smart contracts by allowing them to access real-world data.
-- [react-moralis](https://github.com/MoralisWeb3/react-moralis) - Hooks and components to use Moralis in React app.
 - [Solidity](https://github.com/ethereum/solidity) - Solidity is statically typed, contract-oriented, high-level language for implementing smart contracts on the Ethereum platform.
 - [Solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [Neo](https://github.com/neo-project/neo) - Neo is blockchain platform that is open-source and community-driven.
@@ -407,7 +397,6 @@
 - [Hugin Messenger - Desktop](https://github.com/kryptokrona/hugin-desktop) - Private messaging application on Kryptokrona Blockchain for desktop.
 - [Hugin Messenger - Mobile](https://github.com/kryptokrona/hugin-mobile) - Private messaging application on Kryptokrona Blockchain for mobile.
 - [Ambire Wallet](https://github.com/AmbireTech/wallet) - Open source Web3 wallet that makes self-custody easy and secure via account abstraction.
-- [Mobula](https://github.com/MobulaFi/mobula-ui) - Mobula App is an open-source coin & portfolio tracking platform
 - [Ethui](https://ethui.dev/) - Open-source Ethereum toolkit that integrates wallets, contract explorers, Foundry and Anvil. It streamlines smart contract testing, identity management, and dApp connectivity for developers.
 - [Mybucks.online](https://github.com/mybucks-online/app) - Open-source, browser-based and self-custodial wallet that generates a private key from credentials using one-way hash function.
 - [Pulse](https://github.com/manja316/pulse-payments) - Instant payment links on Base. Create shareable payment requests settled onchain with 0.5% fee.
@@ -429,35 +418,27 @@
 - Create your own NFT collection on Ethereum with Solidity. - [link](https://eda.hashnode.dev/create-your-own-nft-collection-on-ethereum)
 - Intro to dApp's: Create your dApp backend with Solidity. - [link](https://eda.hashnode.dev/intro-to-dapps-create-your-dapp-backend-withsolidity)
 - Intro to dApp's: Create your dApp frontend with React. - [link](https://eda.hashnode.dev/intro-to-dapps-create-your-dapp-frontend-withreact)
-- What is a crypto wallet & how does it work? - [link](https://eda.hashnode.dev/what-is-a-crypto-wallet-and-how-does-it-work)
-- Create your cryptocurrency token. - [link](https://eda.hashnode.dev/create-your-own-cryptocurrency-token)
 - Solidity and Truffle CI setup. - [link](https://soliditydeveloper.com/continuous-integration)
 - How to use Slither to find smart contract bugs. - [link](https://ethereum.org/en/developers/tutorials/how-to-use-slither-to-find-smart-contract-bugs)
 - How to mock Solidity smart contracts for testing. - [link](https://ethereum.org/en/developers/tutorials/how-to-mock-solidity-contracts-for-testing)
 - Building EVM from scratch. - [link](https://karmacoma.notion.site/Building-an-EVM-from-scratch-part-1-c28ebb4200c94f6fb75948a5feffc686) [source code](https://github.com/karmacoma-eth/yolo-evm/tree/evm-from-scratch-pt1)
 - [Build a blockchain from scratch in Go with gRPC](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC
-- [LearnWeb3 DAO](https://learnweb3.io/) - Free program that teach you how to become Web3 Developer.
 <!-- markdown-link-check-disable-next-line -->
 - [Cadena](https://www.cadena.dev/) - Cadena is a free platform where you can learn by coding smart contracts, NFTs, tokens and more.
 - Building Full Stack Permanent Applications with Arweave, Smartweave and Next.js. - [link](https://dev.to/dabit3/building-full-stack-applications-with-arweave-and-nextjs-28hg)
 - Building and Testing Smart Contracts with Foundry by Paradigm. - [link](https://dev.to/dabit3/building-smart-contracts-with-foundry-by-paradigm-2gfm)
-- Building a Full Stack Web3 YouTube Clone with Next, IPFS, The Graph, Solidity, and Livepeer. - [link](https://www.suhailkakar.com/building-a-full-stack-web3-youtube-clone-with-next-ipfs-the-graph-solidity-and-livepeer)
 - [ODYSSEY](https://www.odysseydao.com/) - Odyssey is great platform to understand blockchain, NFTs, web3 concepts, Defi, Dao and more.
 - [Bankless Academy](https://app.banklessacademy.com/) - Bankless Academy is on a mission to ensure every web3 Explorer is ready for their crypto-verse voyage.
 - [Speed Run Ethereum](https://speedrunethereum.com/) - Learn how to build on Ethereum; the superpowers and the gotchas.
 - [Node Guardians](https://nodeguardians.io/) - Learn about blockchain and programming as you navigate through a medieval game.
 - [Solidity by example](https://solidity-by-example.org) - Introduction to Solidity with simple examples.
 - [Alchemy University](https://university.alchemy.com/) - Alchemy University is the ultimate ecosystem for learning how to build and interact with web3.
-- [DApp World](https://dapp-world.com/) - DApp World is one-stop platform for blockchain developers that offers tutorials, quizzes, and other features.
-- [How To Web3](https://www.howtoweb3.guide/) - All essential resources to learn and build web3 projects in one place.
 - [Developer DAO Academy](https://academy.developerdao.com/) - Developer DAO Academy is open-source education platform created by the Developer DAO.
 - [Metaschool](https://metaschool.so/) - Metaschool is free and trusted resource to become a Web3 Developer by building & shipping dApps.
 - [SimpleHash](https://docs.simplehash.com/reference) - Tutorials for retrieving NFT metadata, media, sales and collection info from multiple chains.
-- [Ape Academy](https://academy.apeworx.io/) - Learn how to build smart contracts with Python and Vyper.
 - [Layer3](https://layer3.xyz/) - Layer3 is web3 teaching platform that is gamified and allows individuals to discover and learn about web3.
 - [Vyper](https://learn.vyperlang.org/#/) - Learn Vyper by building a Pokémon Game.
 - [Staking Academy](https://www.staking-academy.com/) - Staking Academy is content aggregation platform with the goal of educating people about blockchain technology, staking and DeFi.
-- [Web3coda](https://web3coda.com/) - Web3coda provides bite-sized, hands-on Web3 and Blockchain exercises with online environment (with pre installed/configured tools) and simple to follow manuals.
 - [Wriggly](https://wriggly.io/problemset/all) - Learn Solidity and smart contract development with interactive code challenges.
 - [Cyfrin Updraft](https://updraft.cyfrin.io) - Learn from industry-leading experts how to build the next generation of web3 applications and kickstart your career.
 - [IPFS to Swarm](https://github.com/Solar-Punk-Ltd/ipfs-to-swarm) - CLI tool for moving decentralized content from IPFS to Swarm storage.
@@ -479,7 +460,6 @@
 - [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA/playlists) - Learn everything about how to build on Ethereum.
 - [Moralis Web3](https://www.youtube.com/c/MoralisWeb3/playlists) - Tutorials and Learn how to build dApps with Moralis web3 APIs.
 - [Block Explorer](https://www.youtube.com/c/BlockExplorerMedia/featured) - Tutorials about smart contract development, crypto, DeFi, tokens, NFTs, Ethereum.
-- [Thirdweb](https://youtube.com/@thirdweb_) - Tutorials about full stack web3 development.
 - [Delphi Digital](https://www.youtube.com/@Delphi_Digital) - Tapping the brains of leaders across all verticals in the digital asset industry.
 - [Bankless Shows](https://www.youtube.com/@Bankless) - The ultimate guide to crypto finance.
 - [HashLips NFT](https://www.youtube.com/@HashLipsAcademy/playlists) - Web3 Focused and has content on Blockchain development, and other topics.
@@ -496,20 +476,13 @@
 
 ## Podcast
 
-- [BAT Community](https://basicattentiontoken.libsyn.com/website) - BAT, Brave and tech underneath.
 - [Delphi Media](https://open.spotify.com/show/62PR1RigLG2YN5Pelq6UY9?si=MvCsyROjRkehh8bnnlKlLg) - Bi-weekly episodes on investing in the digital asset industry.
 - [On The Brink with Castle Island](https://open.spotify.com/show/47aw3C5brBfL8pCIw8LrQL) - Explore the political, ethical, and economic significance of Bitcoin and other public blockchains and talk to some of the leading experts in the industry.
 
 ## Newsletter
 
 - [Week in Web3](https://linktr.ee/weekinweb3)
-- [EthHub Weekly](https://ethhub.substack.com)
-- [Week in Ethereum Newsletter](https://weekinethereumnews.com/) - Weekly updates from the Ethereum ecosystem.
-- [Developer DAO Newsletter](https://developerdao.substack.com/) - Articles from Developer DAO directly inside your inbox.
-- [BuidlGuidl Newsletter](https://buidlguidl.substack.com/) - A newsletter about Ethereum builders creating products, prototypes, and tutorials.
 - [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/) - Newsletter about blockchain, DeFi and exchange threat intelligence on hacks, vulnerabilities, security tools.
-- [Hashing Bits](https://quillaudits.substack.com/) - Hashing Bits is Web3 Cybersecurity focused weekly newsletter.
-- [WebThree.FYI](https://www.dailydropout.fyi/web3) - Learn about DeFi, NFTs, DAOs, cryptocurrencies, and other projects.
 - [Kiwi Weekly](https://paragraph.xyz/@kiwi-weekly) - Most popular crypto essays, products & dev tools picked by the Kiwi community.
 
 ## Platform as a Service
@@ -523,17 +496,14 @@
 - [Chainstack](https://chainstack.com/)
 - [GetBlock](https://getblock.io/)
 - [Ankr](https://www.ankr.com/)
-- [SimpleHash](https://simplehash.com)
 - [walletOS](https://www.pinestreetlabs.com/walletos/)
 - [Tenderly](https://tenderly.co)
 - [Apillon](https://apillon.io/)
 - [Layer4](https://www.layer4.app)
-- [rivet.cloud](https://rivet.cloud/)
 - [Tatum](https://tatum.io/)
 - [Formo](https://formo.so) - Analytics and attribution for DeFi.
 - [GoldRush](https://goldrush.dev) - Blockchain data across 100+ chains — wallet balances, token prices, transactions, DEX pairs, and more. REST API, real-time WebSocket with OHLCV price feeds, CLI, and x402 pay-per-request.
 - [Juno](https://juno.build)
-- [Mindlyn](https://mindlyn.io)
 - [Zerion](https://zerion.io/api) - Wallet and DeFi data API across 40+ chains — portfolios, token balances, transactions, NFTs, and DeFi positions. Historical charts, multi-wallet aggregation, and real-time webhooks. Offers CLI, MCP, and pay-per-request via x402 and MPP.
 - [SwiftNodes](https://swiftnodes.io)
 - [OnFinality](https://onfinality.io/) - Blockchain infrastructure platform providing reliable multichain RPC APIs, dedicated nodes, indexing services, staking and validator infrastructure, and network prototyping tools across 130+ blockchain networks.
@@ -543,7 +513,6 @@
 - [ChainJobs](https://chainjobs.io) - Crypto & web3 job board with 2,650+ live roles aggregated daily from companies' official ATS systems, employer-published salary data, free JSON API.
 - [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
 - [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
-- [Ethereum Ecosystem](https://www.ethereum-ecosystem.com/) - Unofficial Ecosystem page for Ethereum and its Layer 2s featuring 900+ dApps and tools across Optimism, Base, Starknet and more.
 - [Indiadex Swap Widget](https://indiadexswap.xyz/embed-widget) - Free embeddable non-custodial cross-chain swap widget powered by LI.FI — add to any site with one script tag.
 - [SailOnChain](https://sailonchain.com) - Crypto & Web3 job board with 1,400+ positions, salary intelligence, and global remote roles from ~2,000 blockchain companies.
 - [Deep Blue Alpha](https://deepbluealpha.io) - Real-time Ethereum whale intelligence platform tracking 25,000+ wallets with DEX swap detection, sentiment scoring, and per-token flow analytics for 200+ ERC-20 tokens.
