@@ -361,6 +361,7 @@
 
 ## AI & LLM & MCP
 
+- [0xArchive](https://docs.0xarchive.io/mcp-server) - Hosted read-only current and historical market data for Hyperliquid and Lighter.
 - [dRPC Agent Skills](https://github.com/drpcorg/drpc-agent-skills) - Read-only on-chain data for AI agents via DRPC's node network. Covers all major EVM networks and Solana. Free API key at drpc.org.
 - [FlexYield](https://flexyield.io/mcp) - Blockchain RPC gateway with a hosted MCP server: one API key across Ethereum, Base, Arbitrum, Optimism, Polygon and Solana, multi-provider failover, per-key budgets for agent fleets, measured reliability. Free tier 1M req/mo.
 - [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) 🎖️ 📇 ☁️ 🏠 - Institutional-grade crypto market infrastructure for AI — live prices, DeFi, wallets, and token risk through a managed MCP, REST API, or CLI.
