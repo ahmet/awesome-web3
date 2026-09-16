@@ -490,6 +490,7 @@
 - [Alchemy](https://www.alchemy.com)
 - [Infura](https://infura.io)
 - [Moralis](https://moralis.io)
+- * [P2Flux](https://p2flux.com/) - Non-custodial USDC payment infrastructure for one-time and recurring payments, with direct wallet-to-wallet settlement, developer SDKs, and sponsored network fees payable in USDC.
 - [QuickNode](https://www.quicknode.com)
 - [Thirdweb](https://thirdweb.com)
 - [Kriptonio](https://kriptonio.com)
