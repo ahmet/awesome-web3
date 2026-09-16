@@ -437,7 +437,6 @@
 - [Developer DAO Academy](https://academy.developerdao.com/) - Developer DAO Academy is open-source education platform created by the Developer DAO.
 - [Metaschool](https://metaschool.so/) - Metaschool is free and trusted resource to become a Web3 Developer by building & shipping dApps.
 - [SimpleHash](https://docs.simplehash.com/reference) - Tutorials for retrieving NFT metadata, media, sales and collection info from multiple chains.
-- [Layer3](https://layer3.xyz/) - Layer3 is web3 teaching platform that is gamified and allows individuals to discover and learn about web3.
 - [Vyper](https://learn.vyperlang.org/#/) - Learn Vyper by building a Pokémon Game.
 - [Staking Academy](https://www.staking-academy.com/) - Staking Academy is content aggregation platform with the goal of educating people about blockchain technology, staking and DeFi.
 - [Wriggly](https://wriggly.io/problemset/all) - Learn Solidity and smart contract development with interactive code challenges.
