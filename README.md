@@ -76,6 +76,7 @@
 - [Web3 Jobs](https://github.com/ceosvex/awesome-web3-jobs) - Curated list of job boards, companies, salary data, and career resources for finding web3 and crypto jobs.
 - [AI × Crypto Tools](https://github.com/FlipZ3ro/awesome-ai-crypto-tools#readme) - Curated list of AI-powered tools for crypto trading, analysis, security, and development.
 - [CryptoJobsHub](https://cryptojobshub.io/) - Find remote and on-site developer, design, and marketing opportunities in Web3.
+- [Awesome Web3 Grants](https://github.com/zkprimecapital/awesome-web3-grants) - Curated list of active web3 grant programs: ecosystem foundations, L2s, DeFi DAOs, ZK and VC grant programs.
 
 
 ## Reference
