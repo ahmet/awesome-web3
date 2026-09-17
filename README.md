@@ -70,13 +70,11 @@
 - [Blockchain Scalability](https://github.com/lucadonnoh/awesome-blockchain-scalability) - Curated list of awesome resources about blockchain scalability.
 - [MakerDAO](https://github.com/makerdao/awesome-makerdao) - Collection of tools, documents, articles, blog posts, interviews, and videos related to MakerDAO and the Dai stablecoin.
 - [Kiwi](https://github.com/attestate/awesome-kiwinews) - Collection of documents, clients, apps, APIs, and other resources related to Kiwi protocol.
-- [SwapTitan MCP](https://github.com/polsolbridge/swaptitan-mcp) - No-KYC crypto swap MCP server for AI agents. 10 tools: swap, prices, portfolio, rug check. 1288+ assets. x402 micropayments.
 - [Account Abstraction](https://github.com/4337Mafia/awesome-account-abstraction) - Collection of account abstraction resources.
 - [x402](https://github.com/xpaysh/awesome-x402) - Internet-native payment protocol using HTTP 402 status code for blockchain payments.
 - [Web3 Jobs](https://github.com/ceosvex/awesome-web3-jobs) - Curated list of job boards, companies, salary data, and career resources for finding web3 and crypto jobs.
 - [AI × Crypto Tools](https://github.com/FlipZ3ro/awesome-ai-crypto-tools#readme) - Curated list of AI-powered tools for crypto trading, analysis, security, and development.
-- [CryptoJobsHub](https://cryptojobshub.io/) - Find remote and on-site developer, design, and marketing opportunities in Web3.
-
+- [Awesome Web3 Grants](https://github.com/zkprimecapital/awesome-web3-grants) - Curated list of active web3 grant programs: ecosystem foundations, L2s, DeFi DAOs, ZK and VC grant programs.
 
 ## Reference
 
@@ -354,6 +352,7 @@
 - [SpraayBatch](https://github.com/plagtech/SpraayBatch) - Batch USDC payments on Base for AI agents — pay up to 200 recipients in one atomic transaction. Gasless via CDP Paymaster, non-custodial auto-wallets, per-agent budget caps. OpenClaw plugin with ClawHub security audit pass. ([ClawHub](https://clawhub.ai/plagtech/plugins/spraay-batch))
 - [AgentServices](https://github.com/vbkotecha/aiservices-api) - 54 services / 97 endpoints with 37 MCP tools: crypto prices, OHLCV, DeFi yields, technical indicators, DEX swap quotes, prediction markets, trending tokens, gas tracker, and on-chain analytics. 41 x402-paid endpoints (USDC on Base). Remote MCP server (TypeScript, cloud-hosted).
 - [Cyrus Relay](https://github.com/ghassan-gaidi/cyrus-relay) - OpenAI-compatible LLM gateway with per-request USDC pricing via the x402 protocol on Base, Arbitrum, and Polygon.
+- [SwapTitan MCP](https://github.com/polsolbridge/swaptitan-mcp) - No-KYC crypto swap MCP server for AI agents. 10 tools: swap, prices, portfolio, rug check. 1288+ assets. x402 micropayments.
 
 ## AI & LLM & MCP
 
@@ -512,6 +511,7 @@
 ## Other
 
 - [ChainJobs](https://chainjobs.io) - Crypto & web3 job board with 2,650+ live roles aggregated daily from companies' official ATS systems, employer-published salary data, free JSON API.
+- [CryptoJobsHub](https://cryptojobshub.io/) - Find remote and on-site developer, design, and marketing opportunities in Web3.
 - [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
 - [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
 - [Indiadex Swap Widget](https://indiadexswap.xyz/embed-widget) - Free embeddable non-custodial cross-chain swap widget powered by LI.FI — add to any site with one script tag.
