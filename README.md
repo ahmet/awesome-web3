@@ -288,6 +288,7 @@
 
 ### Testing
 
+- [Hronaut](https://github.com/hronaut/hronaut/blob/main/docs/WALLET_QA_QUICKSTART.md) - Local browser workspace with MCP for human-supervised dApp wallet QA; includes a disposable EVM quickstart for its wallet preview. Source-available, with a 10-day trial and paid ongoing use.
 - [mock-contract](https://github.com/gnosis/mock-contract) - Simple Solidity contract to mock dependent contracts in truffle tests.
 - [openzeppelin-test-helpers](https://github.com/OpenZeppelin/openzeppelin-test-helpers) - Assertion library for Ethereum smart contract testing that you can use with hardhat.
 - [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework (a generic RPA ecosystem).
