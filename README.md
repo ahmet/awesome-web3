@@ -287,6 +287,7 @@
 ### Testing
 
 - [mock-contract](https://github.com/gnosis/mock-contract) - Simple Solidity contract to mock dependent contracts in truffle tests.
+- [Mock Wallet](https://github.com/ChaituVR/mock-wallet) - Browser wallet for testing dApps, with many accounts from one seed, WalletConnect v2, EIP-712 signing, watch-only impersonation of any address, and an agent mode that auto-approves requests for end-to-end tests.
 - [openzeppelin-test-helpers](https://github.com/OpenZeppelin/openzeppelin-test-helpers) - Assertion library for Ethereum smart contract testing that you can use with hardhat.
 - [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework (a generic RPA ecosystem).
 - [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage for Solidity smart-contracts.
