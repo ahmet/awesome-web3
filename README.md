@@ -406,6 +406,7 @@
 - [Chainslake](https://github.com/chainslake/chainslake-onprem) - A self-hosted blockchain data warehouse built on HDFS, Spark, Delta Lake, Trino, and Airflow — multi-chain EVM data pipelines with an AI agent team that automates pipeline development and management
 - [Arb-Inc All-in-Dex](https://github.com/Lukecele/Arb-Inc-All-in-Dex) - Production-ready decentralized exchange aggregator, cross-chain bridge, and real-yield engine on BNB Smart Chain.
 - [@P2Flux/contracts](https://github.com/P2Flux/contracts) - Non-custodial USDC payment infrastructure for one-time and recurring payments, with direct wallet-to-wallet settlement, developer SDKs, and sponsored network fees payable in USDC.
+- [Charity Billionaire](https://github.com/GoldenHomeProject/charitybillionaire) - No-loss prize draw on Base. USDC deposits stay withdrawable; each week the pool's Aave interest funds one prize picked by Chainlink VRF and a charity gift.
 
 ## Tutorial
 
