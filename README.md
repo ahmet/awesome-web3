@@ -311,6 +311,7 @@
 
 - [AtlasYield](https://atlasyield.club) - Independent rating and allocation layer for on-chain yield — scores every DeFi vault 0-100 across 16 factors.
 - [Codex](https://www.codex.io) - Blockchain data API for accessing on-chain data across multiple networks.
+- [Envio](https://envio.dev) - Blockchain indexing and data platform. HyperIndex turns onchain events into a GraphQL API, and HyperSync serves filtered blocks, transactions and logs as an alternative to JSON-RPC.
 - [Indexed.xyz](https://indexed.xyz) - Raw and decoded logs, transactions, and blocks for many EVM chains.
 - [OpenChainBench](https://openchainbench.com) - Open, reproducible benchmarks for crypto infrastructure (aggregators, bridges, blockchains, perps) with live data, public methodology, and a JSON API. Data is CC-BY-4.0.
 - [Ormi Labs](https://ormilabs.com) - Ormi's 0xgraph is a next-gen subgraph indexing platform delivering 5× faster syncs, real-time queries with sub-second latency, zero throttling, and built-in support for chain re-orgs across 70+ chains.
