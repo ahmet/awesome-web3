@@ -128,6 +128,7 @@
 
 ### Hosting
 
+- [Acurast](https://acurast.com/) - Decentralized compute network that runs apps on smartphones, using the phones' Trusted Execution Environments for verifiable, confidential execution. Deploy with a CLI or SDK.
 - [dAppling Network](https://www.dappling.network/) - Decentralized web hosting platform for Web3 frontends focusing on increasing uptime, security, and providing an additional access point for users.
 - [Filebase](https://filebase.com/) - Filebase is an InterPlanetary development platform, providing users with quick access to IPFS storage, dedicated IPFS gateways, and IPNS names.
 
