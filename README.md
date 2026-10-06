@@ -342,6 +342,7 @@
 - [SafeAgent](https://github.com/Bemosha/safeagent) - Browser extension that detects clipboard address substitution, unlimited-approval signatures, seed-phrase input forms, and typosquatted domains. Detection runs locally, no telemetry. MIT.
 - [PublicAML](https://publicaml.org/) - Free, non-profit AML/KYT wallet screening: paste any BTC, ETH, BNB Chain, or TRON address for a risk score, sanctions status, source of funds, and counterparties. No signup; keyless public API and Telegram bot.
 - [Inception Flap Scanner](https://github.com/Lukecele/inception-flap-scanner) - Real-time on-chain token launch screener, Flap.sh bonding curve telemetry tracker, and automated 4-tier contract security auditor on BNB Smart Chain.
+- [Super AI](https://analyse.superaiwallet.com/brancher) - Free token security API with no key: honeypot simulation, contract permissions (mint, upgrade, pause, blacklist), liquidity, holder concentration and project checks across Ethereum, BNB Chain, Solana and Tron. Every line names and links the source it came from, and reports unknown rather than zero. Ships an SVG badge, an iframe embed and a Telegram bot in 18 languages. [Source](https://github.com/superaiwallet/super-ai-token-api).
 
 ### x402 Payments Protocol
 
