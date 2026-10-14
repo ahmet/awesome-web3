@@ -310,6 +310,7 @@
 ### Datasets
 
 - [AtlasYield](https://atlasyield.club) - Independent rating and allocation layer for on-chain yield — scores every DeFi vault 0-100 across 16 factors.
+- [Chain.Love](https://www.chain.love/) - Open-source dataset of Web3 infrastructure providers, including RPCs, indexers, wallets and explorers, for cross-network service discovery.
 - [Codex](https://www.codex.io) - Blockchain data API for accessing on-chain data across multiple networks.
 - [Envio](https://envio.dev) - Blockchain indexing and data platform. HyperIndex turns onchain events into a GraphQL API, and HyperSync serves filtered blocks, transactions and logs as an alternative to JSON-RPC.
 - [Indexed.xyz](https://indexed.xyz) - Raw and decoded logs, transactions, and blocks for many EVM chains.
