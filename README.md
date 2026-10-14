@@ -490,6 +490,7 @@
 
 - [Alchemy](https://www.alchemy.com)
 - [Infura](https://infura.io)
+- [LYFTIUM](https://www.lyftium.com) - Ethereum Mainnet RPC with plain RPM pricing, `X-Api-Key` auth, and fail-closed 503 tip gate.
 - [Moralis](https://moralis.io)
 - [QuickNode](https://www.quicknode.com)
 - [Thirdweb](https://thirdweb.com)
