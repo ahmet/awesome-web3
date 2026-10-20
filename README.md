@@ -86,6 +86,7 @@
 - [evm.codes](https://www.evm.codes) - An interactive reference to Ethereum Virtual Machine Opcodes ([source code](https://github.com/comitylabs/evm.codes)).
 - [Solidity](https://docs.soliditylang.org) - Solidity is an object-oriented, high-level language for implementing smart contracts.
 - [Vyper](https://docs.vyperlang.org) - Vyper is a contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine (EVM).
+- [Zcash address types](https://zecview.com/privacy/address-types/) - Source-linked reference to transparent, shielded, and Unified Addresses, distinguishing receiver formats from wallet capabilities.
 
 ## Software Development
 
