@@ -142,6 +142,7 @@
 ### Protocol
 
 - [DAY Protocol](https://dayprotocol.com) - Agent-native non-custodial yield router — wallet-only identity, strategies across Sui/Solana/Base/Arbitrum, Auto Pay residual rails and x402. ([SDK](https://github.com/dayprotocol/sdk) · [Docs](https://docs.dayprotocol.com))
+- [Doomsday Network (DOOM / wDOOM)](https://doomsday.network) - Open-source Proof-of-Work Layer-1 blockchain (`DOOM`) and 1:1 Base Mainnet ERC-20 (`wDOOM`, `0x623c84A5E04bF715018203334b0eFE41696eBC3E`) with cryptographic Proof-of-Escrow, CUDA GPU mining (`DoomHash`), and non-custodial AI agent MCP payment rails. ([GitHub](https://github.com/doomsday-network/doomsday) · [Bounty-Guard](https://github.com/doomsday-network/bounty-guard))
 - [WalletConnect](https://github.com/WalletConnect) - Open protocol connecting wallets to Dapps.
 - [WalletLink](https://github.com/walletlink/walletlink) - Open protocol that lets users connect their mobile wallets to your DApp.
 - [IPFS](https://ipfs.tech/) - Distributed system for storing and accessing files, websites, applications, and data.
