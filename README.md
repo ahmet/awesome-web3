@@ -309,6 +309,7 @@
 
 ### Datasets
 
+- [Agent Wallet Index](https://agentwalletindex.fyi) - Directory of agent wallets and payment rails with source-linked facts on custody, fees, protocols and spend controls. Free JSON API and MCP endpoint, no key needed.
 - [AtlasYield](https://atlasyield.club) - Independent rating and allocation layer for on-chain yield — scores every DeFi vault 0-100 across 16 factors.
 - [Codex](https://www.codex.io) - Blockchain data API for accessing on-chain data across multiple networks.
 - [Envio](https://envio.dev) - Blockchain indexing and data platform. HyperIndex turns onchain events into a GraphQL API, and HyperSync serves filtered blocks, transactions and logs as an alternative to JSON-RPC.
