@@ -315,6 +315,7 @@
 - [Indexed.xyz](https://indexed.xyz) - Raw and decoded logs, transactions, and blocks for many EVM chains.
 - [OpenChainBench](https://openchainbench.com) - Open, reproducible benchmarks for crypto infrastructure (aggregators, bridges, blockchains, perps) with live data, public methodology, and a JSON API. Data is CC-BY-4.0.
 - [Ormi Labs](https://ormilabs.com) - Ormi's 0xgraph is a next-gen subgraph indexing platform delivering 5× faster syncs, real-time queries with sub-second latency, zero throttling, and built-in support for chain re-orgs across 70+ chains.
+- [Token Unlock Calendar](https://github.com/yungsuper16-eng/tokenomics-audit-desk) - Open dataset (CSV/JSON) of verified token unlock events for the next 90 days: dates, amounts, share of supply with its basis, event type (cliff/linear/final), and source notes. Contested figures are flagged, not smoothed over. Refreshed with each Unlock Watch edition.
 
 ### Risk Management
 
