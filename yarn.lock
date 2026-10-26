@@ -1953,13 +1953,13 @@ __metadata:
     class-variance-authority: "npm:^0.7.1"
     cmdk: "npm:^1.1.1"
     cn: "npm:^0.5.0"
-    lucide-react: "npm:^1.58.0"
+    lucide-react: "npm:^1.61.0"
     next: "npm:16.4.2"
     postcss: "npm:^8.5.31"
     react: "npm:19.3.1"
     react-dom: "npm:19.3.1"
     remark-parse: "npm:^11.0.0"
-    shadcn: "npm:^4.22.0"
+    shadcn: "npm:^4.22.1"
     tailwindcss: "npm:^4.3.3"
     tw-animate-css: "npm:^1.4.0"
     typescript: "npm:^7.0.2"
@@ -3419,16 +3419,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lucide-react@npm:^1.58.0":
-  version: 1.58.0
-  resolution: "lucide-react@npm:1.58.0"
+"lucide-react@npm:^1.61.0":
+  version: 1.61.0
+  resolution: "lucide-react@npm:1.61.0"
   peerDependencies:
     "@types/react": "*"
     react: ^16.5.1 || ^17.0.0 || ^18.0.0 || ^19.0.0
   peerDependenciesMeta:
     "@types/react":
       optional: true
-  checksum: 10c0/2206d52aef1224292bf41285b7c1d224e3718bc9bbb1ae57fbaba346ec7600793b594730288ed065aa3165c98966bee275c8765ab1802620867a18787bfdf20c
+  checksum: 10c0/85576d32aef43d5dccf5a1fac06b67c2ccbb70eb33b996123f49aab108111fffa6bdd517c7d406db67a14432c45924279c2ec7212a166864d3355ce68b361494
   languageName: node
   linkType: hard
 
@@ -4480,9 +4480,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"shadcn@npm:^4.22.0":
-  version: 4.22.0
-  resolution: "shadcn@npm:4.22.0"
+"shadcn@npm:^4.22.1":
+  version: 4.22.1
+  resolution: "shadcn@npm:4.22.1"
   dependencies:
     "@babel/core": "npm:^7.28.0"
     "@babel/parser": "npm:^7.28.0"
@@ -4518,7 +4518,7 @@ __metadata:
     zod: "npm:^4.2.0"
   bin:
     shadcn: dist/index.js
-  checksum: 10c0/0d3ab3a37d36762024927076fbfd53338c7080785dc0db2c948484c309185e9ed01726dec342d31f076180dab75137ef9ae71712aa5368188037f5d7cf659784
+  checksum: 10c0/eb3529bb813bfdc6de2d123d83c0cef363c8da0b61a1bc813ec2f2733f29e222743d269f3176d283c8bd1840fa062cbea4f5655d5a77d468979d0f52b1b545d0
   languageName: node
   linkType: hard
 
