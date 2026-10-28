@@ -518,6 +518,7 @@
 - [Indiadex Swap Widget](https://indiadexswap.xyz/embed-widget) - Free embeddable non-custodial cross-chain swap widget powered by LI.FI — add to any site with one script tag.
 - [SailOnChain](https://sailonchain.com) - Crypto & Web3 job board with 1,400+ positions, salary intelligence, and global remote roles from ~2,000 blockchain companies.
 - [Deep Blue Alpha](https://deepbluealpha.io) - Real-time Ethereum whale intelligence platform tracking 25,000+ wallets with DEX swap detection, sentiment scoring, and per-token flow analytics for 200+ ERC-20 tokens.
+- [DeSweep](https://desweep.app) - Bulk crypto wallet balance checker: up to 1000 wallets per scan across 35 networks (EVM, Solana, Bitcoin) and NFTs in 28 networks, with optional collection of leftovers into one wallet signed in the browser.
 
 ## Contribute
 
