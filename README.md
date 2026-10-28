@@ -342,6 +342,7 @@
 - [SafeAgent](https://github.com/Bemosha/safeagent) - Browser extension that detects clipboard address substitution, unlimited-approval signatures, seed-phrase input forms, and typosquatted domains. Detection runs locally, no telemetry. MIT.
 - [PublicAML](https://publicaml.org/) - Free, non-profit AML/KYT wallet screening: paste any BTC, ETH, BNB Chain, or TRON address for a risk score, sanctions status, source of funds, and counterparties. No signup; keyless public API and Telegram bot.
 - [Inception Flap Scanner](https://github.com/Lukecele/inception-flap-scanner) - Real-time on-chain token launch screener, Flap.sh bonding curve telemetry tracker, and automated 4-tier contract security auditor on BNB Smart Chain.
+- [Squelch Check](https://squelchalerts.com/check) - Free Telegram group bot that checks any Ethereum, Base or Solana token for honeypot, mint/freeze/blacklist powers, LP lock and holder concentration.
 
 ### x402 Payments Protocol
 
