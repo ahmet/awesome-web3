@@ -484,7 +484,7 @@
 
 - [Week in Web3](https://linktr.ee/weekinweb3)
 - [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/) - Newsletter about blockchain, DeFi and exchange threat intelligence on hacks, vulnerabilities, security tools.
-- [Kiwi Weekly](https://paragraph.xyz/@kiwi-weekly) - Most popular crypto essays, products & dev tools picked by the Kiwi community.
+- [Kiwi Weekly](https://news.kiwistand.com/newsletter) - Weekly digest of the most-upvoted crypto and Ethereum links on Kiwi News.
 
 ## Platform as a Service
 
