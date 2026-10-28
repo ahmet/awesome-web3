@@ -518,6 +518,7 @@
 - [Indiadex Swap Widget](https://indiadexswap.xyz/embed-widget) - Free embeddable non-custodial cross-chain swap widget powered by LI.FI — add to any site with one script tag.
 - [SailOnChain](https://sailonchain.com) - Crypto & Web3 job board with 1,400+ positions, salary intelligence, and global remote roles from ~2,000 blockchain companies.
 - [Deep Blue Alpha](https://deepbluealpha.io) - Real-time Ethereum whale intelligence platform tracking 25,000+ wallets with DEX swap detection, sentiment scoring, and per-token flow analytics for 200+ ERC-20 tokens.
+- [Fear & Greed Index Bot](https://discord.com/oauth2/authorize?client_id=1125794469829169253&scope=bot+applications.commands&permissions=67127296) - Discord bot that shows the Crypto Fear & Greed Index in the server member list, with slash commands for the daily value and recent history.
 
 ## Contribute
 
