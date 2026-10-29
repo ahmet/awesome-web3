@@ -370,6 +370,7 @@
 - [AgentsCoin](https://github.com/axiosdevs/agentscoin-mcp) - Give your AI agent its own money on a live EVM chain (chainId 24368): wallet, faucet, send, and create/trade tokens via MCP.
 - [BaseLens](https://github.com/YoungAlgy/baselens) - Pay-per-call AI agent that reads any Base address and returns a structured risk/activity report over x402 (a few cents in USDC). Built with Coinbase's CDP SDK and Anthropic's API.
 - [AgentServices](https://github.com/vbkotecha/aiservices-api) 📇 ☁️ - Crypto/financial market data APIs for AI agents. 54 services, 97 endpoints, 37 MCP tools, 41 x402-paid endpoints (USDC on Base). Prices, OHLCV, DeFi yields, DEX quotes, on-chain analytics, social sentiment, gas tracker. Remote MCP server (TypeScript, cloud-hosted).
+- [StrictScore](https://strictscore.com/developers) - Hosted MCP server and REST API returning 0-100 fundamentals scores and 1-10 risk scores for 970 crypto assets; Enterprise API key required.
 
 ## Gas Tracker & Optimization
 
