@@ -138,6 +138,7 @@
 - [Clanker Wallet](https://github.com/almogdepaz/clanker-wallet) - Human-approved blockchain transactions for AI agents. Agent proposes a tx, human reviews and signs from a web app. E2E encrypted, CLI + TypeScript + Python SDKs.
 - [AxonFi SDK](https://github.com/axonfi/sdk) - Non-custodial treasury and payment SDK for AI agents. Agents sign EIP-712 intents from secure vaults without holding funds or paying gas. TypeScript, Python, and LangChain integrations. Multi-chain (Base, Arbitrum).
 - [Hypermid SDK](https://github.com/Hypermid) - Cross-chain swap, bridge & fiat on-ramp SDK across 90+ chains (EVM, Solana, Bitcoin, NEAR, Sui, Tron, TON). Available in TypeScript, Python, Go and Rust. Anonymous tier — no API key required.
+- [Seeryx SDKs](https://github.com/Seeryx) - Official MIT Python (sync and asyncio) and Rust (tokio) SDKs for Seeryx, a non-custodial prediction market on Solana with its own order book: market data, locally signed orders, USDC deposits and withdrawals, and WebSocket streams.
 
 ### Protocol
 
