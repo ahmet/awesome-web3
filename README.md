@@ -354,6 +354,7 @@
 - [AgentServices](https://github.com/vbkotecha/aiservices-api) - 54 services / 97 endpoints with 37 MCP tools: crypto prices, OHLCV, DeFi yields, technical indicators, DEX swap quotes, prediction markets, trending tokens, gas tracker, and on-chain analytics. 41 x402-paid endpoints (USDC on Base). Remote MCP server (TypeScript, cloud-hosted).
 - [Cyrus Relay](https://github.com/ghassan-gaidi/cyrus-relay) - OpenAI-compatible LLM gateway with per-request USDC pricing via the x402 protocol on Base, Arbitrum, and Polygon.
 - [SwapTitan MCP](https://github.com/polsolbridge/swaptitan-mcp) - No-KYC crypto swap MCP server for AI agents. 10 tools: swap, prices, portfolio, rug check. 1288+ assets. x402 micropayments.
+- [DeskCrew](https://deskcrew.io/.well-known/x402) - Customer support desk AI agents can operate and pay for per action over x402: search a help centre, draft a support reply, triage and resolve tickets, or open a bounty board. No account, no API key; USDC on Base, Solana, Polygon, Avalanche, Sei and Algorand. MCP and plain HTTP. [GitHub](https://github.com/webmilmind1/x402-bounty-hunter)
 
 ## AI & LLM & MCP
 
