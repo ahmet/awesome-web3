@@ -382,6 +382,7 @@
 - [Blockscout](https://github.com/blockscout/blockscout) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 - [Konkret Wallet](https://codeberg.org/konkret/konkret-wallet) - Browser extension wallet with focus on privacy and security.
 - [MetaMask](https://github.com/MetaMask/metamask-extension) - Browser extension of MetaMask crypto wallet.
+- [Oath Wallet](https://github.com/devdasx/oath-wallet) - Native multichain wallet for iPhone and iPad with WalletConnect support.
 - [Rabby](https://github.com/RabbyHub/Rabby) - Browser extension crypto wallet for the DeFi ecosystem that works multi-chain.
 - [Rainbow](https://github.com/rainbow-me/rainbow) - Open source Ethereum wallet.
 - [Remix](https://github.com/ethereum/remix-project) - Browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
