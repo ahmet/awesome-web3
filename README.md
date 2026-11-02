@@ -556,6 +556,7 @@
 - [CryptoJobsHub](https://cryptojobshub.io/) - Find remote and on-site developer, design, and marketing opportunities in Web3.
 - [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
 - [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
+- [Fiat-to-Stablecoin Payout Audit](https://livastic-vm5-primary-20260911.github.io/vm5-delivery-lab/fiat-stablecoin-audit/) - Free, browser-local CSV exception checker for fiat-funded USDC/USDT contractor payouts; matches batch, invoice and operator-reported payout rows, flags missing references and FX evidence gaps, and offers invented examples plus an offline Node.js CLI. It does not verify bank or onchain settlement.
 - [Indiadex Swap Widget](https://indiadexswap.xyz/embed-widget) - Free embeddable non-custodial cross-chain swap widget powered by LI.FI — add to any site with one script tag.
 - [KYC Flows](https://www.kycflows.com) - Dated, screen-by-screen screenshots of embedded wallet SDK sign-up flows (Privy, Dynamic, thirdweb, MetaMask Embedded Wallets, Crossmint) and one KYC vendor, with side-by-side comparison pages.
 - [JobsInCrypto](https://jobsincrypto.net) - Crypto jobs with no ghost jobs or fake recruiters: Verified roles from verified companies and Checked roles from 250+ companies' own career pages. Every candidate and company is reviewed by a person.
