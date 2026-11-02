@@ -426,6 +426,7 @@
 - [Chainslake](https://github.com/chainslake/chainslake-onprem) - A self-hosted blockchain data warehouse built on HDFS, Spark, Delta Lake, Trino, and Airflow — multi-chain EVM data pipelines with an AI agent team that automates pipeline development and management
 - [Arb-Inc All-in-Dex](https://github.com/Lukecele/Arb-Inc-All-in-Dex) - Production-ready decentralized exchange aggregator, cross-chain bridge, and real-yield engine on BNB Smart Chain.
 - [@P2Flux/contracts](https://github.com/P2Flux/contracts) - Non-custodial USDC payment infrastructure for one-time and recurring payments, with direct wallet-to-wallet settlement, developer SDKs, and sponsored network fees payable in USDC.
+- [opnaco Invoice](https://github.com/Opnaco/opnaco.github.io) - Serverless USDC invoices on Base and other EVM chains. The invoice lives in the link and detects its own payment onchain via public RPCs.
 - [Charity Billionaire](https://github.com/GoldenHomeProject/charitybillionaire) - No-loss prize draw on Base. USDC deposits stay withdrawable; each week the pool's Aave interest funds one prize picked by Chainlink VRF and a charity gift.
 - [provably-fair-verifier](https://github.com/cryptoplayguide/provably-fair-verifier) - Open-source browser verifier that recomputes HMAC-SHA256 seed outcomes for Dice, Limbo, Crash, Mines and Plinko provably fair games.
 - [Kiwi News](https://news.kiwistand.com) - Open-source Hacker News-style link aggregator for crypto and Ethereum, where submissions and upvotes are signed messages synced peer-to-peer between nodes.
