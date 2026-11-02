@@ -361,6 +361,7 @@
 - [Cyrus Relay](https://github.com/ghassan-gaidi/cyrus-relay) - OpenAI-compatible LLM gateway with per-request USDC pricing via the x402 protocol on Base, Arbitrum, and Polygon.
 - [SwapTitan MCP](https://github.com/polsolbridge/swaptitan-mcp) - No-KYC crypto swap MCP server for AI agents. 10 tools: swap, prices, portfolio, rug check. 1288+ assets. x402 micropayments.
 - [Acurast Deploy Agent](https://docs.acurast.com/developers/tools/deploy-agent/) - HTTP API that deploys jobs or an SSH-reachable VPS on Acurast's phone-based compute network for a USDC payment on Base via x402, built for AI agents and backends without ACU accounts.
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local CLI and stdio MCP payment runtime for AI agents on macOS, including x402 offer inspection and owner-controlled purchase preparation.
 
 ## AI & LLM & MCP
 
