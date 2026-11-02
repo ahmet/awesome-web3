@@ -326,6 +326,7 @@
 - [Token Unlock Calendar](https://github.com/yungsuper16-eng/tokenomics-audit-desk) - Open dataset (CSV/JSON) of verified token unlock events for the next 90 days: dates, amounts, share of supply with its basis, event type (cliff/linear/final), and source notes. Contested figures are flagged, not smoothed over. Refreshed with each Unlock Watch edition.
 - [Sweepbase](https://sweepbase.net/dataset) - Open dataset of 140+ crypto debit and credit cards with fees, FX markup, cashback, custody model and regional availability. CSV and JSON under CC BY 4.0.
 - [Telegram Gift Floors](https://github.com/w3radar/telegram-gift-floors) - Daily floor prices and recent-sales counts for Telegram collectible gift (TON NFT) collections on Fragment, as CSV and JSON. Data is CC-BY-4.0.
+- [Chain.Love](https://www.chain.love/) - Open-source dataset of Web3 infrastructure providers, including RPCs, indexers, wallets and explorers, for cross-network service discovery.
 
 ### Risk Management
 
