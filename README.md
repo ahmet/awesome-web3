@@ -315,6 +315,7 @@
 - [AtlasYield](https://atlasyield.club) - Independent rating and allocation layer for on-chain yield — scores every DeFi vault 0-100 across 16 factors.
 - [Codex](https://www.codex.io) - Blockchain data API for accessing on-chain data across multiple networks.
 - [Envio](https://envio.dev) - Blockchain indexing and data platform. HyperIndex turns onchain events into a GraphQL API, and HyperSync serves filtered blocks, transactions and logs as an alternative to JSON-RPC.
+- [HEY Research Lab](https://heyresearch.xyz/data) - Open dataset (CC BY 4.0) and free API of who is building on Robinhood Chain: projects, ships (releases, code, contract deployments) and changes, each with its public source.
 - [Hydromancer Reservoir](https://hydromancer.xyz/hyperliquid-historical-data) - Free archive of Hyperliquid exchange data on AWS S3 (requester pays): fills across perps, spot and HIP-3 markets, 1-second candles, daily position snapshots and 1-minute L2 order book snapshots, stored as Parquet.
 - [Indexed.xyz](https://indexed.xyz) - Raw and decoded logs, transactions, and blocks for many EVM chains.
 - [OpenChainBench](https://openchainbench.com) - Open, reproducible benchmarks for crypto infrastructure (aggregators, bridges, blockchains, perps) with live data, public methodology, and a JSON API. Data is CC-BY-4.0.
