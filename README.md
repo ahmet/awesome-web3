@@ -380,6 +380,7 @@
 ## AI & LLM & MCP
 
 - [0xArchive](https://docs.0xarchive.io/mcp-server) - Hosted read-only current and historical market data for Hyperliquid and Lighter.
+- [Bluwhale](https://www.bluwhale.com/developers) - Web3 intelligence layer for applications and AI agents, with documentation on knowledge graphs and user embeddings.
 - [ARKOSCOPE Verified Sources](https://github.com/arkoscope/awesome-crypto-verified-sources) - Dated crypto source registry with JSON, five-language pages and a local read-only MCP server.
 - [dRPC Agent Skills](https://github.com/drpcorg/drpc-agent-skills) - Read-only on-chain data for AI agents via DRPC's node network. Covers all major EVM networks and Solana. Free API key at drpc.org.
 - [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) 🎖️ 📇 ☁️ 🏠 - Institutional-grade crypto market infrastructure for AI — live prices, DeFi, wallets, and token risk through a managed MCP, REST API, or CLI.
