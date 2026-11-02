@@ -75,6 +75,7 @@
 - [Web3 Jobs](https://github.com/ceosvex/awesome-web3-jobs) - Curated list of job boards, companies, salary data, and career resources for finding web3 and crypto jobs.
 - [AI × Crypto Tools](https://github.com/FlipZ3ro/awesome-ai-crypto-tools#readme) - Curated list of AI-powered tools for crypto trading, analysis, security, and development.
 - [Awesome Web3 Grants](https://github.com/zkprimecapital/awesome-web3-grants) - Curated list of active web3 grant programs: ecosystem foundations, L2s, DeFi DAOs, ZK and VC grant programs.
+- [Crypto Cards](https://github.com/liam1024-tech/awesome-crypto-cards) - Curated list and open dataset of 102+ crypto and stablecoin debit cards, KYC rules, fees, Apple Pay and AI subscription compatibility.
 
 ## Reference
 
@@ -86,6 +87,7 @@
 - [evm.codes](https://www.evm.codes) - An interactive reference to Ethereum Virtual Machine Opcodes ([source code](https://github.com/comitylabs/evm.codes)).
 - [Solidity](https://docs.soliditylang.org) - Solidity is an object-oriented, high-level language for implementing smart contracts.
 - [Vyper](https://docs.vyperlang.org) - Vyper is a contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine (EVM).
+- [Zcash address types](https://zecview.com/privacy/address-types/) - Source-linked reference to transparent, shielded, and Unified Addresses, distinguishing receiver formats from wallet capabilities.
 
 ## Software Development
 
@@ -108,8 +110,8 @@
 ### Development Environment
 
 - [Brownie](https://github.com/eth-brownie/brownie) - Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
+- [Coddy Solidity Playground](https://coddy.tech/playground/solidity) - Write, compile and run Solidity contracts in the browser, with no wallet or testnet.
 - [Ethereum Code Viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View source of deployed Ethereum smart contracts in VS Code.
-- [EthFiddle](https://ethfiddle.com) - Web-based IDE that lets you write, compile, and debug your smart contract.
 - [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
 - [Remix](https://remix.ethereum.org/) - Online IDE for Solidity development.
 - [BuildBear](https://www.buildbear.io/) - Development platform that provides realistic test environments to developers.
@@ -128,6 +130,7 @@
 
 ### Hosting
 
+- [Acurast](https://acurast.com/) - Decentralized compute network that runs apps on smartphones, using the phones' Trusted Execution Environments for verifiable, confidential execution. Deploy with a CLI or SDK.
 - [dAppling Network](https://www.dappling.network/) - Decentralized web hosting platform for Web3 frontends focusing on increasing uptime, security, and providing an additional access point for users.
 - [Filebase](https://filebase.com/) - Filebase is an InterPlanetary development platform, providing users with quick access to IPFS storage, dedicated IPFS gateways, and IPNS names.
 
@@ -138,6 +141,7 @@
 - [Clanker Wallet](https://github.com/almogdepaz/clanker-wallet) - Human-approved blockchain transactions for AI agents. Agent proposes a tx, human reviews and signs from a web app. E2E encrypted, CLI + TypeScript + Python SDKs.
 - [AxonFi SDK](https://github.com/axonfi/sdk) - Non-custodial treasury and payment SDK for AI agents. Agents sign EIP-712 intents from secure vaults without holding funds or paying gas. TypeScript, Python, and LangChain integrations. Multi-chain (Base, Arbitrum).
 - [Hypermid SDK](https://github.com/Hypermid) - Cross-chain swap, bridge & fiat on-ramp SDK across 90+ chains (EVM, Solana, Bitcoin, NEAR, Sui, Tron, TON). Available in TypeScript, Python, Go and Rust. Anonymous tier — no API key required.
+- [Seeryx SDKs](https://github.com/Seeryx) - Official MIT Python (sync and asyncio) and Rust (tokio) SDKs for Seeryx, a non-custodial prediction market on Solana with its own order book: market data, locally signed orders, USDC deposits and withdrawals, and WebSocket streams.
 
 ### Protocol
 
@@ -286,7 +290,9 @@
 
 ### Testing
 
+- [Hronaut](https://github.com/hronaut/hronaut/blob/main/docs/WALLET_QA_QUICKSTART.md) - Local browser workspace with MCP for human-supervised dApp wallet QA; includes a disposable EVM quickstart for its wallet preview. Source-available, with a 10-day trial and paid ongoing use.
 - [mock-contract](https://github.com/gnosis/mock-contract) - Simple Solidity contract to mock dependent contracts in truffle tests.
+- [Mock Wallet](https://github.com/ChaituVR/mock-wallet) - Browser wallet for testing dApps, with many accounts from one seed, WalletConnect v2, EIP-712 signing, watch-only impersonation of any address, and an agent mode that auto-approves requests for end-to-end tests.
 - [openzeppelin-test-helpers](https://github.com/OpenZeppelin/openzeppelin-test-helpers) - Assertion library for Ethereum smart contract testing that you can use with hardhat.
 - [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework (a generic RPA ecosystem).
 - [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage for Solidity smart-contracts.
@@ -309,13 +315,21 @@
 
 ### Datasets
 
+- [Agent Wallet Index](https://agentwalletindex.fyi) - Directory of agent wallets and payment rails with source-linked facts on custody, fees, protocols and spend controls. Free JSON API and MCP endpoint, no key needed.
 - [AtlasYield](https://atlasyield.club) - Independent rating and allocation layer for on-chain yield — scores every DeFi vault 0-100 across 16 factors.
 - [Codex](https://www.codex.io) - Blockchain data API for accessing on-chain data across multiple networks.
 - [Envio](https://envio.dev) - Blockchain indexing and data platform. HyperIndex turns onchain events into a GraphQL API, and HyperSync serves filtered blocks, transactions and logs as an alternative to JSON-RPC.
+- [HEY Research Lab](https://heyresearch.xyz/data) - Open dataset (CC BY 4.0) and free API of who is building on Robinhood Chain: projects, ships (releases, code, contract deployments) and changes, each with its public source.
+- [Hydromancer Reservoir](https://hydromancer.xyz/hyperliquid-historical-data) - Free archive of Hyperliquid exchange data on AWS S3 (requester pays): fills across perps, spot and HIP-3 markets, 1-second candles, daily position snapshots and 1-minute L2 order book snapshots, stored as Parquet.
 - [Indexed.xyz](https://indexed.xyz) - Raw and decoded logs, transactions, and blocks for many EVM chains.
 - [OpenChainBench](https://openchainbench.com) - Open, reproducible benchmarks for crypto infrastructure (aggregators, bridges, blockchains, perps) with live data, public methodology, and a JSON API. Data is CC-BY-4.0.
 - [Ormi Labs](https://ormilabs.com) - Ormi's 0xgraph is a next-gen subgraph indexing platform delivering 5× faster syncs, real-time queries with sub-second latency, zero throttling, and built-in support for chain re-orgs across 70+ chains.
 - [Crypto Vision](https://cryptocurrency.cv) - Free crypto news aggregator API with market context for Bitcoin, Ethereum, DeFi and Solana. JSON REST and RSS, no API key.
+- [PunkPrice](https://punkprice.com/data?utm_source=awesome-web3) - Daily CryptoPunks floor price since June 2017, replayed from the marketplace contract's on-chain events. Free CSV, JSON and API, CC BY 4.0.
+- [Token Unlock Calendar](https://github.com/yungsuper16-eng/tokenomics-audit-desk) - Open dataset (CSV/JSON) of verified token unlock events for the next 90 days: dates, amounts, share of supply with its basis, event type (cliff/linear/final), and source notes. Contested figures are flagged, not smoothed over. Refreshed with each Unlock Watch edition.
+- [Sweepbase](https://sweepbase.net/dataset) - Open dataset of 140+ crypto debit and credit cards with fees, FX markup, cashback, custody model and regional availability. CSV and JSON under CC BY 4.0.
+- [Telegram Gift Floors](https://github.com/w3radar/telegram-gift-floors) - Daily floor prices and recent-sales counts for Telegram collectible gift (TON NFT) collections on Fragment, as CSV and JSON. Data is CC-BY-4.0.
+- [Chain.Love](https://www.chain.love/) - Open-source dataset of Web3 infrastructure providers, including RPCs, indexers, wallets and explorers, for cross-network service discovery.
 
 ### Risk Management
 
@@ -343,6 +357,7 @@
 - [SafeAgent](https://github.com/Bemosha/safeagent) - Browser extension that detects clipboard address substitution, unlimited-approval signatures, seed-phrase input forms, and typosquatted domains. Detection runs locally, no telemetry. MIT.
 - [PublicAML](https://publicaml.org/) - Free, non-profit AML/KYT wallet screening: paste any BTC, ETH, BNB Chain, or TRON address for a risk score, sanctions status, source of funds, and counterparties. No signup; keyless public API and Telegram bot.
 - [Inception Flap Scanner](https://github.com/Lukecele/inception-flap-scanner) - Real-time on-chain token launch screener, Flap.sh bonding curve telemetry tracker, and automated 4-tier contract security auditor on BNB Smart Chain.
+- [Iris](https://iriscan.app) - Wallet analysis and fund tracing across Solana, EVM chains, Bitcoin and Tron, through mixers, bridges and instant swaps. Free flow for drained wallets, REST API and hosted MCP server.
 
 ### x402 Payments Protocol
 
@@ -355,22 +370,32 @@
 - [AgentServices](https://github.com/vbkotecha/aiservices-api) - 54 services / 97 endpoints with 37 MCP tools: crypto prices, OHLCV, DeFi yields, technical indicators, DEX swap quotes, prediction markets, trending tokens, gas tracker, and on-chain analytics. 41 x402-paid endpoints (USDC on Base). Remote MCP server (TypeScript, cloud-hosted).
 - [Cyrus Relay](https://github.com/ghassan-gaidi/cyrus-relay) - OpenAI-compatible LLM gateway with per-request USDC pricing via the x402 protocol on Base, Arbitrum, and Polygon.
 - [SwapTitan MCP](https://github.com/polsolbridge/swaptitan-mcp) - No-KYC crypto swap MCP server for AI agents. 10 tools: swap, prices, portfolio, rug check. 1288+ assets. x402 micropayments.
+- [DeskCrew](https://deskcrew.io/.well-known/x402) - Customer support desk AI agents can operate and pay for per action over x402: search a help centre, draft a support reply, triage and resolve tickets, or open a bounty board. No account, no API key; USDC on Base, Solana, Polygon, Avalanche, Sei and Algorand. MCP and plain HTTP. [GitHub](https://github.com/webmilmind1/x402-bounty-hunter)
+- [Acurast Deploy Agent](https://docs.acurast.com/developers/tools/deploy-agent/) - HTTP API that deploys jobs or an SSH-reachable VPS on Acurast's phone-based compute network for a USDC payment on Base via x402, built for AI agents and backends without ACU accounts.
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local CLI and stdio MCP payment runtime for AI agents on macOS, including x402 offer inspection and owner-controlled purchase preparation.
 
 ## AI & LLM & MCP
 
 - [0xArchive](https://docs.0xarchive.io/mcp-server) - Hosted read-only current and historical market data for Hyperliquid and Lighter.
+- [ARKOSCOPE Verified Sources](https://github.com/arkoscope/awesome-crypto-verified-sources) - Dated crypto source registry with JSON, five-language pages and a local read-only MCP server.
 - [dRPC Agent Skills](https://github.com/drpcorg/drpc-agent-skills) - Read-only on-chain data for AI agents via DRPC's node network. Covers all major EVM networks and Solana. Free API key at drpc.org.
 - [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) 🎖️ 📇 ☁️ 🏠 - Institutional-grade crypto market infrastructure for AI — live prices, DeFi, wallets, and token risk through a managed MCP, REST API, or CLI.
 - [Hashgraph Online (HOL)](https://github.com/hashgraph-online) - Universal agentic registry on Hedera providing blockchain-based identity for AI agents via HCS-14 Universal Agent IDs (UAIDs). Bridges A2A, ERC-8004, x402, and MCP protocols. 187K+ verified agents, 33M+ daily operations. Open-source SDKs: TypeScript, Go, Python.
 - [Pythia Oracle MCP](https://github.com/pythia-the-oracle/pythia-oracle-mcp) - On-chain calculated indicators (EMA, RSI, Bollinger, Volatility) for 22 tokens via Chainlink. MCP server + LangChain integration for AI agents to access DeFi data.
 - [Hedera Agent Kit](https://docs.hedera.com/hedera/open-source-solutions/ai-studio-on-hedera/hedera-ai-agent-kit) - Open-source framework for building AI-powered applications that interact with the Hedera Network. Create conversational agents that understand natural language and execute Hedera transactions, or build backend systems that leverage AI for on-chain operations.
 - [Kuberna Labs](https://github.com/kawacukennedy/kuberna-labs) - Decentralized execution rails for AI agents. Deploy TEE-shielded agents to Ethereum, Solana, NEAR with ERC-7683 intents and zkTLS privacy.
+- [Verdikta](https://bounties.verdikta.org/agents) - AI-evaluated work on Base, paid in ETH. Discovery and dry-runs are free; live evaluation requires ETH prepay and gas.
 - [web3-docs](https://github.com/dioptx/web3-docs) - Local MCP server with a searchable corpus of 1,767 EIPs, BIPs, ADRs, CIPs, and RFCs across 10 chains plus a canonical contract-address registry covering 19 protocols on major EVM chains. SQLite + FTS5, no API keys.
 - [Assay Protocol](https://github.com/Grandionn/assay-protocol) - Economic trust enforcement for AI agents on Base. USDC staking, outcome-verified escrow, algorithmic reputation scoring (0-1000), and semantic discovery for ERC-8004 agents. 2000+ agents indexed.
 - [Web3 Agent Kit](https://github.com/ulsreall/web3-agent-kit) - Open-source Python framework for building autonomous AI agents that interact with DeFi protocols. Multi-chain support (Ethereum, Base, Arbitrum, Optimism, Polygon), LLM-powered reasoning (OpenAI, Anthropic, Groq, DeepSeek), Uniswap V2 swaps, cross-chain bridges (Li.Fi, Socket), token sniper, and portfolio tracking.
 - [AgentsCoin](https://github.com/axiosdevs/agentscoin-mcp) - Give your AI agent its own money on a live EVM chain (chainId 24368): wallet, faucet, send, and create/trade tokens via MCP.
 - [BaseLens](https://github.com/YoungAlgy/baselens) - Pay-per-call AI agent that reads any Base address and returns a structured risk/activity report over x402 (a few cents in USDC). Built with Coinbase's CDP SDK and Anthropic's API.
 - [AgentServices](https://github.com/vbkotecha/aiservices-api) 📇 ☁️ - Crypto/financial market data APIs for AI agents. 54 services, 97 endpoints, 37 MCP tools, 41 x402-paid endpoints (USDC on Base). Prices, OHLCV, DeFi yields, DEX quotes, on-chain analytics, social sentiment, gas tracker. Remote MCP server (TypeScript, cloud-hosted).
+- [MadeOnSol](https://madeonsol.com) - Real-time Solana and Robinhood Chain intelligence for developers and AI agents: KOL activity, wallets, token/deployer analytics and DEX data through REST APIs, SDKs and MCP, with x402 pay-per-call support.
+- [fly.ai](https://www.flyaiworld.com) - Open-source simulation of the full fruit-fly connectome (166,700 neurons) whose brains drive AI trading wallets on Robinhood Chain, plus an x402 pay-per-request API for forecasts, token checks and brain runs.
+- [EventTrader](https://cymetica.com/.well-known/mcp.json) - Public MCP server for EventTrader's prediction markets, funds and event cards, plus the Gem Screener (crypto token research); reads need no key and agents can trade on paper.
+- [Chord](https://github.com/getchordlabs/chord) - Hosted no-key MCP server for DEX swap quotes and unsigned swap transactions on 7 EVM chains, plus token boards, candles, wallet PnL and smart money.
+- [SoChain](https://sochain.com/docs) - Hosted MCP server and REST API for Bitcoin, Litecoin, Dogecoin and Zcash: address balances and history, transactions, blocks and mempool fees, so agents can answer questions about non-EVM chains. Lookups work without an API key.
 
 ## Gas Tracker & Optimization
 
@@ -383,6 +408,7 @@
 - [Blockscout](https://github.com/blockscout/blockscout) - Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.
 - [Konkret Wallet](https://codeberg.org/konkret/konkret-wallet) - Browser extension wallet with focus on privacy and security.
 - [MetaMask](https://github.com/MetaMask/metamask-extension) - Browser extension of MetaMask crypto wallet.
+- [Oath Wallet](https://github.com/devdasx/oath-wallet) - Native multichain wallet for iPhone and iPad with WalletConnect support.
 - [Rabby](https://github.com/RabbyHub/Rabby) - Browser extension crypto wallet for the DeFi ecosystem that works multi-chain.
 - [Rainbow](https://github.com/rainbow-me/rainbow) - Open source Ethereum wallet.
 - [Remix](https://github.com/ethereum/remix-project) - Browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.
@@ -398,6 +424,7 @@
 - [Hugin Messenger - Desktop](https://github.com/kryptokrona/hugin-desktop) - Private messaging application on Kryptokrona Blockchain for desktop.
 - [Hugin Messenger - Mobile](https://github.com/kryptokrona/hugin-mobile) - Private messaging application on Kryptokrona Blockchain for mobile.
 - [Ambire Wallet](https://github.com/AmbireTech/wallet) - Open source Web3 wallet that makes self-custody easy and secure via account abstraction.
+- [BitTool Signer](https://github.com/bitbill/bittool-signer-ios) - Offline mobile transaction signer exchanging EVM and Bitcoin signing requests and signatures through QR codes.
 - [Ethui](https://ethui.dev/) - Open-source Ethereum toolkit that integrates wallets, contract explorers, Foundry and Anvil. It streamlines smart contract testing, identity management, and dApp connectivity for developers.
 - [Mybucks.online](https://github.com/mybucks-online/app) - Open-source, browser-based and self-custodial wallet that generates a private key from credentials using one-way hash function.
 - [Pulse](https://github.com/manja316/pulse-payments) - Instant payment links on Base. Create shareable payment requests settled onchain with 0.5% fee.
@@ -408,6 +435,10 @@
 - [Chainslake](https://github.com/chainslake/chainslake-onprem) - A self-hosted blockchain data warehouse built on HDFS, Spark, Delta Lake, Trino, and Airflow — multi-chain EVM data pipelines with an AI agent team that automates pipeline development and management
 - [Arb-Inc All-in-Dex](https://github.com/Lukecele/Arb-Inc-All-in-Dex) - Production-ready decentralized exchange aggregator, cross-chain bridge, and real-yield engine on BNB Smart Chain.
 - [@P2Flux/contracts](https://github.com/P2Flux/contracts) - Non-custodial USDC payment infrastructure for one-time and recurring payments, with direct wallet-to-wallet settlement, developer SDKs, and sponsored network fees payable in USDC.
+- [opnaco Invoice](https://github.com/Opnaco/opnaco.github.io) - Serverless USDC invoices on Base and other EVM chains. The invoice lives in the link and detects its own payment onchain via public RPCs.
+- [Charity Billionaire](https://github.com/GoldenHomeProject/charitybillionaire) - No-loss prize draw on Base. USDC deposits stay withdrawable; each week the pool's Aave interest funds one prize picked by Chainlink VRF and a charity gift.
+- [provably-fair-verifier](https://github.com/cryptoplayguide/provably-fair-verifier) - Open-source browser verifier that recomputes HMAC-SHA256 seed outcomes for Dice, Limbo, Crash, Mines and Plinko provably fair games.
+- [Kiwi News](https://news.kiwistand.com) - Open-source Hacker News-style link aggregator for crypto and Ethereum, where submissions and upvotes are signed messages synced peer-to-peer between nodes.
 
 ## Tutorial
 
@@ -485,7 +516,7 @@
 
 - [Week in Web3](https://linktr.ee/weekinweb3)
 - [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/) - Newsletter about blockchain, DeFi and exchange threat intelligence on hacks, vulnerabilities, security tools.
-- [Kiwi Weekly](https://paragraph.xyz/@kiwi-weekly) - Most popular crypto essays, products & dev tools picked by the Kiwi community.
+- [Kiwi Weekly](https://news.kiwistand.com/newsletter) - Weekly digest of the most-upvoted crypto and Ethereum links on Kiwi News.
 
 ## Platform as a Service
 
@@ -509,16 +540,21 @@
 - [Zerion](https://zerion.io/api) - Wallet and DeFi data API across 40+ chains — portfolios, token balances, transactions, NFTs, and DeFi positions. Historical charts, multi-wallet aggregation, and real-time webhooks. Offers CLI, MCP, and pay-per-request via x402 and MPP.
 - [SwiftNodes](https://swiftnodes.io)
 - [OnFinality](https://onfinality.io/) - Blockchain infrastructure platform providing reliable multichain RPC APIs, dedicated nodes, indexing services, staking and validator infrastructure, and network prototyping tools across 130+ blockchain networks.
+- [Luganodes RPC](https://rpc.luganodes.com) - Self-serve JSON-RPC endpoints for Ethereum, Bitcoin and Tron mainnet on dedicated bare metal infrastructure with per-method compute-unit pricing and a free tier.
+- [Dwellir](https://www.dwellir.com) - Blockchain RPC and node provider for 150+ networks, with archive, trace and debug APIs on many EVM chains. Free plan with 20 RPS and 100,000 responses per day, and 1 response counts as 1 API credit.
 
 ## Other
 
-- [ChainJobs](https://chainjobs.io) - Crypto & web3 job board with 2,650+ live roles aggregated daily from companies' official ATS systems, employer-published salary data, free JSON API.
+- [ChainJobs](https://chainjobs.io) - Live crypto, web3 & blockchain jobs read daily from companies' own careers pages (plus human-reviewed free employer posts), employer-published salary data, free JSON API.
 - [CryptoJobsHub](https://cryptojobshub.io/) - Find remote and on-site developer, design, and marketing opportunities in Web3.
 - [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
 - [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
 - [Indiadex Swap Widget](https://indiadexswap.xyz/embed-widget) - Free embeddable non-custodial cross-chain swap widget powered by LI.FI — add to any site with one script tag.
+- [KYC Flows](https://www.kycflows.com) - Dated, screen-by-screen screenshots of embedded wallet SDK sign-up flows (Privy, Dynamic, thirdweb, MetaMask Embedded Wallets, Crossmint) and one KYC vendor, with side-by-side comparison pages.
+- [JobsInCrypto](https://jobsincrypto.net) - Crypto jobs with no ghost jobs or fake recruiters: Verified roles from verified companies and Checked roles from 250+ companies' own career pages. Every candidate and company is reviewed by a person.
 - [SailOnChain](https://sailonchain.com) - Crypto & Web3 job board with 1,400+ positions, salary intelligence, and global remote roles from ~2,000 blockchain companies.
 - [Deep Blue Alpha](https://deepbluealpha.io) - Real-time Ethereum whale intelligence platform tracking 25,000+ wallets with DEX swap detection, sentiment scoring, and per-token flow analytics for 200+ ERC-20 tokens.
+- [QuantumPools](https://quantumpools.io) - Independent LP bookkeeping and metrics for original deposits, fees, impermanent loss, and cover value across Solana and EVM.
 
 ## Contribute
 
