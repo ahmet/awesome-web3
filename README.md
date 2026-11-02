@@ -75,6 +75,7 @@
 - [Web3 Jobs](https://github.com/ceosvex/awesome-web3-jobs) - Curated list of job boards, companies, salary data, and career resources for finding web3 and crypto jobs.
 - [AI × Crypto Tools](https://github.com/FlipZ3ro/awesome-ai-crypto-tools#readme) - Curated list of AI-powered tools for crypto trading, analysis, security, and development.
 - [Awesome Web3 Grants](https://github.com/zkprimecapital/awesome-web3-grants) - Curated list of active web3 grant programs: ecosystem foundations, L2s, DeFi DAOs, ZK and VC grant programs.
+- [Crypto Cards](https://github.com/liam1024-tech/awesome-crypto-cards) - Curated list and open dataset of 102+ crypto and stablecoin debit cards, KYC rules, fees, Apple Pay and AI subscription compatibility.
 
 ## Reference
 
