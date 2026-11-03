@@ -408,6 +408,7 @@
 
 - [ETH Gas Tracker](https://www.ethgastracker.com/) - Monitor and track Ethereum and L2 gas prices to reduce transaction fees, save money and take control of your blockchain experience
 - [GetTronEnergy](https://gettronenergy.com/) - TRON energy rental that cuts USDT (TRC20) transfer fees by about 40% versus burning TRX, with live network fee data and free calculators.
+- [Energy Rent Hub](https://www.energyrenthub.com/) - Live TRON energy rental price comparison, ranked by real on-chain success rate, speed and trade price, to cut USDT (TRC20) transfer fees by up to 80%.
 
 ## Open Source Project
 
