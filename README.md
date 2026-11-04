@@ -555,6 +555,7 @@
 ## Other
 
 - [ChainJobs](https://chainjobs.io) - Live crypto, web3 & blockchain jobs read daily from companies' own careers pages (plus human-reviewed free employer posts), employer-published salary data, free JSON API.
+- [chainjobs.app](https://chainjobs.app/) - Free Web3 and freelance job board to post jobs, offer services and chat directly, paid in crypto or bank transfer with 0% platform commission.
 - [CryptoJobsHub](https://cryptojobshub.io/) - Find remote and on-site developer, design, and marketing opportunities in Web3.
 - [Chainlist](https://chainlist.org) - List of EVM networks, Chain IDs and Network IDs.
 - [Crypto Payroll](https://www.request.finance/payroll) - Automate and simplify payroll operations in crypto.
