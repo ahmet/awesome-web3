@@ -407,6 +407,7 @@
 ## Gas Tracker & Optimization
 
 - [ETH Gas Tracker](https://www.ethgastracker.com/) - Monitor and track Ethereum and L2 gas prices to reduce transaction fees, save money and take control of your blockchain experience
+- [gasrent](https://gasrent.click/) - TRON energy and bandwidth rental aggregator for cheaper USDT TRC20 transfers, with a REST API.
 - [GetTronEnergy](https://gettronenergy.com/) - TRON energy rental that cuts USDT (TRC20) transfer fees by about 40% versus burning TRX, with live network fee data and free calculators.
 
 ## Open Source Project
