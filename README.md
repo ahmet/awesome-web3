@@ -361,6 +361,7 @@
 - [Inception Flap Scanner](https://github.com/Lukecele/inception-flap-scanner) - Real-time on-chain token launch screener, Flap.sh bonding curve telemetry tracker, and automated 4-tier contract security auditor on BNB Smart Chain.
 - [Super AI](https://analyse.superaiwallet.com/brancher) - Free token security API with no key: honeypot simulation, contract permissions (mint, upgrade, pause, blacklist), liquidity, holder concentration and project checks across Ethereum, BNB Chain, Solana and Tron. Every line names and links the source it came from, and reports unknown rather than zero. Ships an SVG badge, an iframe embed and a Telegram bot in 18 languages. [Source](https://github.com/superaiwallet/super-ai-token-api).
 - [Iris](https://iriscan.app) - Wallet analysis and fund tracing across Solana, EVM chains, Bitcoin and Tron, through mixers, bridges and instant swaps. Free flow for drained wallets, REST API and hosted MCP server.
+- [Telegram Rug Checker](https://github.com/Balance0014/telegram-rug-checker) - Self-hosted Telegram bot on Cloudflare Workers that checks a Solana or EVM token for honeypot flags, taxes, owner powers, holder concentration and liquidity lock using GoPlus, RugCheck, honeypot.is and DexScreener, and can then watch it for pulled liquidity.
 
 ### x402 Payments Protocol
 
