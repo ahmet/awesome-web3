@@ -403,6 +403,7 @@
 - [EventTrader](https://cymetica.com/.well-known/mcp.json) - Public MCP server for EventTrader's prediction markets, funds and event cards, plus the Gem Screener (crypto token research); reads need no key and agents can trade on paper.
 - [Chord](https://github.com/getchordlabs/chord) - Hosted no-key MCP server for DEX swap quotes and unsigned swap transactions on 7 EVM chains, plus token boards, candles, wallet PnL and smart money.
 - [SoChain](https://sochain.com/docs) - Hosted MCP server and REST API for Bitcoin, Litecoin, Dogecoin and Zcash: address balances and history, transactions, blocks and mempool fees, so agents can answer questions about non-EVM chains. Lookups work without an API key.
+- [Nansen](https://docs.nansen.ai/mcp/overview) - Onchain analytics for AI agents through a hosted MCP server with read-only data tools, a REST API with x402 pay-per-call, and a CLI with agent skills.
 
 ## Gas Tracker & Optimization
 
