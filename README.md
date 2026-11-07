@@ -316,6 +316,7 @@
 
 ### Datasets
 
+- [1000x Leverage](https://1000xleverage.com/) - Evidence-graded dataset of crypto perpetual venues listing 500x–1001x maximum leverage, with chain, model, live status and a per-row check date. Free JSON and CSV.
 - [Agent Wallet Index](https://agentwalletindex.fyi) - Directory of agent wallets and payment rails with source-linked facts on custody, fees, protocols and spend controls. Free JSON API and MCP endpoint, no key needed.
 - [AtlasYield](https://atlasyield.club) - Independent rating and allocation layer for on-chain yield — scores every DeFi vault 0-100 across 16 factors.
 - [Codex](https://www.codex.io) - Blockchain data API for accessing on-chain data across multiple networks.
