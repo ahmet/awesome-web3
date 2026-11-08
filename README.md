@@ -402,8 +402,8 @@
 - [fly.ai](https://www.flyaiworld.com) - Open-source simulation of the full fruit-fly connectome (166,700 neurons) whose brains drive AI trading wallets on Robinhood Chain, plus an x402 pay-per-request API for forecasts, token checks and brain runs.
 - [EventTrader](https://cymetica.com/.well-known/mcp.json) - Public MCP server for EventTrader's prediction markets, funds and event cards, plus the Gem Screener (crypto token research); reads need no key and agents can trade on paper.
 - [Chord](https://github.com/getchordlabs/chord) - Hosted no-key MCP server for DEX swap quotes and unsigned swap transactions on 7 EVM chains, plus token boards, candles, wallet PnL and smart money.
-- [SoChain](https://sochain.com/docs) - Hosted MCP server and REST API for Bitcoin, Litecoin, Dogecoin and Zcash: address balances and history, transactions, blocks and mempool fees, so agents can answer questions about non-EVM chains. Lookups work without an API key
-- [AI Crypto Tools](https://github.com/HoardAds/awesome-ai-crypto-tools) - Curated list of AI and crypto tools — AI agents, coding, video, trading and Web3 infrastructure, updated daily..
+- [SoChain](https://sochain.com/docs) - Hosted MCP server and REST API for Bitcoin, Litecoin, Dogecoin and Zcash: address balances and history, transactions, blocks and mempool fees, so agents can answer questions about non-EVM chains. Lookups work without an API key.
+- [AI Crypto Tools](https://github.com/HoardAds/awesome-ai-crypto-tools) - Curated list of AI and crypto tools — AI agents, coding, video, trading and Web3 infrastructure, updated daily.
 
 ## Gas Tracker & Optimization
 
