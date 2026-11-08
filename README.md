@@ -361,6 +361,7 @@
 - [Inception Flap Scanner](https://github.com/Lukecele/inception-flap-scanner) - Real-time on-chain token launch screener, Flap.sh bonding curve telemetry tracker, and automated 4-tier contract security auditor on BNB Smart Chain.
 - [Super AI](https://analyse.superaiwallet.com/brancher) - Free token security API with no key: honeypot simulation, contract permissions (mint, upgrade, pause, blacklist), liquidity, holder concentration and project checks across Ethereum, BNB Chain, Solana and Tron. Every line names and links the source it came from, and reports unknown rather than zero. Ships an SVG badge, an iframe embed and a Telegram bot in 18 languages. [Source](https://github.com/superaiwallet/super-ai-token-api).
 - [Iris](https://iriscan.app) - Wallet analysis and fund tracing across Solana, EVM chains, Bitcoin and Tron, through mixers, bridges and instant swaps. Free flow for drained wallets, REST API and hosted MCP server.
+- [Toll](https://t0ll.xyz) - Safety checks an AI agent calls before it buys, signs or pays on Robinhood Chain: rug, bundle, dev and LP checks, ALLOW/WARN/BLOCK for transactions, EIP-712 signatures and x402 payments, and ERC-8004 agent checks. Remote MCP server and REST API, free tier with no key.
 
 ### x402 Payments Protocol
 
