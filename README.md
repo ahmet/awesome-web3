@@ -551,6 +551,7 @@
 - [BitPolaris](https://bitpolaris.com/) - Self-hosted crypto infrastructure software: exchange, stablecoin payment gateway, wallet apps, multi-chain custody and proof of reserves.
 - [Luganodes RPC](https://rpc.luganodes.com) - Self-serve JSON-RPC endpoints for Ethereum, Bitcoin and Tron mainnet on dedicated bare metal infrastructure with per-method compute-unit pricing and a free tier.
 - [Dwellir](https://www.dwellir.com) - Blockchain RPC and node provider for 150+ networks, with archive, trace and debug APIs on many EVM chains. Free plan with 20 RPS and 100,000 responses per day, and 1 response counts as 1 API credit.
+- [Thyme Gate](https://gate.thymelabs.io) - Keyless public JSON-RPC for Ethereum, Sepolia, Polygon PoS, Polygon Amoy, OP Mainnet and Unichain Sepolia, served from Thyme Labs' own archive nodes. 22 requests/s per IP; client IPs are never logged.
 
 ## Other
 
