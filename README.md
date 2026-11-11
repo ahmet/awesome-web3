@@ -187,6 +187,7 @@
 - [ethers.js](https://github.com/ethers-io/ethers.js/) - Complete Ethereum wallet implementation and utilities in JavaScript (and TypeScript).
 - [Formo SDK](https://github.com/getformo/sdk) - Analytics and attribution SDK for onchain apps.
 - [Hashgraph Online Standards SDK](https://github.com/hashgraph-online/standards-sdk) - TypeScript SDK for Hedera Consensus Service standards (HCS-1 through HCS-11), enabling decentralized file storage, NFT metadata, and recursive content on Hedera.
+- [Hyperliquid JavaScript SDK](https://siebly.io/sdk/hyperliquid/javascript) - MIT-licensed TypeScript/JavaScript SDK for the Hyperliquid REST and WebSocket APIs, with typed requests and responses ([GitHub](https://github.com/sieblyio/hyperliquid-api) · [npm](https://www.npmjs.com/package/@siebly/hyperliquid-api) · [Docs](https://sieblyio.github.io/docs/hyperliquid/)).
 - [ipfs-mini](https://github.com/silentcicero/ipfs-mini) - Super tiny module for querying an IPFS node, that works in the browser and in Node.
 - [js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript.
 - [Truffle](https://github.com/trufflesuite/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
