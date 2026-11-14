@@ -565,6 +565,7 @@
 - [SailOnChain](https://sailonchain.com) - Crypto & Web3 job board with 1,400+ positions, salary intelligence, and global remote roles from ~2,000 blockchain companies.
 - [Deep Blue Alpha](https://deepbluealpha.io) - Real-time Ethereum whale intelligence platform tracking 25,000+ wallets with DEX swap detection, sentiment scoring, and per-token flow analytics for 200+ ERC-20 tokens.
 - [QuantumPools](https://quantumpools.io) - Independent LP bookkeeping and metrics for original deposits, fees, impermanent loss, and cover value across Solana and EVM.
+- [ALPHA](https://alphapad.xyz) - Multi-chain token launchpad on ten chains; creators price each token in a coin, stablecoin, stock token or gold, and markets graduate to Uniswap v4 or Meteora DAMM v2 with locked liquidity.
 
 ## Contribute
 
