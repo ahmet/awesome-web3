@@ -551,6 +551,7 @@
 - [BitPolaris](https://bitpolaris.com/) - Self-hosted crypto infrastructure software: exchange, stablecoin payment gateway, wallet apps, multi-chain custody and proof of reserves.
 - [Luganodes RPC](https://rpc.luganodes.com) - Self-serve JSON-RPC endpoints for Ethereum, Bitcoin and Tron mainnet on dedicated bare metal infrastructure with per-method compute-unit pricing and a free tier.
 - [Dwellir](https://www.dwellir.com) - Blockchain RPC and node provider for 150+ networks, with archive, trace and debug APIs on many EVM chains. Free plan with 20 RPS and 100,000 responses per day, and 1 response counts as 1 API credit.
+- [Plaxswap](https://plaxswap.com/developers/payments) - Crypto payments API for accepting Bitcoin, USDT and other coins through a hosted checkout and payment links, with plugins for WooCommerce, WHMCS and XenForo.
 
 ## Other
 
