@@ -163,6 +163,7 @@
 - [Livepeer](https://livepeer.org/) - Livepeer is an Ethereum-based protocol that distributes video transcoding work throughout its decentralized network.
 - [Compound](https://compound.finance/) - Compound is algorithmic, autonomous interest rate protocol built for developers, to unlock universe of open financial applications.
 - [Euler](https://www.euler.finance/) - Euler is non-custodial protocol on Ethereum that allows users to lend and borrow almost any crypto asset.
+- [FlatEx](https://flatex.trade) - Flat-fee DEX aggregator on Base. Swaps route through 1inch with a fixed USD fee tier by trade size, capped at $29.99 instead of a percentage. ([GitHub](https://github.com/Flatexrate/flatex))
 - [Unitas](https://unitas.foundation/) - Unitas Protocol enables financial sovereignty by granting people the right to choose their units of account while transacting with each other.
 - [Sablier](https://sablier.finance/) - Sablier is money streaming protocol that aims to be used for streaming payments and achieve near real-time transactions.
 - [Ocean Protocol](https://oceanprotocol.com/) - Ocean protocol aims to allow businesses and individuals to exchange and monetize data and data-based services.
