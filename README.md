@@ -447,6 +447,7 @@
 - [Charity Billionaire](https://github.com/GoldenHomeProject/charitybillionaire) - No-loss prize draw on Base. USDC deposits stay withdrawable; each week the pool's Aave interest funds one prize picked by Chainlink VRF and a charity gift.
 - [provably-fair-verifier](https://github.com/cryptoplayguide/provably-fair-verifier) - Open-source browser verifier that recomputes HMAC-SHA256 seed outcomes for Dice, Limbo, Crash, Mines and Plinko provably fair games.
 - [Kiwi News](https://news.kiwistand.com) - Open-source Hacker News-style link aggregator for crypto and Ethereum, where submissions and upvotes are signed messages synced peer-to-peer between nodes.
+- [Wallet Watch CLI](https://github.com/devbox-zero-ops/wallet-watch-cli) - Zero-dependency Node.js CLI to monitor Ethereum, Base, Arbitrum, Polygon, BSC (ETH/ERC-20 USDC & USDT), and Solana wallet balances via public JSON-RPCs with webhook alerts. MIT.
 
 ## Tutorial
 
