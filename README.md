@@ -175,6 +175,7 @@
 - [MolTrust](https://moltrust.ch) - Trust infrastructure for AI agents. W3C DID identity verification, reputation scoring, Ed25519-signed Verifiable Credentials, and Base blockchain anchoring. ([SDK](https://github.com/MoltyCel/moltrust-sdk) · [PyPI](https://pypi.org/project/moltrust/) · [API Docs](https://api.moltrust.ch/docs))
 - [Ophis](https://ophis.fi) - Intent-based DEX aggregator (a CoW Protocol fork) for gasless, MEV-protected swaps across 11 chains, with an MCP server and SDK for AI agents. ([GitHub](https://github.com/ophis-fi/ophis) · [Docs](https://docs.ophis.fi))
 - [Papaya](https://papaya.finance/technology/protocol) - Non-custodial protocol for recurring stablecoin payments: per-second streaming and periodic subscriptions. ([SDK](https://github.com/Papaya-Finance/sdk) · [Docs](https://docs.papaya.finance))
+- [SODAX](https://sodax.com) - Intent-based cross-network execution layer for swaps, bridging, lending and leverage yield across 20+ networks, with a REST API, TypeScript SDK and MCP server for AI agents. ([SDK](https://github.com/gosodax/sodax-sdks) · [Docs](https://docs.sodax.com))
 
 ### JavaScript
 
