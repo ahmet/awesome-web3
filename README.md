@@ -204,6 +204,7 @@
 - [starknet.js](https://github.com/0xs34n/starknet.js) - JavaScript library to interact with Starknet.
 - [notify](https://github.com/blocknative/notify) - JavaScript library for real time notifications for Ethereum transaction state changes.
 - [Dynamic](https://www.dynamic.xyz/) - Web3 authentication platform and multi-chain wallet connection library.
+- [MARCO Connect](https://marco.melega.ai/build/docs) - JavaScript SDK for connecting applications to MARCO Passport and reading session identity state.
 - [sequence.js](https://github.com/0xsequence/sequence.js) - Sequence is modular web3 stack and smart wallet for Ethereum chains.
 - [attestate/crawler](https://github.com/attestate/crawler) - JavaScript library for retrieving on-chain storage and generating data derivatives.
 - [signature-validator](https://github.com/AmbireTech/signature-validator/) - TypeScript library that supports validation of any type of signature: account abstraction (ERC-1271, ERC-6492), standard EOA signatures, ERC-712.
