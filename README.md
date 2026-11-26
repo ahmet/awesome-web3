@@ -537,6 +537,7 @@
 - [Infura](https://infura.io)
 - [Moralis](https://moralis.io)
 - [QuickNode](https://www.quicknode.com)
+- [SolidRPC](https://solidrpc.io) - Managed EVM JSON-RPC with keyless access on selected networks and authenticated endpoints for historical state reads.
 - [Thirdweb](https://thirdweb.com)
 - [Kriptonio](https://kriptonio.com)
 - [Chainstack](https://chainstack.com/)
