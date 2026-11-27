@@ -391,6 +391,7 @@
 - [Bluwhale](https://www.bluwhale.com/developers) - Web3 intelligence layer for applications and AI agents, with documentation on knowledge graphs and user embeddings.
 - [ARKOSCOPE Verified Sources](https://github.com/arkoscope/awesome-crypto-verified-sources) - Dated crypto source registry with JSON, five-language pages and a local read-only MCP server.
 - [dRPC Agent Skills](https://github.com/drpcorg/drpc-agent-skills) - Read-only on-chain data for AI agents via DRPC's node network. Covers all major EVM networks and Solana. Free API key at drpc.org.
+- [GiftChecker MCP](https://giftcheckertg.com/mcp-docs) - Hosted no-key MCP server for Telegram collectible gift prices, trait floors, rarity, sales history, and TON market analytics.
 - [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) 🎖️ 📇 ☁️ 🏠 - Institutional-grade crypto market infrastructure for AI — live prices, DeFi, wallets, and token risk through a managed MCP, REST API, or CLI.
 - [Hashgraph Online (HOL)](https://github.com/hashgraph-online) - Universal agentic registry on Hedera providing blockchain-based identity for AI agents via HCS-14 Universal Agent IDs (UAIDs). Bridges A2A, ERC-8004, x402, and MCP protocols. 187K+ verified agents, 33M+ daily operations. Open-source SDKs: TypeScript, Go, Python.
 - [Pythia Oracle MCP](https://github.com/pythia-the-oracle/pythia-oracle-mcp) - On-chain calculated indicators (EMA, RSI, Bollinger, Volatility) for 22 tokens via Chainlink. MCP server + LangChain integration for AI agents to access DeFi data.
