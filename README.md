@@ -237,6 +237,7 @@
 
 ### C/C++
 
+- [feraterra-sdk](https://github.com/FeraTerra/feraterra-sdk) - Header-only C++23 64-byte HFT wire and ITCH client, zero-dependency Python 3 SDK, Base L2 Clearinghouse ABI, and 24-tool MCP gateway for non-custodial CLOB trading.
 - [libethc](https://github.com/mhw0/libethc) - Open-source Ethereum library in ANSI C.
 - [Trust Wallet Core](https://github.com/trustwallet/wallet-core) - Cross-platform, mobile-focused library implementing low-level cryptographic wallet functionality for a high number of blockchains.
 
