@@ -220,6 +220,7 @@
 - [DeFiMath](https://github.com/MerkleBlue/defimath) - Gas-optimized Solidity library for DeFi math: Black-Scholes option pricing, Greeks, interest rates, and statistics.
 - [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - The standard for secure blockchain applications.
 - [CREATE2 Deployer](https://github.com/pcaversaccio/create2deployer) - Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.
+- [Uniswap v4 Hook Verifier](https://github.com/a5768549/uniswap-v4-hook-verifier) - Zero-dependency EIP-1014 `CREATE2` salt verifier and 14-bit Uniswap v4 Hook permission decoder (with [offline web decoder](https://trxvanity.xyz/tools/uniswap-v4-hook-decoder)).
 - [Solady](https://github.com/Vectorized/solady) - Gas optimized Solidity Libraries.
 
 ### Go
