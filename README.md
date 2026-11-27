@@ -416,6 +416,7 @@
 - [XRPL.to MCP](https://xrpl.to/mcp) - Hosted MCP server for XRP Ledger data: token prices, holders, DEX and AMM trades, NFTs, accounts and scam checks. API key required.
 - [LogoAPI.sh](https://logoapi.sh/docs/mcp) - Hosted no-key MCP server for company logos by domain, plus a free URL API for crypto coin and exchange logos by symbol as SVG or PNG.
 - [Nansen](https://docs.nansen.ai/mcp/overview) - Onchain analytics for AI agents through a hosted MCP server with read-only data tools, a REST API with x402 pay-per-call, and a CLI with agent skills.
+- [ICARE Arena](https://www.icarehub.xyz/agents/en) - Hosted no-key MCP server for live streamer esports matches settled by an AI referee that reads the stream: open matches, outcomes, season standings and player tokens, plus actions an agent signs with its own wallet. Runs with test USDC today. [Source](https://github.com/Djangode/icare-mcp).
 
 ## Gas Tracker & Optimization
 
