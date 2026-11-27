@@ -384,6 +384,7 @@
 - [DeskCrew](https://deskcrew.io/.well-known/x402) - Customer support desk AI agents can operate and pay for per action over x402: search a help centre, draft a support reply, triage and resolve tickets, or open a bounty board. No account, no API key; USDC on Base, Solana, Polygon, Avalanche, Sei and Algorand. MCP and plain HTTP. [GitHub](https://github.com/webmilmind1/x402-bounty-hunter)
 - [Acurast Deploy Agent](https://docs.acurast.com/developers/tools/deploy-agent/) - HTTP API that deploys jobs or an SSH-reachable VPS on Acurast's phone-based compute network for a USDC payment on Base via x402, built for AI agents and backends without ACU accounts.
 - [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local CLI and stdio MCP payment runtime for AI agents on macOS, including x402 offer inspection and owner-controlled purchase preparation.
+- [VektorScan MCP](https://github.com/macmac08082002/vektorscan-mcp) - Multi-chain token security audit and honeypot detection MCP server (Solana, Base, Ethereum) backed by a live HTTP 402 (x402 v2) USDC API at https://api.ecosy.pro/docs and Open Agentic Web portal at https://labs.ecosy.pro/.
 
 ## AI & LLM & MCP
 
