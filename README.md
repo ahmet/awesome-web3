@@ -416,6 +416,7 @@
 - [XRPL.to MCP](https://xrpl.to/mcp) - Hosted MCP server for XRP Ledger data: token prices, holders, DEX and AMM trades, NFTs, accounts and scam checks. API key required.
 - [LogoAPI.sh](https://logoapi.sh/docs/mcp) - Hosted no-key MCP server for company logos by domain, plus a free URL API for crypto coin and exchange logos by symbol as SVG or PNG.
 - [Nansen](https://docs.nansen.ai/mcp/overview) - Onchain analytics for AI agents through a hosted MCP server with read-only data tools, a REST API with x402 pay-per-call, and a CLI with agent skills.
+- [Sjothr](https://sjothr.xyz/) - Hosted no-key MCP server for Sjothr on Base: startups raising USDC in rounds with token-holder votes on each capital release, a credit risk market where guarantors cover tranches of a lender's published loan portfolio, and resale of positions; returns unsigned transactions an agent signs itself. [Source](https://github.com/Djangode/sjothr-mcp).
 
 ## Gas Tracker & Optimization
 
