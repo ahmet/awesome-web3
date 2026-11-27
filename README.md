@@ -437,6 +437,7 @@
 - [Chainlink](https://github.com/smartcontractkit/chainlink) - Chainlink enhances the possibilities of smart contracts by allowing them to access real-world data.
 - [Solidity](https://github.com/ethereum/solidity) - Solidity is statically typed, contract-oriented, high-level language for implementing smart contracts on the Ethereum platform.
 - [Solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+- [Machine](https://github.com/yourmememachine/mememachine) - Solana-derived Layer 1 (Agave 2.3.13 fork) with LaunchGuard, a chain-native anti-rug launch standard, and a Solana bridge designed from published hack post-mortems.
 - [Neo](https://github.com/neo-project/neo) - Neo is blockchain platform that is open-source and community-driven.
 - [fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is enterprise-grade permissioned distributed ledger framework for developing solutions and applications.
 - [Vocdoni](https://github.com/vocdoni/vocdoni-node) - Decentralized voting protocol with an AGPL-3.0 Go implementation for verifiable organizational elections.
